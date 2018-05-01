@@ -1,0 +1,1524 @@
+url,fid,name,nick,birth_date,height,weight,association,class,locality,country
+/fighter/Ken-Shamrock-4,4,Ken Shamrock,The World's Most Dangerous Man,2/11/1964,73,212,Lion's Den,Heavyweight,"San Diego, California",United States
+/fighter/Carlos-Newton-7,7,Carlos Newton,The Ronin,8/17/1976,69,174,Warrior MMA Fight Team,Middleweight,"Newmarket, Ontario",Canada
+/fighter/Ricco-Rodriguez-8,8,Ricco Rodriguez,Suave,8/19/1977,76,214,American Fight Club,Heavyweight,"Staten Island, New York",United States
+/fighter/John-Marsh-9,9,John Marsh,The Bull,9/15/1970,72,222,Team Neutral Grounds,Heavyweight,"Torrance, California",United States
+/fighter/Ricardo-Almeida-11,11,Ricardo Almeida,Big Dog,11/29/1976,71,170,Renzo Gracie Jiu-Jitsu,Welterweight,"Bordentown, New Jersey",United States
+/fighter/Enson-Inoue-12,12,Enson Inoue,Yamato Damashi,4/15/1967,70,204,Purebred Omiya,Light Heavyweight,"Omiya, Saitama",Japan
+/fighter/Heath-Herring-13,13,Heath Herring,The Texas Crazy Horse,3/2/1978,76,250,Las Vegas Combat Club,Heavyweight,"Waco, Texas",United States
+/fighter/Guy-Mezger-14,14,Guy Mezger,The Sandman,1/1/1968,73,200,Lion's Den Dallas,Light Heavyweight,"Houston, Texas",United States
+/fighter/Gerard-Gordeau-15,15,Gerard Gordeau,,3/30/1955,77,216,Kamakura,Heavyweight,The Hague,Netherlands
+/fighter/Teila-Tuli-16,16,Teila Tuli,,6/14/1969,74,415,,Super Heavyweight,"Honolulu, Hawaii",United States
+/fighter/Kevin-Rosier-17,17,Kevin Rosier,,1/6/1962,76,265,,Heavyweight,"Tampa, Florida",United States
+/fighter/Zane-Frazier-18,18,Zane Frazier,Nasty,7/16/1966,78,230,,Heavyweight,"North Hollywood, California",United States
+/fighter/Royce-Gracie-19,19,Royce Gracie,,12/12/1966,72,176,Gracie Humaita,Middleweight,Rio de Janeiro,Brazil
+/fighter/Art-Jimmerson-20,20,Art Jimmerson,,8/4/1963,73,196,,Light Heavyweight,"St. Louis, Missouri",United States
+/fighter/Patrick-Smith-21,21,Patrick Smith,,7/16/1963,74,225,,Heavyweight,"Denver, Colorado",United States
+/fighter/Jason-DeLucia-22,22,Jason DeLucia,,7/24/1969,71,190,,Light Heavyweight,"Bellingham, Massachusets",United States
+/fighter/Trent-Jenkins-23,23,Trent Jenkins,,,74,185,,Middleweight,"Denver, Colorado",United States
+/fighter/Scott-Morris-24,24,Scott Morris,,,72,210,,Heavyweight,"Arlington, Texas",United States
+/fighter/Sean-Daugherty-25,25,Sean Daugherty,,12/4/1975,70,190,,Light Heavyweight,"Akron, Ohio",United States
+/fighter/Ray-Wizard-26,26,Ray Wizard,,,,,,N/A,"Los Angeles, California",United States
+/fighter/Johnny-Rhodes-27,27,Johnny Rhodes,,,72,210,,Heavyweight,"Las Vegas, Nevada",United States
+/fighter/David-Levicki-28,28,David Levicki,,,77,290,,Super Heavyweight,"Orem, Utah",United States
+/fighter/Frank-Hamaker-29,29,Frank Hamaker,,,74,245,,Heavyweight,Amsterdam,Netherlands
+/fighter/Thaddeus-Luster-30,30,Thaddeus Luster,,,75,200,,Light Heavyweight,"Van Nuys, California",United States
+/fighter/Orlando-Wiet-31,31,Orlando Wiet,The Gladiator,10/24/1965,70,170,Team Wiet,Welterweight,Nancy,France
+/fighter/Robert-Lucarelli-32,32,Robert Lucarelli,,,74,245,,Heavyweight,"Schenectady, New York",United States
+/fighter/Remco-Pardoel-33,33,Remco Pardoel,Grizzly,,74,250,Pardoel Sports,Heavyweight,Oss,Holland
+/fighter/Scott-Baker-34,34,Scott Baker,,,72,210,,Heavyweight,Utah,United States
+/fighter/Minoki-Ichihara-35,35,Minoki Ichihara,,,67,178,,Middleweight,Tokyo,Japan
+/fighter/Fred-Ettish-36,36,Fred Ettish,,10/12/1955,72,180,,Middleweight,"Bemiji, Minnesota",United States
+/fighter/Alberto-Cerra-Leon-37,37,Alberto Cerra Leon,,,68,231,,Heavyweight,Lemoa,Spain
+/fighter/Keith-Hackney-38,38,Keith Hackney,The Giant Killer,4/15/1958,71,200,,Light Heavyweight,"Addison, Illinois",United States
+/fighter/Emmanuel-Yarborough-39,39,Emmanuel Yarborough,Manny,9/5/1964,80,600,Freelance,Super Heavyweight,"Rahway, New Jersey",United States
+/fighter/Christophe-Leninger-40,40,Christophe Leninger,,7/16/1962,72,200,,Light Heavyweight,"Scottsdale, Arizona",United States
+/fighter/Harold-Howard-41,41,Harold Howard,,,74,240,,Heavyweight,"Niagara Falls, Ontario",Canada
+/fighter/Roland-Payne-42,42,Roland Payne,,7/16/1964,69,205,,Light Heavyweight,"Charlotte, North Carolina",United States
+/fighter/Kimo-Leopoldo-43,43,Kimo Leopoldo,,1/4/1968,75,235,Freelance,Heavyweight,"Huntington Beach, California",United States
+/fighter/Steve-Jennum-44,44,Steve Jennum,,,70,215,,Heavyweight,"Omaha, Nebraska",United States
+/fighter/Felix-Mitchell-45,45,Felix Mitchell,,,71,220,,Heavyweight,"Antioch, Tennessee",United States
+/fighter/Joe-Charles-46,46,Joe Charles,The Ghetto Man,7/16/1958,73,260,,Heavyweight,"Culver City, California",United States
+/fighter/Oleg-Taktarov-47,47,Oleg Taktarov,The Russian Bear,8/26/1967,72,210,Freelance,Heavyweight,Nizhny Novgorod,Russia
+/fighter/Jason-Fairn-48,48,Jason Fairn,Bonecracker,7/16/1973,73,230,Fairn Jiu-Jitsu,Heavyweight,"Vancouver, British Columbia",Canada
+/fighter/Ron-van-Clief-49,49,Ron van Clief,Black Dragon,,70,190,,Light Heavyweight,"Brooklyn, New York",United States
+/fighter/Joe-Son-50,50,Joe Son,,11/20/1970,64,236,,Heavyweight,"Huntington Beach, California",United States
+/fighter/Melton-Bowen-51,51,Melton Bowen,The Punisher,3/10/1969,72,225,,Heavyweight,"Irmo, South Carolina",United States
+/fighter/Dan-Severn-52,52,Dan Severn,The Beast,6/8/1958,74,253,The Beast Academy,Heavyweight,"Coldwater, Michigan",United States
+/fighter/Anthony-Macias-53,53,Anthony Macias,Mad Dog,7/16/1969,70,170,USA Stars,Welterweight,"Oklahoma City, Oklahoma",United States
+/fighter/Marcus-Bossett-54,54,Marcus Bossett,The Grasshopper,,73,220,,Heavyweight,"Los Angeles, California",United States
+/fighter/Eldo-Dias-Xavier-55,55,Eldo Dias Xavier,,7/16/1964,71,180,,Middleweight,,Brazil
+/fighter/Dave-Beneteau-56,56,Dave Beneteau,Dangerous,7/16/1968,74,250,,Heavyweight,"Windsor, Ontario",Canada
+/fighter/Asbel-Cancio-57,57,Mike McClain,,,,,,N/A,,
+/fighter/John-Dowdy-58,58,John Dowdy,,,,,,N/A,"Morganton, North Carolina",United States
+/fighter/Jon-Hess-59,59,Jon Hess,The Giant With Attitude,,79,295,Team Quest,Super Heavyweight,"Encinitas, California",United States
+/fighter/Andy-Anderson-60,60,Andy Anderson,The Hammer,7/16/1964,69,240,,Heavyweight,"Arlington, Texas",United States
+/fighter/Todd-Medina-61,61,Todd Medina,El Tiburon,4/30/1970,70,205,Carlson Gracie Jiu-Jitsu,Light Heavyweight,"Santa Ana, California",United States
+/fighter/Larry-Cureton-62,62,Larry Cureton,,,74,248,,Heavyweight,"Jersey City, New Jersey",United States
+/fighter/Ernie-Verdicia-63,63,Ernie Verdicia,,,70,219,,Heavyweight,"Miami, Florida",United States
+/fighter/Chris-Brennan-64,64,Chris Brennan,The Westside Strangler,10/12/1971,68,155,Next Generation,Lightweight,"Mission Viejo, California",United States
+/fighter/Joe-Stevenson-65,65,Joe Stevenson,Daddy,6/15/1982,67,155,Joe Stevenson's Cobra Kai,Lightweight,"Victorville, California",United States
+/fighter/Kit-Cope-67,67,Kit Cope,,3/17/1977,72,167,Twisted Genetiks,Welterweight,"Las Vegas, Nevada",United States
+/fighter/Mark-Kerr-71,71,Mark Kerr,The Smashing Machine,12/21/1968,75,255,Team Kerr,Heavyweight,"Phoenix, Arizona",United States
+/fighter/Travis-Fulton-80,80,Travis Fulton,The Ironman,5/29/1977,72,230,Team Peak Performance,Heavyweight,"Cedar Falls, Iowa",United States
+/fighter/David-Dodd-81,81,David Dodd,,,74,205,Arizona Combat Sports,Light Heavyweight,"Mesa, Arizona",United States
+/fighter/Gerry-Harris-83,83,Gerry Harris,,,80,313,,Super Heavyweight,,United States
+/fighter/Romie-Aram-85,85,Romie Aram,,,70,170,Millennia MMA,Welterweight,"Ontario, California",United States
+/fighter/Tiki-Ghosn-88,88,Tiki Ghosn,,2/9/1977,70,169,,Welterweight,"Huntington Beach, California",United States
+/fighter/Duane-Ludwig-101,101,Duane Ludwig,Bang,8/4/1978,70,170,Grudge Training Center,Welterweight,"Denver, Colorado",United States
+/fighter/Joel-Sutton-107,107,Joel Sutton,,,70,202,,Light Heavyweight,"Buffalo, New York",United States
+/fighter/HeMan-Ali-Gipson-109,109,He-Man Ali Gipson,,3/1/1973,,216,,Heavyweight,"Las Vegas, Nevada",United States
+/fighter/David-Abbott-110,110,David Abbott,Tank,4/26/1965,72,250,,Heavyweight,"Huntington Beach, California",United States
+/fighter/John-Matua-111,111,John Matua,,,74,400,,Super Heavyweight,"Garden Grove, California",United States
+/fighter/Paul-Varelans-112,112,Paul Varelans,The Polar Bear,9/17/1969,80,300,,Super Heavyweight,"Fairbanks, Alaska",United States
+/fighter/Cal-Worsham-113,113,Cal Worsham,,,70,230,Worsham Team X,Heavyweight,"Folsom, California",United States
+/fighter/Rudyard-Moncayo-114,114,Rudyard Moncayo,,,70,205,,Light Heavyweight,"Santa Ana, California",United States
+/fighter/Geza-Kalman-115,115,Geza Kalman,,,,,,N/A,,
+/fighter/Onassis-Parungao-116,116,Onassis Parungao,,,,,,N/A,,
+/fighter/Francesco-Maturi-117,117,Francesco Maturi,Fang,,75,235,,Heavyweight,"Moorehead, Minnesota",United States
+/fighter/Mark-Hall-118,118,Mark Hall,The Cobra,,72,190,,Light Heavyweight,"Murrieta, California",United States
+/fighter/Ryan-Parker-119,119,Ryan Parker,,,75,235,,Heavyweight,"Moorehead, Minnesota",United States
+/fighter/Marco-Ruas-120,120,Marco Ruas,The King of the Streets,1/23/1961,73,210,Ruas Vale Tudo,Heavyweight,Rio De Janeiro,Brazil
+/fighter/Scott-Bessac-121,121,Scott Bessac,,,76,259,,Heavyweight,"Lodi, California",United States
+/fighter/Sam-Adkins-122,122,Sam Adkins,The Experience,4/26/1965,75,225,,Heavyweight,"Houston, Texas",United States
+/fighter/Keith-Mielke-123,123,Keith Mielke,,,69,187,,N/A,"San Diego, California",United States
+/fighter/Don-Frye-124,124,Don Frye,The Predator,11/23/1965,73,210,Team Frye,Heavyweight,"Sierra Vista, Arizona",United States
+/fighter/Thomas-Ramirez-125,125,Thomas Ramirez,,,73,410,,Super Heavyweight,Bayamon,Puerto Rico
+/fighter/Joe-Moreira-126,126,Joe Moreira,,,,,,N/A,,
+/fighter/Jerry-Bohlander-127,127,Jerry Bohlander,,11/2/1974,71,199,Lion's Den,Light Heavyweight,"Napa, California",United States
+/fighter/Scott-Ferrozzo-128,128,Scott Ferrozzo,The Pit Bull,4/26/1965,71,323,,Super Heavyweight,"Shakopee, Minnesota",United States
+/fighter/Gary-Goodridge-129,129,Gary Goodridge,Big Daddy,1/17/1966,75,240,Big Daddy Fight Team,Heavyweight,"Barrie, Ontario",Canada
+/fighter/Paul-Herrera-130,130,Paul Herrera,,,,,Empire Training Center,N/A,,USA
+/fighter/Rafael-Carino-131,131,Rafael Carino,Earthquake,7/16/1973,80,245,Nova Uniao,Heavyweight,Rio De Janeiro,Brazil
+/fighter/Matt-Andersen-132,132,Matt Andersen,,,74,245,,Heavyweight,"Omaha, Nebraska",USA
+/fighter/Mark-Schultz-133,133,Mark Schultz,,10/26/1960,70,203,,Light Heavyweight,"Lindon, Utah",United States
+/fighter/Koji-Kitao-134,134,Koji Kitao,Mitsuharu,8/12/1963,79,390,New Japan Pro Wrestling,Super Heavyweight,"Tsu, Mie",Japan
+/fighter/Amaury-Bitetti-135,135,Amaury Bitetti,,,69,185,,Middleweight,Rio De Janeiro,Brazil
+/fighter/Mark-Coleman-136,136,Mark Coleman,The Hammer,12/20/1964,73,205,Hammer House,Light Heavyweight,"Columbus, Ohio",United States
+/fighter/Brian-Johnston-137,137,Brian Johnston,Fury,7/28/1968,76,222,American Kickboxing Academy,Heavyweight,"San Jose, California",United States
+/fighter/Scott-Fiedler-138,138,Scott Fiedler,,,76,235,,Heavyweight,"Pacific, Missouri",United States
+/fighter/Moti-Horenstein-139,139,Moti Horenstein,The Hammer,3/23/1964,73,205,Moti Horenstein MMA,Light Heavyweight,"Spring Valley, New York",United States
+/fighter/John-Campetella-140,140,John Campetella,,,69,235,,Heavyweight,"New York City, New York",USA
+/fighter/Sam-Fulton-141,141,Sam Fulton,,,74,250,,Heavyweight,"Athens, Alabama",United States
+/fighter/Roberto-Traven-142,142,Roberto Traven,Spider,9/16/1968,75,227,Alliance Team,Heavyweight,Rio de Janeiro,Brazil
+/fighter/Dave-Berry-143,143,Dave Berry,,,,,,N/A,,
+/fighter/Julian-Sanchez-144,144,Julian Sanchez,,,75,300,,Super Heavyweight,"San Antonio, Texas",United States
+/fighter/Reza-Nasri-145,145,Reza Nasri,,,71,205,,Light Heavyweight,Isfahan,"Iran, Islamic Republic of"
+/fighter/Fabio-Gurgel-146,146,Fabio Gurgel,,1/18/1970,72,205,Alliance,Light Heavyweight,Rio de Janeiro,Brazil
+/fighter/Steve-Nelmark-147,147,Steve Nelmark,The Sandman,,72,250,,Heavyweight,"Livonia, Michigan",USA
+/fighter/Nick-Sanzo-148,148,Nick Sanzo,,,69,190,,Light Heavyweight,"Niskayuna, New York",United States
+/fighter/Jackie-Lee-149,149,Jackie Lee,,,,,,N/A,,
+/fighter/Justin-Martin-150,150,Justin Martin,The Reaper,,72,205,,Light Heavyweight,"Dallas, Texas",United States
+/fighter/Eric-Martin-151,151,Eric Martin,,,,,,N/A,,
+/fighter/Rainy-Martinez-152,152,Rainy Martinez,,,72,195,,Light Heavyweight,"Tucson, Arizona",United States
+/fighter/Kazuo-Takahashi-153,153,Kazuo Takahashi,Yoshiki,3/13/1969,70,203,D-One Gym,Light Heavyweight,Chiba,Japan
+/fighter/Wallid-Ismail-154,154,Wallid Ismail,,2/22/1968,67,182,Brazil Dojo,Middleweight,Rio De Janeiro,Brazil
+/fighter/Jim-Mullen-155,155,Jim Mullen,,,73,215,,Heavyweight,"Simi Valley, California",United States
+/fighter/Vitor-Belfort-156,156,Vitor Belfort,The Phenom,4/1/1977,72,185,Blackzilians,Middleweight,Rio de Janeiro,Brazil
+/fighter/Tra-Telligman-157,157,Tra Telligman,Trauma,2/7/1965,74,233,Lion's Den,Heavyweight,"Dallas, Texas",United States
+/fighter/Tito-Ortiz-158,158,Tito Ortiz,The Huntington Beach Bad Boy,1/23/1975,74,205,Team Punishment,Light Heavyweight,"Huntington Beach, California",United States
+/fighter/Wes-Albritton-159,159,Wes Albritton,,,,,,N/A,,
+/fighter/Saeed-Hosseini-160,160,Saeed Hosseini,,,,,,N/A,,
+/fighter/Jack-Nilson-161,161,Jack Nilson,The Ripper,,,,,N/A,,
+/fighter/Kevin-Randleman-162,162,Kevin Randleman,The Monster,8/10/1971,70,205,Tapout Training Center,Light Heavyweight,"Columbus, Ohio",United States
+/fighter/Royce-Alger-163,163,Royce Alger,,,,,,N/A,,
+/fighter/Steven-Graham-164,164,Steven Graham,,,73,290,,Super Heavyweight,"Fayettsville, North Carolina",USA
+/fighter/Dmitri-Stepanov-165,165,Dmitri Stepanov,,,,,,N/A,,
+/fighter/Randy-Couture-166,166,Randy Couture,The Natural,6/22/1963,73,203,Xtreme Couture,Light Heavyweight,"Corvallis, Oregon",United States
+/fighter/Tony-Halme-167,167,Tony Halme,The Viking,,76,300,,Super Heavyweight,Helsinki,Finnland
+/fighter/Tony-Fryklund-168,168,Tony Fryklund,The Freak,3/26/1971,72,155,Militech Fighting Systems,Lightweight,"Boston, Massachusetts",United States
+/fighter/Donnie-Chappell-169,169,Donnie Chappell,,,,,,N/A,,
+/fighter/Alex-Hunter-170,170,Alex Hunter,,,69,226,,Heavyweight,"Tarpon Springs, Florida",USA
+/fighter/Yuri-Vaulin-171,171,Yuri Vaulin,,9/13/1963,76,207,,N/A,Riga,Latvia
+/fighter/Kevin-Jackson-172,172,Kevin Jackson,,,70,199,,Light Heavyweight,"Phoenix, Arizona",United States
+/fighter/Todd-Butler-173,173,Todd Butler,,,73,198,,Light Heavyweight,"Curwensville, Phildelphia",USA
+/fighter/Dan-Bobish-174,174,Dan Bobish,The Bull,1/26/1970,73,332,Strong Style Fight Team,Super Heavyweight,"Cleveland, Ohio",United States
+/fighter/Maurice-Smith-175,175,Maurice Smith,Mo,12/13/1961,74,206,The Alliance,Light Heavyweight,"Seattle, Washington",United States
+/fighter/Harry-Moskowitz-176,176,Harry Moskowitz,Dirty,7/16/1968,77,275,,Super Heavyweight,"Ocean Springs, Mississippi",United States
+/fighter/Dwayne-Cason-177,177,Dwayne Cason,,,70,212,,Heavyweight,"Fayettville, North Carolina",USA
+/fighter/Houston-Dorr-178,178,Houston Dorr,,,72,205,,Light Heavyweight,"Diamond Head, Mississippi",USA
+/fighter/Greg-Stott-179,179,Greg Stott,The Ranger,,67,240,,Heavyweight,"Sanford, North Carolina",USA
+/fighter/Carlos-Barreto-180,180,Carlos Barreto,Carlao,7/22/1968,76,230,,Heavyweight,Rio de Janeiro,Brazil
+/fighter/Brad-Kohler-181,181,Brad Kohler,,5/26/1964,69,220,,Heavyweight,"Bloomington, Minnesota",United States
+/fighter/Yoji-Anjo-182,182,Yoji Anjo,Mr. 200&#37;,12/31/1970,71,198,Team Kingdom,Light Heavyweight,"Suginami, Tokyo",Japan
+/fighter/LaVerne-Clark-184,184,LaVerne Clark,Fists of Fury,12/2/1973,71,185,Miletich Martial Arts,Middleweight,"Davenport, Iowa",United States
+/fighter/Josh-Stuart-185,185,Josh Stuart,,,69,159,,Welterweight,"Harvey, Louisiana",United States
+/fighter/Mikey-Burnett-186,186,Mikey Burnett,The Eastside Assassin,7/16/1974,66,170,Lion's Den,Welterweight,"Tulsa, Oklahoma",USA
+/fighter/Eugenio-Tadeu-187,187,Eugenio Tadeu,,,68,160,,Welterweight,Rio de Janeiro,Brazil
+/fighter/Pat-Miletich-188,188,Pat Miletich,The Croation Sensation,3/9/1968,70,169,Miletich Martial Arts,Welterweight,"Bettendorf, Iowa",United States
+/fighter/Townsend-Saunders-189,189,Townsend Saunders,,7/16/1968,65,170,,Welterweight,"White Sands, New Mexico",United States
+/fighter/Tsuyoshi-Kosaka-190,190,Tsuyoshi Kosaka,TK,3/6/1970,71,225,Alliance-Square,Heavyweight,"Kusatsu, Shiga",Japan
+/fighter/Igor-Zinoviev-191,191,Igor Zinoviev,Houdini,,73,195,,Light Heavyweight,St. Petersburg,Russia
+/fighter/Chuck-Liddell-192,192,Chuck Liddell,The Iceman,12/17/1969,74,205,The Pit,Light Heavyweight,"San Luis Obispo, California",United States
+/fighter/Noe-Hernandez-193,193,Noe Hernandez,,,,,,N/A,,
+/fighter/Andre-Roberts-194,194,Andre Roberts,The Chief,2/24/1965,74,345,,Super Heavyweight,"Tama, Iowa",United States
+/fighter/Dan-Henderson-195,195,Dan Henderson,Hendo,8/24/1970,73,185,Team Quest,Middleweight,"Temecula, California",United States
+/fighter/Allan-Goes-196,196,Allan Goes,,4/20/1971,72,205,Goes Martial Arts,Light Heavyweight,"Mission Viejo, California",United States
+/fighter/Bob-Gilstrap-197,197,Bob Gilstrap,,7/16/1974,75,210,,Heavyweight,"Seattle, Washington",United States
+/fighter/Mike-Van-Arsdale-198,198,Mike Van Arsdale,,6/20/1965,74,205,,Light Heavyweight,"San Jose, California",United States
+/fighter/Joe-Pardo-199,199,Joe Pardo,,,73,210,Gracie Jiu-Jitsu Academy,Heavyweight,"Torrance, California",USA
+/fighter/Hugo-Duarte-200,200,Hugo Duarte,,8/9/1968,72,240,Hugo Duarte Luta Livre,Heavyweight,Rio De Janeiro,Brazil
+/fighter/Pete-Williams-201,201,Pete Williams,El Duro,7/10/1975,75,225,Lion's Den,Heavyweight,"San Lorenzo, California",USA
+/fighter/Jeremy-Horn-202,202,Jeremy Horn,Gumby,8/25/1975,73,186,Elite Performance,Middleweight,"Cedar Rapids, Iowa",United States
+/fighter/Cesar-Marcussi-203,203,Cesar Marcussi,,,,155,Ryan Gracie Team,Lightweight,"Cascavel, Parana",Brazil
+/fighter/Paulo-Santos-204,204,Paulo Santos,,,,,,N/A,,
+/fighter/Tulio-Palhares-205,205,Tulio Palhares,,,70,180,,Middleweight,Sao Paulo,Brazil
+/fighter/Adriano-Santos-206,206,Adriano Santos,,,,,,N/A,,
+/fighter/Ebenezer-Fontes-Braga-207,207,Ebenezer Fontes Braga,Pitbull,4/14/1969,72,199,Gracie Barra Combat Team,Light Heavyweight,Rio de Janeiro,Brazil
+/fighter/Pedro-Rizzo-208,208,Pedro Rizzo,The Rock,5/3/1974,73,244,Ruas Vale Tudo,Heavyweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Wanderlei-Silva-209,209,Wanderlei Silva,The Axe Murderer,7/3/1976,70,185,Wand Fight Team,Middleweight,"Curitiba, Parana",Brazil
+/fighter/John-Lober-210,210,John Lober,The Machine,2/26/1968,71,182,Team Machine,Middleweight,"Huntington Beach, California",United States
+/fighter/Frank-Caracci-211,211,Frank Caracci,,2/16/1970,67,205,,Light Heavyweight,"New Orleans, Louisiana",United States
+/fighter/Evan-Tanner-212,212,Evan Tanner,,2/11/1971,72,185,,Middleweight,"Amarillo, Texas",United States
+/fighter/Darrell-Gholar-213,213,Darrell Gholar,,11/7/1962,68,198,,Light Heavyweight,"North Hollywood, California",United States
+/fighter/Bas-Rutten-214,214,Bas Rutten,El Guapo,2/24/1965,73,205,,Light Heavyweight,Eindhoven,Netherlands
+/fighter/Jason-Godsey-215,215,Jason Godsey,,1/1/1964,74,245,Integrated Fighting Academy,Heavyweight,"Indianapolis, Indiana",United States
+/fighter/Valeri-Ignatov-216,216,Valeri Ignatov,The X Factor,,69,191,Shamrock 2000,Light Heavyweight,Sofia,Bulgaria
+/fighter/Ron-Waterman-217,217,Ron Waterman,H2O,11/23/1965,74,260,Colorado Stars,Heavyweight,"Greeley, Colorado",United States
+/fighter/Fabiano-Iha-218,218,Fabiano Iha,,7/28/1970,68,155,,Lightweight,"Huntington Beach, California",United States
+/fighter/Marcelo-Mello-219,219,Marcelo Mello,,,,,,N/A,,
+/fighter/Dave-Roberts-220,220,Dave Roberts,,11/15/1979,73,203,,Light Heavyweight,"Jacksonville, Florida",United States
+/fighter/Tony-Petarra-221,221,Tony Petarra,,11/8/1966,71,196,Shark Tank,Light Heavyweight,"Santa Maria, California",United States
+/fighter/Eugene-Jackson-222,222,Eugene Jackson,The Wolf,12/31/1970,68,185,Gladiators Training Academy,Middleweight,"East Palo Alto, California",United States
+/fighter/Tim-Lajcik-223,223,Tim Lajcik,The Bohemian,6/21/1965,73,225,Gladiators Training Academy,Heavyweight,"Redwood, California",United States
+/fighter/Paul-Jones-224,224,Paul Jones,,,69,198,,Light Heavyweight,"Boys Ranch, Texas",United States
+/fighter/Flavio-Luiz-Moura-225,225,Flavio Luiz Moura,,1/26/1976,71,187,Gracie Fusion,N/A,Rio de Janiero,Brazil
+/fighter/Daiju-Takase-226,226,Daiju Takase,,4/20/1978,72,183,IamI,Middleweight,Tokyo,Japan
+/fighter/Andre-Pederneiras-227,227,Andre Pederneiras,Dede,3/22/1967,68,160,Nova Uniao,Welterweight,,Brazil
+/fighter/Jens-Pulver-228,228,Jens Pulver,Little Evil,12/6/1974,67,135,Team Extreme,Bantamweight,"Crystal Lake, Illinois",United States
+/fighter/Alfonso-Alcarez-229,229,Alfonso Alcarez,Alfie,6/10/1970,63,135,Nickwan Kick Gym,Bantamweight,"Las Vegas, Nevada",United States
+/fighter/John-Lewis-230,230,John Lewis,,7/16/1969,72,160,Lewis,Welterweight,"Las Vegas, Nevada",United States
+/fighter/Lowell-Anderson-231,231,Lowell Anderson,,,66,158,Gracie Jiu-Jitsu,Welterweight,"Fairfield, Idaho",United States
+/fighter/Matt-Hughes-232,232,Matt Hughes,,10/13/1973,69,170,HIT Squad,Welterweight,"Hillsboro, Illinois",United States
+/fighter/Steve-Judson-233,233,Steve Judson,,,73,220,,Heavyweight,"Phoenix, Arizona",United States
+/fighter/Kenichi-Yamamoto-236,236,Kenichi Yamamoto,,7/11/1976,71,185,Power of Dream,Middleweight,,Japan
+/fighter/Joe-Slick-238,238,Joe Slick,,10/17/1977,72,199,,Light Heavyweight,"Iowa City, Iowa",USA
+/fighter/Shonie-Carter-239,239,Shonie Carter,Mr. International,5/3/1972,69,176,Iron Academy,Middleweight,"Chicago, Illinois",United States
+/fighter/Brad-Gumm-240,240,Brad Gumm,,,71,170,Gumm Mixed Martial Arts,Welterweight,"Littleton, Colorado",United States
+/fighter/Scott-Adams-241,241,Scott Adams,,7/16/1974,72,225,The Pit,Heavyweight,"San Luis Obispo, California",
+/fighter/Ian-Freeman-242,242,Ian Freeman,The Machine,12/31/1970,71,205,Machine MMA,Light Heavyweight,"Sunderland, Tyne and Wear",England
+/fighter/David-Velasquez-243,243,David Velasquez,Little,,65,145,American Kickboxing Academy,Featherweight,"San Jose, California",United States
+/fighter/Bob-Cook-244,244,Bob Cook,Crazy Bob,,69,170,American Kickboxing Academy,Welterweight,"Fresno, California",United States
+/fighter/Dave-Menne-245,245,Dave Menne,The Warrior,7/29/1974,70,185,Menne Combat Academy,Middleweight,"Minneapolis, Minnesota",United States
+/fighter/Lance-Gibson-246,246,Lance Gibson,Fearless,11/20/1970,69,185,Gibson Kickboxing & Pankration,Middleweight,"Port Moody, British Columbia",Canada
+/fighter/Jermaine-Andre-247,247,Jermaine Andre,Bam Bam,7/16/1973,67,185,,Middleweight,"Collinville, Illinois",United States
+/fighter/Tedd-Williams-248,248,Tedd Williams,,12/19/1969,72,250,Williams Combat Grappling,Heavyweight,"Hesperia, California",United States
+/fighter/Koji-Oishi-249,249,Koji Oishi,,5/31/1977,68,145,PANCRASEism,Featherweight,Tokyo,Japan
+/fighter/Ikuhisa-Minowa-250,250,Ikuhisa Minowa,Minowaman,1/12/1976,69,185,Kuma Gym,Middleweight,"Nagoya, Aichi",Japan
+/fighter/Satoshi-Honma-251,251,Satoshi Honma,,5/19/1968,72,204,,Light Heavyweight,Niigata,Japan
+/fighter/Sanae-Kikuta-252,252,Sanae Kikuta,,9/10/1971,69,200,Grabaka,Light Heavyweight,Tokyo,Japan
+/fighter/Murilo-Bustamante-253,253,Murilo Bustamante,,7/30/1966,73,185,Brazilian Top Team,Middleweight,"Arpoador, Rio de Janeiro",Brazil
+/fighter/Adrian-Serrano-254,254,Adrian Serrano,,12/23/1963,68,175,Adrian Serrano Combat Sports Gym,Middleweight,"Milwaukee, Wisconsin",United States
+/fighter/Nate-Schroeder-255,255,Nate Schroeder,,,73,230,,Heavyweight,"Rock Island, Illinois",United States
+/fighter/Joao-Roque-256,256,Joao Roque,,7/22/1971,66,145,Nova Uniao,Featherweight,"Luanda, Luanda",Angola
+/fighter/Marcelo-Aguiar-257,257,Marcelo Aguiar,,,68,168,,Welterweight,,Brazil
+/fighter/Alex-Andrade-258,258,Alex Andrade,El Toro,5/14/1974,71,200,Lion's Den,Light Heavyweight,"Laredo, Texas",United States
+/fighter/John-Alessio-259,259,John Alessio,The Natural,7/5/1979,70,155,Xtreme Couture,Lightweight,"Vancouver, British Columbia",Canada
+/fighter/Tyrone-Roberts-260,260,Tyrone Roberts,Native Warrior,7/14/1972,69,213,,Heavyweight,"Tama, Iowa",United States
+/fighter/CJ-Fernandes-261,261,CJ Fernandes,,11/13/1977,72,170,HIT Squad,Welterweight,"Granite City, Illinois",USA
+/fighter/Jeff-Monson-262,262,Jeff Monson,The Snowman,1/18/1971,69,238,American Top Team,Heavyweight,"Miami, Florida",United States
+/fighter/Yuki-Kondo-263,263,Yuki Kondo,Sora,7/17/1975,71,170,PANCRASEism,Welterweight,"Nagaoka, Niigata",Japan
+/fighter/Alexandre-Dantas-264,264,Alexandre Dantas,Cafe,1/3/1979,74,238,Gracie Barra Combat Team,Heavyweight,Rio de Janeiro,Brazil
+/fighter/Bobby-Hoffman-265,265,Bobby Hoffman,The Truth,10/28/1966,74,245,Universal Grappling Academy,Heavyweight,"Bettendorf, Iowa",United States
+/fighter/Ben-Earwood-266,266,Ben Earwood,,,,169,Miletich Martial Arts,Welterweight,,
+/fighter/Chris-Lytle-267,267,Chris Lytle,Lights Out,8/18/1974,71,170,Integrated Fighting Academy,Welterweight,"Indianapolis, Indiana",United States
+/fighter/Mark-Hughes-268,268,Mark Hughes,,10/13/1973,68,185,Miletich Martial Arts,Middleweight,"Hillsborough, Illinois",USA
+/fighter/Alex-Stiebling-269,269,Alex Stiebling,The Brazilian Killa,12/26/1976,74,195,Integrated Fighting Academy,Light Heavyweight,"Indianapolis, Indiana",United States
+/fighter/Andrei-Arlovski-270,270,Andrei Arlovski,The Pit Bull,2/4/1979,76,241,Jackson-Wink MMA,Heavyweight,Minsk,Belarus
+/fighter/Aaron-Brink-271,271,Aaron Brink,,11/12/1974,75,203,,Light Heavyweight,"San Diego, California",United States
+/fighter/Josh-Barnett-272,272,Josh Barnett,The Warmaster,11/10/1977,75,248,CSW,Heavyweight,"Seattle, Washington",United States
+/fighter/Gan-McGee-273,273,Gan McGee,The Giant,11/20/1976,82,260,S.K.S. Fight Team,Heavyweight,"San Luis Obispo, California",United States
+/fighter/Renato-Sobral-274,274,Renato Sobral,Babalu,7/9/1975,72,205,Babalu's Iron Gym,Light Heavyweight,Rio de Janeiro,Brazil
+/fighter/Dennis-Hallman-275,275,Dennis Hallman,Superman,12/2/1975,69,181,Victory Athletics,Middleweight,"Yelm, Washington",United States
+/fighter/Matt-Lindland-276,276,Matt Lindland,The Law,5/17/1970,72,185,Team Quest,Middleweight,"Eagle Creek, Oregon",United States
+/fighter/Sean-Sherk-277,277,Sean Sherk,The Muscle Shark,8/5/1973,66,155,Minnesota Martial Arts Academy,Lightweight,"Minneapolis, Minnesota",United States
+/fighter/Phil-Baroni-278,278,Phil Baroni,New York Bad Ass,4/16/1976,69,170,American Kickboxing Academy,Welterweight,"Long Island, New York",United States
+/fighter/Curtis-Stout-279,279,Curtis Stout,,11/7/1973,73,185,,Middleweight,"Kansas City, Kansas",USA
+/fighter/Mark-Robinson-280,280,Mark Robinson,White Rhino,12/31/1970,72,300,Cal Cooper,Super Heavyweight,"Atlanta, Georgia",USA
+/fighter/Elvis-Sinosic-281,281,Elvis Sinosic,The King of Rock n Rumble,2/13/1971,75,199,Sinosic Perosh Martial Arts,Light Heavyweight,Sydney,Australia
+/fighter/Phil-Johns-282,282,Phil Johns,Little Giant,12/31/1970,62,160,Silverbacks Vale Tudo,Welterweight,"Canton, Illinois",United States
+/fighter/Caol-Uno-283,283,Caol Uno,,5/8/1975,67,145,Uno Dojo,Featherweight,"Yokosuka, Kanagawa",Japan
+/fighter/Frank-Shamrock-284,284,Frank Shamrock,,12/8/1972,70,185,The Alliance,Middleweight,"Santa Monica, California",United States
+/fighter/Courtney-Turner-285,285,Courtney Turner,,,74,175,,Middleweight,"Metairie, Louisiana",USA
+/fighter/Chris-Condo-287,287,Chris Condo,,,,,,N/A,,
+/fighter/Renzo-Gracie-290,290,Renzo Gracie,,3/11/1967,70,171,Renzo Gracie Jiu-Jitsu,Welterweight,Rio de Janeiro,Brazil
+/fighter/Vernon-White-296,296,Vernon White,Tiger,12/3/1971,72,205,Lion's Den,Light Heavyweight,"Palo Alto, California",United States
+/fighter/Frank-Trigg-311,311,Frank Trigg,Twinkle Toes,5/7/1972,68,181,Xtreme Couture,Middleweight,"Rochester, New York",United States
+/fighter/Gilbert-Yvel-323,323,Gilbert Yvel,The Hurricane,6/30/1976,74,206,Throwdown,Light Heavyweight,Amsterdam,Netherlands
+/fighter/Dean-Lister-338,338,Dean Lister,The Boogeyman,2/13/1976,73,185,Victory MMA,Middleweight,"San Diego, California",United States
+/fighter/Marvin-Eastman-339,339,Marvin Eastman,The Beastman,6/8/1971,69,207,J-Sect MMA,N/A,"Las Vegas, Nevada",United States
+/fighter/Floyd-Sword-340,340,Floyd Sword,,,71,185,Team Four Corners,Middleweight,"Farmington, New Mexico",United States
+/fighter/Yves-Edwards-344,344,Yves Edwards,Thugjitsu Master,9/30/1976,70,155,American Top Team,Lightweight,"Woodlands, Texas",United States
+/fighter/Paul-Buentello-347,347,Paul Buentello,The Headhunter,1/16/1974,75,205,Grudge Training Center,Light Heavyweight,"Amarillo, Texas",United States
+/fighter/Quinton-Jackson-348,348,Quinton Jackson,Rampage,6/20/1978,73,206,Wolfslair Academy,Light Heavyweight,"Memphis, Tennessee",United States
+/fighter/Kelly-Dullanty-354,354,Kelly Dullanty,Psycho,7/4/1977,68,155,,Lightweight,"San Jose, California",USA
+/fighter/Falaniko-Vitale-370,370,Falaniko Vitale,Niko,7/14/1974,70,185,808 Top Team,Middleweight,"Honolulu, Hawaii",United States
+/fighter/Joe-Doerksen-390,390,Joe Doerksen,El Dirte,9/10/1977,72,186,Canadian Fighting Centre,Middleweight,"Winnipeg, Manitoba",Canada
+/fighter/Rich-Franklin-392,392,Rich Franklin,Ace,10/5/1974,73,185,Team Extreme,Middleweight,"Cincinnati, Ohio",United States
+/fighter/Naoyuki-Kotani-393,393,Naoyuki Kotani,,12/8/1981,68,154,Rodeo Style,Lightweight,"Yokohama, Kanagawa",Japan
+/fighter/Kerry-Schall-397,397,Kerry Schall,Meat Truck,8/9/1971,74,265,Meat Truck Inc.,Heavyweight,"Cincinnati, Ohio",United States
+/fighter/Takanori-Gomi-425,425,Takanori Gomi,The Fireball Kid,9/22/1978,68,155,Kugayama Rascal,Lightweight,"Tokyo, Kato",Japan
+/fighter/Johnny-Eduardo-426,426,Johnny Eduardo,Pretinho,8/3/1980,67,135,Nova Uniao,Bantamweight,"Duque de Caxias, Rio de Janeiro",Brazil
+/fighter/Hayato-Sakurai-432,432,Hayato Sakurai,Mach,8/24/1975,67,168,Mach Dojo,Welterweight,Ibaraki,Japan
+/fighter/Vladimir-Matyushenko-435,435,Vladimir Matyushenko,The Janitor,1/4/1971,73,205,VMAT,Light Heavyweight,Retchisa,Belarus
+/fighter/Branden-Lee-Hinkle-437,437,Branden Lee Hinkle,The Iron Lion,7/29/1973,74,230,Hammer House,Heavyweight,"Jefferson, Ohio",United States
+/fighter/Jutaro-Nakao-438,438,Jutaro Nakao,,11/30/1970,69,170,Jutaro Nakao MMA School,Welterweight,Osaka,Japan
+/fighter/Alistair-Overeem-461,461,Alistair Overeem,The Demolition Man,5/17/1980,77,257,Jackson-Wink MMA,Heavyweight,Amsterdam,Netherlands
+/fighter/Semmy-Schilt-467,467,Semmy Schilt,Hightower,10/27/1973,83,256,Golden Glory,Heavyweight,"Zuidlaren, Drenthe",Holland
+/fighter/Phillip-Miller-482,482,Phillip Miller,,,71,182,Williams Combat Grappling,Middleweight,"Hesperia, California",United States
+/fighter/Tony-DeSouza-487,487,Tony DeSouza,The Peruvian Savage,7/26/1974,72,169,Millennia MMA,Welterweight,Cuzco,Peru
+/fighter/Jason-Lambert-495,495,Jason Lambert,The Punisher,9/23/1977,70,205,Alliance MMA,Light Heavyweight,"San Diego, California",United States
+/fighter/Jake-Shields-502,502,Jake Shields,,1/9/1979,72,170,Cesar Gracie Fight Team,Welterweight,"San Francisco, California",United States
+/fighter/Charlie-Valencia-503,503,Charlie Valencia,,10/31/1974,63,135,Millennia MMA,Bantamweight,"Los Angeles, California",United States
+/fighter/Javier-Vazquez-511,511,Javier Vazquez,Showtime,7/16/1977,67,145,Gracie Jiu-Jitsu,Featherweight,"Pomona, California",United States
+/fighter/Antonio-McKee-515,515,Antonio McKee,Mandingo,3/12/1970,68,155,Bodyshop Fitness Team,Lightweight,"Lakewood, California",United States
+/fighter/Ronald-Jhun-524,524,Ronald Jhun,Machine Gun,,71,170,808 Top Team,Welterweight,"Honolulu, Hawaii",United States
+/fighter/David-Terrell-536,536,David Terrell,The Soul Assassin,1/9/1978,72,185,Cesar Gracie Jiu-Jitsu,Middleweight,California,USA
+/fighter/Jason-Von-Flue-549,549,Jason Von Flue,Livewire,,72,170,,Welterweight,"San Luis Obsipo, California",United States
+/fighter/Bobby-Southworth-551,551,Bobby Southworth,,12/16/1969,73,228,American Kickboxing Academy,Heavyweight,"Santa Cruz, California",United States
+/fighter/Gil-Castillo-553,553,Gil Castillo,,10/21/1965,69,170,Cesar Gracie Fight Team,Welterweight,"Concord, California",United States
+/fighter/Sean-Pierson-573,573,Sean Pierson,The Punisher,3/10/1976,73,170,Tap Star,Welterweight,"Toronto, Ontario",Canada
+/fighter/Dave-Strasser-615,615,Dave Strasser,,7/13/1969,70,167,Freestyle Academy,Welterweight,"Kenosha, Wisconsin",United States
+/fighter/Ryan-Jensen-662,662,Ryan Jensen,,9/20/1977,70,175,Jackson-Wink MMA,Middleweight,"Omaha, Nebraska",United States
+/fighter/Edwin-Dewees-720,720,Edwin Dewees,Babyface,8/7/1982,73,205,Lions Den Scottsdale,Light Heavyweight,"Scottsdale, Arizona",United States
+/fighter/Drew-Fickett-725,725,Drew Fickett,Night Rider,12/24/1979,70,151,Team Scrub,Lightweight,"Tucson, Arizona",United States
+/fighter/Jeff-Curran-770,770,Jeff Curran,Big Frog,9/2/1977,66,135,Team Curran,Bantamweight,"Crystal Lake, Illinois",United States
+/fighter/Homer-Moore-853,853,Homer Moore,Rock,11/12/1971,70,205,,Light Heavyweight,"Phoenix, Arizona",United States
+/fighter/Jack-McLaughlin-885,885,Jack McLaughlin,,10/1/1961,70,218,,Heavyweight,"Piqua, Ohio",United States
+/fighter/Brian-Gassaway-886,886,Brian Gassaway,Mandingo,8/7/1972,72,171,,Welterweight,"Chicago, Illinois",United States
+/fighter/Steve-Vigneault-900,900,Steve Vigneault,Lion Heart,,70,169,Tristar Gym,Welterweight,"Iles de la Madeleine, Quebec",Canada
+/fighter/David-Loiseau-903,903,David Loiseau,The Crow,12/17/1979,72,192,Tristar Gym,Light Heavyweight,"Montreal, Quebec",Canada
+/fighter/Justin-McCully-930,930,Justin McCully,The Insane One,2/18/1976,74,235,Team Punishment,Heavyweight,"Orange, California",United States
+/fighter/Denis-Kang-935,935,Denis Kang,,9/17/1977,71,185,American Top Team,Middleweight,"Vancouver, British Columbia",Canada
+/fighter/Kris-Rotharmel-949,949,Kris Rotharmel,,,72,205,,Light Heavyweight,"Metairie, Louisiana",USA
+/fighter/Ivan-Menjivar-993,993,Ivan Menjivar,Pride of El Salvador,5/30/1982,66,135,Tristar Gym,Bantamweight,La Paz,El Salvador
+/fighter/Jorge-Patino-1015,1015,Jorge Patino,Macaco,5/8/1973,68,155,Macaco Gold Team,Lightweight,"Houston, Texas",United States
+/fighter/Jason-Black-1042,1042,Jason Black,The Black Legion,8/15/1972,70,169,Miletich Martial Arts,Welterweight,"Davenport, Illinois",United States
+/fighter/Rich-Clementi-1046,1046,Rich Clementi,No Love,3/31/1976,69,155,Team Voodoo,Lightweight,"Slidell, Lousiana",United States
+/fighter/Tim-Sylvia-1061,1061,Tim Sylvia,The Maine-iac,3/5/1974,80,265,Team Extreme,Heavyweight,"Bettendorf, Iowa",United States
+/fighter/Dokonjonosuke-Mishima-1170,1170,Dokonjonosuke Mishima,,4/19/1972,67,154,Cobra Kai MMA Dojo,Lightweight,,Japan
+/fighter/Akihiro-Gono-1217,1217,Akihiro Gono,,10/7/1974,69,155,OxyGym Fight Team,Lightweight,"Higashikurume, Tokyo",Japan
+/fighter/Genki-Sudo-1227,1227,Genki Sudo,Neo-Samurai,3/8/1978,69,155,Beverly Hills Jiu-Jitsu Club,Lightweight,Tokyo,Japan
+/fighter/Yuki-Sasaki-1255,1255,Yuki Sasaki,,9/12/1976,72,180,Grabaka,Middleweight,Tokyo,Japan
+/fighter/Din-Thomas-1301,1301,Din Thomas,Dinyero,9/28/1976,69,143,American Top Team,Featherweight,"Orlando, Florida",United States
+/fighter/Steve-Berger-1303,1303,Steve Berger,The Red Nose Pitbull,5/20/1973,70,170,Berger MMA,Welterweight,"St. Louis, Missouri",United States
+/fighter/Matt-Serra-1305,1305,Matt Serra,The Terror,6/2/1974,66,170,Serra-Longo Fight Team,Welterweight,"Long Island, New York",United States
+/fighter/Joey-Gilbert-1306,1306,Joey Gilbert,,4/14/1970,65,154,Gilbert Grappling,Lightweight,"Chicago, Illinois",United States
+/fighter/BJ-Penn-1307,1307,B.J. Penn,The Prodigy,12/13/1978,69,145,BJ Penn's MMA,Featherweight,"Hilo, Hawaii",United States
+/fighter/Tatsuya-Kawajiri-1326,1326,Tatsuya Kawajiri,Crusher,5/8/1978,67,145,T-Blood,Featherweight,"Inashiki, Ibaraki",Japan
+/fighter/Andy-Wang-1331,1331,Andy Wang,,5/28/1977,66,155,Grappling Unlimited,Lightweight,"Los Angeles, California",United States
+/fighter/Paul-Rodriguez-1332,1332,Paul Rodriguez,,5/18/1975,68,155,American Top Team Orlando,Lightweight,"Orlando, Florida",United States
+/fighter/Yasuhiro-Urushitani-1349,1349,Yasuhiro Urushitani,,9/8/1976,65,125,Tribe Tokyo MMA,Flyweight,Tokyo,Japan
+/fighter/Ivan-Salaverry-1351,1351,Ivan Salaverry,,1/11/1971,72,185,Ivan Salaverry MMA,Middleweight,"Seattle, Washington",United States
+/fighter/Norifumi-Yamamoto-1354,1354,Norifumi Yamamoto,Kid,3/15/1977,64,135,Krazy Bee,Bantamweight,"Tokyo, Kato",Japan
+/fighter/Anderson-Silva-1356,1356,Anderson Silva,The Spider,4/14/1975,74,185,Team Nogueira,Middleweight,"Curitiba, Parana",Brazil
+/fighter/Alexandre-Ferreira-1398,1398,Alexandre Ferreira,Cacareco,4/25/1979,67,204,Chute Boxe,Light Heavyweight,Rio de Janeiro,Brazil
+/fighter/Alexandre-Barros-1424,1424,Alexandre Barros,Baixinho,,68,170,Carlson Gracie Team,Welterweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Antonio-Rodrigo-Nogueira-1440,1440,Antonio Rodrigo Nogueira,Minotauro,6/2/1976,75,240,Team Nogueira,Heavyweight,"Vitoria da Conquista, Bahia",Brazil
+/fighter/Chris-Haseman-1449,1449,Chris Haseman,The Hammer,6/2/1969,71,198,Rings Australia,Light Heavyweight,,Australia
+/fighter/Antoni-Hardonk-1518,1518,Antoni Hardonk,,2/5/1976,76,240,Dynamix MMA,Heavyweight,Weesp,Holland
+/fighter/Rich-Crunkilton-1542,1542,Rich Crunkilton,Cleat,11/25/1979,67,155,American Kickboxing Academy,Lightweight,"Fort Lauderdale, Florida",United States
+/fighter/Rodrigo-Ruas-1562,1562,Rodrigo Ruas,,,,185,Ruas Vale Tudo,Middleweight,,Brazil
+/fighter/Aaron-Riley-1567,1567,Aaron Riley,,12/9/1980,69,155,Jackson-Wink MMA,Lightweight,"Tell City, Indiana",United States
+/fighter/Assuerio-Silva-1587,1587,Assuerio Silva,,6/18/1974,73,235,,Heavyweight,"Curitiba, Parana",Brazil
+/fighter/Joey-Roberts-1629,1629,Joey Roberts,,11/11/1977,74,200,Memphis Bad Boyz,Light Heavyweight,,
+/fighter/Lee-Murray-1659,1659,Lee Murray,Lightning,11/12/1977,72,185,London Shootfighters,Middleweight,London,England
+/fighter/Yves-Jabouin-1693,1693,Yves Jabouin,Tiger,5/30/1979,66,135,Tristar Gym,Bantamweight,"Montreal, Quebec",Canada
+/fighter/Nate-Marquardt-1712,1712,Nate Marquardt,The Great,4/20/1979,72,185,High Altitude Martial Arts,Middleweight,"Aurora, Colorado",United States
+/fighter/David-Hood-1720,1720,David Hood,,,72,189,,Light Heavyweight,"Lowell, Massachusetts",United States
+/fighter/James-Zikic-1767,1767,James Zikic,The Messenger,3/31/1977,74,185,London Shootfighters,Middleweight,"Watford, Hertfordshire",England
+/fighter/Tim-Credeur-1804,1804,Tim Credeur,Crazy,7/9/1977,75,185,Gladiators Academy,Middleweight,"Lafayette, Louisiana",United States
+/fighter/Ryo-Chonan-1831,1831,Ryo Chonan,Piranha,10/8/1976,69,169,Tribe Tokyo MMA,Welterweight,,Japan
+/fighter/Andrei-Semenov-1870,1870,Andrei Semenov,White Shark,6/17/1977,72,185,,Middleweight,St. Petersburg,Russia
+/fighter/Anthony-Torres-1884,1884,Anthony Torres,The Crush,,70,171,MMA Development,Welterweight,"Kailua, Hawaii",United States
+/fighter/Justin-James-1926,1926,Justin James,Pretty Boy,,70,155,,Lightweight,Nebraska,USA
+/fighter/Jason-Brilz-1927,1927,Jason Brilz,The Hitman,7/7/1975,71,205,Elite Performance,Light Heavyweight,"Omaha, Nebraska",United States
+/fighter/Mario-Neto-1950,1950,Mario Neto,Sukata,,72,229,Mario Sukata Team,Heavyweight,"Joao Pessoa, Paraiba",Brazil
+/fighter/Sean-Alvarez-1964,1964,Sean Alvarez,,7/14/1971,72,235,Renzo Gracie Jiu-Jitsu,Heavyweight,New York,USA
+/fighter/Amar-Suloev-1995,1995,Amar Suloev,,7/1/1976,69,185,Red Devil Sport Club,Middleweight,Kalinin City,Armenia
+/fighter/Dieuseul-Berto-2007,2007,Dieuseul Berto,Tiger,7/16/1960,69,200,Tiger's World of Martial Arts,Light Heavyweight,"Winter Haven, Florida",United States
+/fighter/Alexey-Oleinik-2027,2027,Alexey Oleinik,The Boa Constrictor,6/25/1977,73,240,K Dojo Warrior Tribe,Heavyweight,Moscow,Russia
+/fighter/Keith-Rockel-2093,2093,Keith Rockel,,8/28/1965,72,185,Team Elite,Middleweight,"Amherst, Massachusettes",United States
+/fighter/Keith-Wisniewski-2095,2095,Keith Wisniewski,The Polish Connection,10/25/1981,71,170,Duneland Vale Tudo,Welterweight,"Portage, Indiana",United States
+/fighter/Cyrille-Diabate-2191,2191,Cyrille Diabate,Snake,6/10/1973,78,205,Snake Team,Light Heavyweight,"Le Celle St. Clous, Haut de Seine",France
+/fighter/Cheick-Kongo-2193,2193,Cheick Kongo,,5/17/1975,76,234,Kongo Smashin' Club,Heavyweight,Paris,France
+/fighter/James-Lee-2224,2224,James Lee,,9/22/1973,71,205,Mash Fight Team,Light Heavyweight,"Sylvan Lake, Michigan",United States
+/fighter/Eiji-Mitsuoka-2235,2235,Eiji Mitsuoka,The Heaven-Sent Child of the Cage,1/1/1976,67,145,Wajyutsu Keisyukai RJW,Featherweight,"Handa, Aichi",Japan
+/fighter/Robbie-Lawler-2245,2245,Robbie Lawler,Ruthless,3/20/1982,71,170,American Top Team,Welterweight,"Granite City, Illinois",United States
+/fighter/Ben-Rothwell-2262,2262,Ben Rothwell,,10/17/1981,76,263,Rothwell MMA,Heavyweight,"Kenosha, Wisconsin",United States
+/fighter/Antonio-Rogerio-Nogueira-2270,2270,Antonio Rogerio Nogueira,Minotouro,6/2/1976,74,205,Team Nogueira,Light Heavyweight,"Vitoria da Conquista, Bahia",Brazil
+/fighter/Ron-Faircloth-2290,2290,Ron Faircloth,,,69,205,Dungeon MMA,Light Heavyweight,"Stoughton, Wisconsin",United States
+/fighter/Cole-Escovedo-2291,2291,Cole Escovedo,Apache Kid,8/30/1981,67,135,Pacific Martial Arts,Bantamweight,"Fresno, California",United States
+/fighter/Benji-Radach-2294,2294,Benji Radach,The Razor,4/5/1979,70,185,Reign MMA,Middleweight,"Castlerock, Washington",United States
+/fighter/Nick-Agallar-2295,2295,Nick Agallar,,1/13/1979,,155,Agallar Combative Systems,Lightweight,"Racine, Wisconsin",United States
+/fighter/Wade-Shipp-2304,2304,Wade Shipp,Nightmare,,75,240,Alliance MMA,Heavyweight,"San Diego, California",United States
+/fighter/Mirko-Filipovic-2326,2326,Mirko Filipovic,Cro Cop,9/10/1974,74,227,Cro Cop Squad Gym,Heavyweight,Zagreb,Croatia
+/fighter/Gerald-Strebendt-2327,2327,Gerald Strebendt,The Finishing Machine,3/1/1979,69,155,10th Planet Jiu-Jitsu,Lightweight,"Los Angeles, California",United States
+/fighter/Frank-Mir-2329,2329,Frank Mir,,5/24/1979,75,262,Las Vegas Combat Club,Heavyweight,"Las Vegas, Nevada",United States
+/fighter/Jason-Reinhardt-2347,2347,Jason Reinhardt,,10/31/1969,66,135,Wand Fight Team,Bantamweight,"Decatur, Illinois",United States
+/fighter/Houston-Alexander-2352,2352,Houston Alexander,The Assassin,3/22/1972,72,203,Grudge Training Center,Light Heavyweight,"Omaha, Nebraska",United States
+/fighter/Nate-Quarry-2383,2383,Nate Quarry,Rock,3/18/1972,72,185,Team Quest,Middleweight,"Gresham, Oregon",United States
+/fighter/Drew-McFedries-2386,2386,Drew McFedries,The Massacre,7/27/1978,72,185,Champions Gym,Middleweight,"Bettendorf, Iowa",United States
+/fighter/Josh-Thomson-2394,2394,Josh Thomson,The Punk,9/21/1978,70,153,American Kickboxing Academy,Lightweight,"San Jose, California",United States
+/fighter/Fabricio-Camoes-2427,2427,Fabricio Camoes,Morango,12/23/1978,69,155,Gracie Humaita,Lightweight,Rio de Janeiro,Brazil
+/fighter/Joao-Marcos-Pierini-2490,2490,Joao Marcos Pierini,,12/11/1971,73,170,Team JM,Welterweight,"Playa del Carmen, Quintana Roo",Mexico
+/fighter/Kuniyoshi-Hironaka-2575,2575,Kuniyoshi Hironaka,,6/17/1976,70,153,Master Japan,Lightweight,Yamaguchi,Japan
+/fighter/Scott-Smith-2578,2578,Scott Smith,Hands of Steel,5/21/1979,72,185,Capital City Fighting Alliance,Middleweight,"Elk Grove, California",United States
+/fighter/Antonio-Banuelos-2580,2580,Antonio Banuelos,,9/23/1979,63,125,The Pit,Flyweight,"San Luis Obispo, California",United States
+/fighter/Keith-Jardine-2638,2638,Keith Jardine,The Dean of Mean,10/31/1975,74,185,Jackson-Wink MMA,Middleweight,"Albuquerque, New Mexico",United States
+/fighter/Dan-Christison-2646,2646,Dan Christison,The Sandman,4/26/1972,80,270,Jackson-Wink MMA,Super Heavyweight,"Albuquerque, New Mexico",United States
+/fighter/Jeremy-Jackson-2651,2651,Jeremy Jackson,The Scorpion,9/19/1982,70,170,Team Freedom,Welterweight,"Port Hueneme, California",United States
+/fighter/Chris-Sanford-2656,2656,Chris Sanford,,,71,185,Cesar Gracie Jiu-Jitsu,Middleweight,"San Francisco, California",United States
+/fighter/Josh-Rafferty-2682,2682,Josh Rafferty,,,72,169,Meat Truck Inc.,Welterweight,"Cincinnati, Ohio",United States
+/fighter/Jonathan-Wiezorek-2688,2688,Jonathan Wiezorek,Lock and Load,,75,250,Valdosta Martial Arts Academy,Heavyweight,"Valdosta, Georgia",United States
+/fighter/Jorge-Rivera-2712,2712,Jorge Rivera,El Conquistador,2/28/1972,73,185,Rivera Athletic Center,Middleweight,"Milford, Massachusetts",United States
+/fighter/Wes-Sims-2713,2713,Wes Sims,A Whole Show,10/12/1979,81,258,Hammer House,Heavyweight,"Lancaster, Ohio",United States
+/fighter/Seth-Petruzelli-2738,2738,Seth Petruzelli,The Silverback,12/3/1979,72,205,The Jungle MMA,Light Heavyweight,"Fort Myers, Florida",United States
+/fighter/Joe-Riggs-2765,2765,Joe Riggs,Diesel,9/23/1982,72,170,MMA Lab,Welterweight,"Phoenix, Arizona",United States
+/fighter/Leonard-Garcia-2815,2815,Leonard Garcia,Bad Boy,7/14/1979,69,145,Jackson-Wink MMA,Featherweight,"Plainview, Texas",United States
+/fighter/Eddie-Yagin-2825,2825,Eddie Yagin,The Filipino Phenom,3/23/1979,66,145,Kong Submission Academy,Featherweight,"Honolulu, Hawaii",United States
+/fighter/Wesley-Correira-2829,2829,Wesley Correira,Cabbage,,75,260,Cabbage MMA,Heavyweight,"Hilo, Hawaii",United States
+/fighter/Tim-Kennedy-2830,2830,Tim Kennedy,,9/1/1979,71,185,Jackson-Wink MMA,Middleweight,"Fort Bragg, North Carolina",United States
+/fighter/Nick-Diaz-2831,2831,Nick Diaz,,8/2/1983,73,170,Cesar Gracie Fight Team,Welterweight,"Stockton, California",United States
+/fighter/David-Baron-2860,2860,David Baron,K-Rod,,71,145,Pellegrino MMA,Featherweight,"Bricktown, New Jersey",United States
+/fighter/John-Olav-Einemo-2873,2873,John Olav Einemo,The Viking,12/10/1975,78,251,Golden Glory,Heavyweight,"Oslo, Oslo",Norway
+/fighter/Roan-Carneiro-2886,2886,Roan Carneiro,Jucao,6/2/1978,71,170,American Top Team Atlanta,Welterweight,Rio de Janeiro,Brazil
+/fighter/Brad-Blackburn-2920,2920,Brad Blackburn,Bad,5/25/1977,70,169,Victory Athletics,Welterweight,"Seattle, Washington",United States
+/fighter/Miguel-Torres-3006,3006,Miguel Torres,,1/18/1981,69,145,Tristar Gym,Featherweight,"East Chicago, Indiana",United States
+/fighter/Stephan-Bonnar-3014,3014,Stephan Bonnar,The American Psycho,4/4/1977,75,205,One Kick's Gym,Light Heavyweight,"Hammond, Indiana",United States
+/fighter/Brian-Ebersole-3015,3015,Brian Ebersole,Bad Boy,11/27/1980,72,170,Tiger Muay Thai,Welterweight,"Bradley, Illinois",United States
+/fighter/Hermes-Franca-3068,3068,Hermes Franca,,8/27/1974,66,155,Team Hermes Franca,Lightweight,"Fortaleza, Ceara",Brazil
+/fighter/Mike-Thomas-Brown-3069,3069,Mike Thomas Brown,,9/8/1975,66,145,American Top Team,Featherweight,"Portland, Maine",United States
+/fighter/Wilson-Gouveia-3070,3070,Wilson Gouveia,,10/3/1978,74,219,American Top Team,Heavyweight,"Coral Pass, Florida",United States
+/fighter/Leigh-Remedios-3071,3071,Leigh Remedios,Bulldog,1/13/1976,67,145,Team Quannum,Featherweight,Hudderfield,England
+/fighter/Tim-McKenzie-3089,3089,Tim McKenzie,The Wrecking Machine,,71,174,,Middleweight,"Stockton, California",United States
+/fighter/Sam-Morgan-3139,3139,Sam Morgan,The Squeeze,9/28/1981,70,165,Team Bison,Welterweight,"Minneapolis, Minnesota",USA
+/fighter/Pete-Spratt-3195,3195,Pete Spratt,The Secret Weapon,1/9/1971,69,170,Team Spratt,Welterweight,"San Antonio, Texas",United States
+/fighter/Luis-Ramos-3217,3217,Luis Ramos,Beicao,1/18/1981,68,170,Nova Uniao,Welterweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Nick-Serra-3225,3225,Nick Serra,The Mad Monkey,,,,Serra-Longo Fight Team,N/A,New York,USA
+/fighter/Jeff-Newton-3263,3263,Jeff Newton,,,74,204,Todd Medina Freestyle Team,Light Heavyweight,"Costa Mesa, California",United States
+/fighter/Eddie-Ruiz-3265,3265,Eddie Ruiz,,,67,155,,Lightweight,,USA
+/fighter/Christian-Wellisch-3328,3328,Christian Wellisch,,,74,234,American Kickboxing Academy,Heavyweight,"Los Angeles, California",United States
+/fighter/Kristof-Midoux-3363,3363,Kristof Midoux,The French Hurricane,,73,220,Boxing Squad,Heavyweight,Nice,France
+/fighter/Jess-Liaudin-3368,3368,Jess Liaudin,Joker,,69,170,Pancrase London,Welterweight,,France
+/fighter/Mac-Danzig-3396,3396,Mac Danzig,,1/2/1980,68,155,PKG,Lightweight,"Los Angeles, California",United States
+/fighter/Bart-Palaszewski-3496,3496,Bart Palaszewski,Bartimus,5/30/1983,69,145,Team Curran,Featherweight,"Crystal Lake, Illinois",United States
+/fighter/Georges-St.-Pierre-3500,3500,Georges St. Pierre,Rush,5/19/1981,70,170,Tristar Gym,Welterweight,"St. Isidore, Quebec",Canada
+/fighter/Michael-Patt-3506,3506,Michael Patt,,,72,205,Meat Truck Inc.,Light Heavyweight,"Dayton, Ohio",United States
+/fighter/Rory-Singer-3525,3525,Rory Singer,Outburst,5/28/1976,74,185,Hardcore Gym,Middleweight,"Athens, Georgia",United States
+/fighter/Forrest-Griffin-3526,3526,Forrest Griffin,,7/1/1979,75,205,Xtreme Couture,Light Heavyweight,"Athens, Georgia",United States
+/fighter/Cristiano-Marcello-3530,3530,Cristiano Marcello,,12/3/1977,70,155,CM System,Lightweight,"Curitiba, Parana",Brazil
+/fighter/Mark-Weir-3599,3599,Mark Weir,The Wizard,9/19/1967,74,185,Range,Middleweight,"Gloucester, Gloucestershire",England
+/fighter/Mike-Kyle-3619,3619,Mike Kyle,MAK,3/31/1980,75,205,American Kickboxing Academy,Light Heavyweight,"San Jose, California",United States
+/fighter/Travis-Wiuff-3660,3660,Travis Wiuff,Diesel,3/15/1978,75,259,Elite Performance,Heavyweight,"Rochester, Minnesota",United States
+/fighter/Roli-Delgado-3669,3669,Roli Delgado,The Crazy Cuban,11/22/1981,75,145,Westside Fight Team,Featherweight,"San Diego, California",United States
+/fighter/Per-Eklund-3707,3707,Per Eklund,,11/12/1980,70,145,Hilti NHB,Featherweight,Stockholm,Sweden
+/fighter/David-Bielkheden-3863,3863,David Bielkheden,,6/6/1979,70,170,Brazilian Top Team,Welterweight,Stockholm,Sweden
+/fighter/Zach-Light-3919,3919,Zach Light,The Lisbon Outlaw,2/6/1974,68,170,Wolfslair,Welterweight,"Huntington Beach, California",United States
+/fighter/Tom-Blackledge-3953,3953,Tom Blackledge,,,72,205,Wolfslair Academy,Light Heavyweight,"Wigan, Greater Manchester",England
+/fighter/Alex-Schoenauer-4000,4000,Alex Schoenauer,,5/5/1976,75,185,Xtreme Couture,Middleweight,"Las Vegas, Nevada",United States
+/fighter/Michael-Guymon-4015,4015,Michael Guymon,The Joker,9/17/1974,72,155,Joker's MMA,Lightweight,"Lake Forest, California",United States
+/fighter/Jorge-Gurgel-4025,4025,Jorge Gurgel,J.G.,1/25/1977,69,154,Team Jorge Gurgel,Lightweight,"Cincinnati, Ohio",United States
+/fighter/Samy-Schiavo-4038,4038,Samy Schiavo,The Dog,12/24/1975,,135,Bushido Academie,Bantamweight,Avignon,France
+/fighter/Renato-Verissimo-4095,4095,Renato Verissimo,Charuto,,73,170,BJ Penn's MMA,Welterweight,"Hilo, Hawaii",United States
+/fighter/Chris-Liguori-4102,4102,Chris Liguori,The Story,,70,155,Ricardo Almeida Jiu-Jitsu,Lightweight,"Toms River, New Jersey",United States
+/fighter/Chael-Sonnen-4112,4112,Chael Sonnen,,4/3/1977,73,205,Team Quest,Light Heavyweight,"West Linn, Oregon",United States
+/fighter/Claude-Patrick-4114,4114,Claude Patrick,The Prince,6/14/1980,70,170,Elite Mixed Fighters,Welterweight,"Mississauga, Ontario",Canada
+/fighter/Jonathan-Goulet-4120,4120,Jonathan Goulet,The Road Warrior,7/13/1979,72,169,Team Legion,Welterweight,"Victoriaville, Quebec",Canada
+/fighter/Kurt-Pellegrino-4153,4153,Kurt Pellegrino,Batman,5/7/1979,68,155,Pellegrino MMA,Lightweight,"Point Pleasant, New Jersey",United States
+/fighter/Eddie-Wineland-4173,4173,Eddie Wineland,,6/26/1984,67,135,Duneland Vale Tudo,Bantamweight,"Portage, Indiana",United States
+/fighter/Lodune-Sincaid-4208,4208,Lodune Sincaid,The Vanilla Gorilla,5/7/1973,69,185,,Middleweight,"North Hollywood, California",United States
+/fighter/Paul-Daley-4270,4270,Paul Daley,Semtex,2/21/1983,69,171,Spirit Dojo,Welterweight,Nottingham,England
+/fighter/Steve-Bruno-4367,4367,Steve Bruno,Hollywood,11/3/1981,70,174,American Top Team,Middleweight,"Pompano Beach, Florida",United States
+/fighter/Wes-Combs-4371,4371,Wes Combs,Soldier,6/18/1973,74,230,Millennia MMA,Heavyweight,"Rancho Cucamonga, California",United States
+/fighter/Bill-Mahood-4388,4388,Bill Mahood,The Butcher,2/1/1967,75,205,Revolution Fight Team,Light Heavyweight,"Prince George, British Columbia",Canada
+/fighter/Jason-MacDonald-4389,4389,Jason MacDonald,The Athlete,6/3/1975,74,185,Pure Fitness,Middleweight,"Edmonton, Alberta",Canada
+/fighter/Victor-Valimaki-4391,4391,Victor Valimaki,The Finnisher,12/17/1981,72,233,Complete Fitness and Martial Arts,Heavyweight,"Edmonton, Alberta",Canada
+/fighter/Mike-Whitehead-4397,4397,Mike Whitehead,Iron,6/29/1981,73,261,Xtreme Couture,Heavyweight,"Salt Lake City, Utah",United States
+/fighter/Kevin-Jordan-4399,4399,Kevin Jordan,The Shaman,12/31/1970,75,245,USCAA,Heavyweight,"Columbus, Georgia",United States
+/fighter/Forrest-Petz-4411,4411,Forrest Petz,The Meat Cleaver,9/22/1975,69,185,Strong Style Fight Team,Middleweight,"Cleveland, Ohio",United States
+/fighter/Paul-Creighton-4441,4441,Paul Creighton,,4/7/1970,66,155,,Lightweight,"Manhattan, New York",USA
+/fighter/Milton-Vieira-4481,4481,Milton Vieira,Miltinho,10/4/1978,72,145,Rio Fighters,Featherweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Gideon-Ray-4555,4555,Gideon Ray,,5/27/1973,70,170,MMA Masters Chicago,Welterweight,"Roselle, Illinois",United States
+/fighter/Derrick-Noble-4556,4556,Derrick Noble,The Eraser,8/14/1978,69,169,Minnesota Martial Arts Academy,Welterweight,"Cuba, Illinois",United States
+/fighter/Mike-Pyle-4577,4577,Mike Pyle,Quicksand,9/18/1975,73,170,Syndicate MMA,Welterweight,"Las Vegas, Nevada",United States
+/fighter/Joe-Jordan-4582,4582,Joe Jordan,Porkchop,7/28/1978,66,170,Miletich Fighting Systems,Welterweight,"Pikeville, Kentucky",United States
+/fighter/Travis-Lutter-4586,4586,Travis Lutter,The Serial Killer,12/5/1973,74,185,Lion's Den Dallas,Middleweight,"Dallas, Texas",United States
+/fighter/Rob-MacDonald-4638,4638,Rob MacDonald,,,75,230,Franco Behring,Heavyweight,Ontario,Canada
+/fighter/Thiago-Tavares-4647,4647,Thiago Tavares,,11/8/1984,67,145,Team Tavares,Featherweight,"Florianopolis, Santa Catarina",Brazil
+/fighter/Glover-Teixeira-4655,4655,Glover Teixeira,,10/28/1979,74,205,Nova Uniao,Light Heavyweight,"Sobralia, Minas Gerais",Brazil
+/fighter/Brandon-Wolff-4673,4673,Brandon Wolff,,,70,168,MMA Development,Welterweight,"Kailua, Hawaii",United States
+/fighter/Darren-Uyenoyama-4679,4679,Darren Uyenoyama,BC,10/15/1979,66,125,Faito Tamashii Combat Club,Flyweight,"San Francisco, California",United States
+/fighter/Mark-Hominick-4728,4728,Mark Hominick,The Machine,7/22/1982,68,145,Team Tompkins,Featherweight,"London, Ontario",Canada
+/fighter/Alberto-Crane-4767,4767,Alberto Crane,,7/14/1976,69,155,Alberto Crane MMA,Lightweight,"Santa Fe, New Mexico",United States
+/fighter/Trevor-Prangley-4789,4789,Trevor Prangley,,8/24/1972,72,205,American Kickboxing Academy,Light Heavyweight,"Cape Town, Western Cape",South Africa
+/fighter/Leonardo-Santos-4810,4810,Leonardo Santos,,2/5/1980,72,155,Nova Uniao,Lightweight,Rio de Janeiro,Brazil
+/fighter/Diego-Sanchez-4824,4824,Diego Sanchez,The Dream,12/31/1981,70,155,Jackson-Wink MMA,Lightweight,"Albuquerque, New Mexico",United States
+/fighter/Rick-Davis-4832,4832,Rick Davis,,,,155,Las Vegas Combat Club,Lightweight,"Las Vegas, Nevada",USA
+/fighter/Marcus-Aurelio-4833,4833,Marcus Aurelio,Maximus,8/18/1973,70,170,Elite Mixed Fighters,Welterweight,"Fortaleza, Ceara",Brazil
+/fighter/Jon-Fitch-4865,4865,Jon Fitch,,2/24/1978,72,183,American Kickboxing Academy,Middleweight,"Fort Wayne, Indiana",United States
+/fighter/Jeff-Hougland-4870,4870,Jeff Hougland,Hellbound,8/2/1978,69,135,Combat Sport and Fitness,Bantamweight,"Enumclaw, Washington",United States
+/fighter/Brandon-Vera-4886,4886,Brandon Vera,The Truth,10/10/1977,74,205,Alliance MMA,Light Heavyweight,"San Diego, California",United States
+/fighter/Joe-Lauzon-4923,4923,Joe Lauzon,J-Lau,5/22/1984,69,155,Lauzon MMA,Lightweight,"Bridgewater, Massachusetts",United States
+/fighter/Ian-McCall-5001,5001,Ian McCall,Uncle Creepy,7/5/1984,65,125,Team Oyama,Flyweight,"Dana Point, California",United States
+/fighter/Spencer-Fisher-5118,5118,Spencer Fisher,The King,5/9/1976,67,155,,Lightweight,"Davenport, Iowa",United States
+/fighter/Karo-Parisyan-5153,5153,Karo Parisyan,The Heat,8/28/1982,70,169,,Welterweight,"North Hollywood, California",United States
+/fighter/Cory-Walmsley-5170,5170,Cory Walmsley,,,72,205,Team Bison,Light Heavyweight,"St. Paul, Minnesota",United States
+/fighter/Manny-Gamburyan-5185,5185,Manny Gamburyan,The Anvil,5/8/1981,65,135,Team Hayastan,Bantamweight,"Los Angeles, California",United States
+/fighter/Mike-Swick-5199,5199,Mike Swick,Quick,6/19/1979,73,170,AKA Thailand,Welterweight,"San Jose, California",United States
+/fighter/Brian-Geraghty-5269,5269,Brian Geraghty,,11/4/1980,67,155,Freestyle Academy,Lightweight,"Pleasant Prairie, Wisconsin",United States
+/fighter/Robert-Emerson-5286,5286,Robert Emerson,The Saint,7/30/1981,70,135,Team Oyama,Bantamweight,"Newport Beach, California",United States
+/fighter/Solomon-Hutcherson-5342,5342,Solomon Hutcherson,King,8/13/1972,71,185,,Middleweight,"Racine, Wisconsin",United States
+/fighter/Martin-Kampmann-5344,5344,Martin Kampmann,Hitman,4/17/1982,72,170,Xtreme Couture,Welterweight,Aarhus,Denmark
+/fighter/Antonio-Carvalho-5346,5346,Antonio Carvalho,Pato,5/30/1979,68,145,Bruckmann Martial Arts,Featherweight,"Toronto, Ontario",Canada
+/fighter/Rosi-Sexton-5358,5358,Rosi Sexton,The Surgeon,7/16/1977,63,135,Next Generation,Bantamweight,Manchester,England
+/fighter/Alessio-Sakara-5366,5366,Alessio Sakara,Legionarius,9/2/1981,73,185,American Top Team,Middleweight,"Rome, Lazio",Italy
+/fighter/Ivan-Jorge-5432,5432,Ivan Jorge,Batman,11/7/1980,70,155,Team Tavares,Lightweight,"Florianopolis, Santa Catarina",Brazil
+/fighter/Delson-Heleno-5434,5434,Delson Heleno,Pe de Chumbo,11/16/1977,71,170,CM System,Welterweight,"Teresopolis, Rio de Janeiro",Brazil
+/fighter/Siyar-Bahadurzada-5453,5453,Siyar Bahadurzada,The Great,4/17/1984,71,170,Blackzilians,Welterweight,Kabul,Afghanistan
+/fighter/Hatsu-Hioki-5466,5466,Hatsu Hioki,,7/18/1983,71,145,Alive,Featherweight,"Nagoya, Aichi",Japan
+/fighter/Gabe-Ruediger-5542,5542,Gabe Ruediger,Godzilla,8/29/1977,70,155,PKG,Lightweight,"Rancho Cucamonga, California",United States
+/fighter/Gilbert-Melendez-5545,5545,Gilbert Melendez,El Nino,4/12/1982,69,153,Skrap Pack,Lightweight,"Santa Ana, California",United States
+/fighter/Yushin-Okami-5569,5569,Yushin Okami,Thunder,7/21/1981,74,185,Wajutsu Keishukai Tokyo,Middleweight,"Kawasaki, Kanagawa",Japan
+/fighter/Kajan-Johnson-5615,5615,Kajan Johnson,Ragin,4/21/1984,71,155,Tristar Gym,Lightweight,"Burns Lake, British Columbia",Canada
+/fighter/Tom-Niinimaki-5639,5639,Tom Niinimaki,Stoneface,7/25/1982,69,145,Finnfighters Gym,Featherweight,Turku,Finland
+/fighter/Mauricio-Rua-5707,5707,Mauricio Rua,Shogun,11/25/1981,73,205,Universidade da Luta,Light Heavyweight,"Curitiba, Parana",Brazil
+/fighter/Jorge-Santiago-5735,5735,Jorge Santiago,The Sandman,10/9/1980,73,170,Blackzilians,Welterweight,Rio de Janeiro,Brazil
+/fighter/Brian-Cobb-5739,5739,Brian Cobb,The Bandit,9/3/1980,71,155,Team Pain and Suffering,Lightweight,"Bakersfield, California",United States
+/fighter/Dante-Rivera-5746,5746,Dante Rivera,,12/8/1974,72,170,Renzo Gracie Jiu-Jitsu,Welterweight,"Jackson, New Jersey",United States
+/fighter/Nam-Phan-5778,5778,Nam Phan,,3/13/1983,66,141,Nam Phan MMA Academy,Featherweight,"Garden Grove, California",United States
+/fighter/Jared-Rollins-5781,5781,Jared Rollins,J-Roc,1/26/1977,69,185,Team Oyama,Middleweight,"Stanton, California",United States
+/fighter/Jordan-Radev-5925,5925,Jordan Radev,,,67,170,Sportcentrum KOPS,Welterweight,,Bulgaria
+/fighter/Justin-Eilers-5936,5936,Justin Eilers,,6/28/1978,73,235,Miletich Martial Arts,Heavyweight,"Nampa, Idaho",United States
+/fighter/Gleison-Tibau-5993,5993,Gleison Tibau,,7/10/1983,70,155,American Top Team,Lightweight,"Mossoro, Rio Grande do Norte",Brazil
+/fighter/Thiago-Alves-5998,5998,Thiago Alves,Pitbull,10/3/1983,70,170,American Top Team,Welterweight,"Fortaleza, Ceara",Brazil
+/fighter/Akbarh-Arreola-6120,6120,Akbarh Arreola,El Caballero,1/14/1983,70,155,Entram Gym,Lightweight,"Tijuana, Baja California",Mexico
+/fighter/Brodie-Farber-6123,6123,Brodie Farber,,,73,205,Tiger Muay Thai,Light Heavyweight,"Grass Valley, California",United States
+/fighter/Pat-Healy-6246,6246,Pat Healy,Bam Bam,7/20/1983,69,155,Sports Lab,Lightweight,"St. Louis, Missouri",United States
+/fighter/Josh-Haynes-6254,6254,Josh Haynes,Bring the Pain,7/30/1977,69,205,Syndicate MMA,Light Heavyweight,"Medford, Oregon",United States
+/fighter/Chris-Leben-6258,6258,Chris Leben,The Crippler,7/21/1980,71,185,Alliance MMA,Middleweight,"Portland, Oregon",United States
+/fighter/Paul-Taylor-6326,6326,Paul Taylor,Relentless,12/15/1979,72,155,Team Supreme,Lightweight,Walsall,England
+/fighter/Brock-Larson-6373,6373,Brock Larson,,8/23/1977,71,170,Get Sum Athletic Compound,Welterweight,"Brainerd, Minnesota",United States
+/fighter/Luke-Cummo-6428,6428,Luke Cummo,,4/27/1980,72,170,Serra-Longo Fight Team,Welterweight,"New Hyde Park, New York",United States
+/fighter/Sam-Hoger-6445,6445,Sam Hoger,Alaskan Assassin,6/28/1980,74,205,Miletich Martial Arts,Light Heavyweight,"Eagle River, Alaska",United States
+/fighter/Roman-Mitichyan-6525,6525,Roman Mitichyan,,4/9/1978,70,155,,Lightweight,,Armenia
+/fighter/Sako-Chivitchyan-6527,6527,Sako Chivitchyan,The Chainsaw,3/11/1984,,156,Team Hayastan,Lightweight,"Glendale, California",United States
+/fighter/Ross-Pointon-6541,6541,Ross Pointon,The Gladiator,,68,205,,Light Heavyweight,,England
+/fighter/Ed-Herman-6561,6561,Ed Herman,Short Fuse,10/2/1980,74,205,Trials MMA and Fitness,Light Heavyweight,"Portland, Oregon",United States
+/fighter/Jeff-Joslin-6606,6606,Jeff Joslin,The Inferno,4/30/1975,72,170,Joslin MMA,Welterweight,"Hamilton, Ontario",Canada
+/fighter/Luis-Henrique-Barbosa-de-Oliveira-6608,6608,Luis Henrique Barbosa de Oliveira,KLB,8/21/1993,75,243,Infight,Heavyweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Patrick-Cote-6612,6612,Patrick Cote,The Predator,2/29/1980,71,170,BTT Canada,Welterweight,"Quebec City, Quebec",Canada
+/fighter/KJ-Noons-6727,6727,K.J. Noons,King,12/7/1982,71,168,The Arena,Welterweight,"San Diego, California",United States
+/fighter/Nick-Ring-6748,6748,Nick Ring,The Promise,2/10/1979,72,185,Champion's Creed MMA,Middleweight,"Calgary, Alberta",Canada
+/fighter/Jordan-Mein-6749,6749,Jordan Mein,Young Gun,10/10/1989,71,170,Canadian Martial Arts Centre,Welterweight,"Lethbridge, Alberta",Canada
+/fighter/Carlos-Condit-6765,6765,Carlos Condit,The Natural Born Killer,4/26/1984,73,170,Jackson-Wink MMA,Welterweight,"Albuquerque, New Mexico",United States
+/fighter/Carlo-Prater-6767,6767,Carlo Prater,Neo,6/25/1981,72,155,Prater MMA,Lightweight,"Brasilia, Federal District",Brazil
+/fighter/Jesse-Bongfeldt-6809,6809,Jesse Bongfeldt,Water,8/28/1980,72,185,Canadian Martial Arts Centre,Middleweight,"Kenora, Ontario",Canada
+/fighter/Jason-Day-6811,6811,Jason Day,Dooms,3/18/1979,72,185,Champion's Creed MMA,Middleweight,"Lethbridge, Alberta",Canada
+/fighter/Tor-Troeng-6850,6850,Tor Troeng,The Hammer,1/25/1983,74,184,Renyi Fight Camp,Middleweight,Umea,Sweden
+/fighter/Kazuhiro-Nakamura-6943,6943,Kazuhiro Nakamura,King Kaz,7/16/1979,71,185,Yoshida Dojo,Middleweight,"Fukuyama, Hiroshima",Japan
+/fighter/David-Lee-6945,6945,David Lee,,,71,145,Team Crossface,Featherweight,"London, Greater London",England
+/fighter/Vaughan-Lee-6946,6946,Vaughan Lee,,10/15/1982,65,135,UTC Birmingham,Bantamweight,"Birmingham, West Midlands",England
+/fighter/Tai-Bowden-6950,6950,Tai Bowden,,,,,,N/A,,
+/fighter/John-Gunderson-7018,7018,John Gunderson,Guns,1/5/1979,69,145,Syndicate MMA,Featherweight,"Houston, Texas",United States
+/fighter/Antonio-Mendes-7110,7110,Antonio Mendes,Samuray,4/19/1981,75,205,Dragon Fight,Light Heavyweight,"Fortaleza, Ceara",Brazil
+/fighter/Nick-Thompson-7124,7124,Nick Thompson,The Goat,6/23/1981,73,170,Minnesota Martial Arts Academy,Welterweight,"Minneapolis, Minnesota",United States
+/fighter/Kyle-Watson-7127,7127,Kyle Watson,,8/9/1979,72,155,HIT Squad,Lightweight,"Granite City, Illinois",United States
+/fighter/Ansar-Chalangov-7148,7148,Ansar Chalangov,,,69,185,Legion Fight Team,Middleweight,Rostov-on-don,Russia
+/fighter/Jamie-Varner-7168,7168,Jamie Varner,C-4,12/10/1984,68,155,Arizona Combat Sports,Lightweight,"Phoenix, Arizona",United States
+/fighter/Terry-Martin-7202,7202,Terry Martin,Dangerous,10/10/1980,67,185,Iron Academy,Middleweight,"Chicago, Illinois",United States
+/fighter/Gabriel-Gonzaga-7306,7306,Gabriel Gonzaga,Napao,5/18/1979,74,258,Team Link,Heavyweight,Rio de Janeiro,Brazil
+/fighter/Joe-Veres-7329,7329,Joe Veres,,11/9/1977,66,155,MMA Lab,Lightweight,"Glendale, California",United States
+/fighter/Chris-Saunders-7358,7358,Chris Saunders,The So Cal Kid,3/11/1986,68,155,All In MMA,Lightweight,"Buena Park, California",United States
+/fighter/Luke-Caudillo-7406,7406,Luke Caudillo,Lil' Hulk,11/30/1980,67,155,Grudge Training Center,Lightweight,"North Platte, Nebraska",United States
+/fighter/John-Halverson-7407,7407,John Halverson,,9/8/1972,69,155,,Lightweight,"Waukee, Iowa",United States
+/fighter/Phillipe-Nover-7415,7415,Phillipe Nover,Super,2/3/1984,69,145,Team Renzo Gracie,Featherweight,"Brooklyn, New York",United States
+/fighter/Melvin-Guillard-7431,7431,Melvin Guillard,The Young Assassin,3/30/1983,69,155,American Top Team,Lightweight,"New Orleans, Louisiana",United States
+/fighter/Gegard-Mousasi-7466,7466,Gegard Mousasi,The Dreamcatcher,8/1/1985,73,186,Red Devil International,Middleweight,"Leiden, South Holland",Netherlands
+/fighter/Lyoto-Machida-7513,7513,Lyoto Machida,The Dragon,5/30/1978,73,185,APAM,Middleweight,"Belem, Para",Brazil
+/fighter/Anthony-Njokuani-7540,7540,Anthony Njokuani,The Assassin,3/1/1980,72,155,Janjira Muay Thai,Lightweight,"Garland, Texas",United States
+/fighter/Igor-Pokrajac-7621,7621,Igor Pokrajac,The Duke,2/1/1979,72,205,American Top Team,Light Heavyweight,Zagreb,Croatia
+/fighter/Kyle-Noke-7632,7632,Kyle Noke,KO,3/18/1980,73,170,Jackson-Wink MMA,Welterweight,"Dubbo, New South Wales",Australia
+/fighter/Josh-Hendricks-7652,7652,Josh Hendricks,Heavy,8/28/1976,74,259,Superior Health Club,Heavyweight,"Mansfield, Ohio",United States
+/fighter/Jorge-Masvidal-7688,7688,Jorge Masvidal,Gamebred,11/12/1984,71,155,American Top Team,Lightweight,"Miami, Florida",United States
+/fighter/Fabiano-Scherner-7690,7690,Fabiano Scherner,Pega-Leve,6/30/1972,76,257,Team Quest,Heavyweight,"Florianopolis, Santa Catarina",Brazil
+/fighter/james-irvin-7780,7780,James Irvin,The Sandman,9/12/1978,74,185,Reign MMA,Middleweight,"Citrus Heights, California",United States
+/fighter/Pete-Sell-7795,7795,Pete Sell,Drago,8/25/1982,71,179,Serra-Longo Fight Team,Middleweight,"Bay Shore, New York",United States
+/fighter/Jason-Miller-7798,7798,Jason Miller,Mayhem,12/24/1980,72,185,Team Mayhem,Middleweight,"Mission Viejo, California",United States
+/fighter/Kyle-Bradley-7918,7918,Kyle Bradley,,8/19/1982,70,170,Team Voodoo,Welterweight,"Denham Springs, Louisiana",United States
+/fighter/Charles-McCarthy-7987,7987,Charles McCarthy,Chainsaw,8/6/1980,70,185,American Top Team,Middleweight,"Miami, Florida",United States
+/fighter/Kenny-Florian-8021,8021,Kenny Florian,KenFlo,5/26/1976,70,145,Florian Martial Arts Center,Featherweight,"Westwood, Massachusetts",United States
+/fighter/Kalib-Starnes-8095,8095,Kalib Starnes,,1/6/1975,75,205,Aegis Athletics,Light Heavyweight,"Surrey, British Columbia",Canada
+/fighter/Luiz-Jorge-Dutra-Jr-8121,8121,Luiz Jorge Dutra Jr.,Besouro,5/6/1982,71,170,Renovacao Fight Team,Welterweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Isaac-Vallie-Flagg-8180,8180,Isaac Vallie-Flagg,,4/8/1978,68,159,Jackson-Wink MMA,Welterweight,"Santa Fe, New Mexico",United States
+/fighter/Ben-Nguyen-8183,8183,Ben Nguyen,10,8/3/1988,64,125,Integrated MMA,Flyweight,"Sioux Falls, South Dakota",United States
+/fighter/Clay-Guida-8184,8184,Clay Guida,The Carpenter,12/8/1981,67,145,Jackson-Wink MMA,Featherweight,"Round Lake, Illinois",United States
+/fighter/Keigo-Kunihara-8198,8198,Keigo Kunihara,,,72,228,,Heavyweight,,Japan
+/fighter/Mostapha-AlTurk-8224,8224,Mostapha Al-Turk,,7/14/1973,74,235,London Shootfighters,Heavyweight,London,England
+/fighter/Crafton-Wallace-8269,8269,Crafton Wallace,,4/15/1972,72,184,Inferno MMA,Middleweight,"Naples, Florida",United States
+/fighter/Jason-Dent-8321,8321,Jason Dent,Dynamite,6/12/1980,70,158,GriffonRawl Thaiboxing & MMA Academy,Welterweight,"Cincinnati, Ohio",United States
+/fighter/Fabricio-Werdum-8390,8390,Fabricio Werdum,Vai Cavalo,7/30/1977,76,242,Werdum Combat Team,Heavyweight,"Porto Alegre, Rio Grande do Sul",Brazil
+/fighter/Ronaldo-Souza-8394,8394,Ronaldo Souza,Jacare,12/7/1979,72,184,X-Gym,Middleweight,"Manaus, Amazonas",Brazil
+/fighter/Nate-Mohr-8396,8396,Nate Mohr,,3/3/1983,69,155,Team Curran,Lightweight,"Cedar Falls, Iowa",United States
+/fighter/Marcus-Davis-8592,8592,Marcus Davis,The Irish Hand Grenade,8/24/1973,68,170,Team Irish,Welterweight,"Bangor, Maine",United States
+/fighter/Thales-Leites-8593,8593,Thales Leites,,9/6/1981,73,185,Nova Uniao,Middleweight,"Niteroi, Rio de Janeiro",Brazil
+/fighter/Matt-Horwich-8654,8654,Matt Horwich,Suave,2/10/1978,71,186,Legends MMA,Middleweight,"Hollywood, California",United States
+/fighter/Phil-Harris-8753,8753,Phil Harris,Billy,4/9/1983,65,125,Gym01,Flyweight,"Portsmouth, Hampshire",England
+/fighter/Xavier-FoupaPokam-8761,8761,Xavier Foupa-Pokam,Professor X,3/7/1982,73,185,Snake Team,Middleweight,Paris,France
+/fighter/Roxanne-Modafferi-8785,8785,Roxanne Modafferi,The Happy Warrior,9/24/1982,66,125,Syndicate MMA,Flyweight,"Las Vegas, Nevada",United States
+/fighter/Che-Mills-8800,8800,Che Mills,Beautiful,9/29/1982,69,155,Champion's Creed MMA,Lightweight,"Calgary, Alberta",Canada
+/fighter/Billy-Miles-8845,8845,Billy Miles,,,70,185,Capital City Fighting Alliance,Middleweight,"Lincoln, California",United States
+/fighter/Urijah-Faber-8847,8847,Urijah Faber,The California Kid,5/14/1979,66,135,Team Alpha Male,Bantamweight,"Sacramento, California",United States
+/fighter/Brad-Morris-9024,9024,Brad Morris,,,73,253,Gracie Barra Sydney,Heavyweight,"Sydney, New South Wales",Australia
+/fighter/James-Te-Huna-9033,9033,James Te Huna,,9/29/1981,73,185,Pirtek Athletic Allstars,Middleweight,"Penrith, New South Wales",Australia
+/fighter/John-Kolosci-9062,9062,John Kolosci,,11/26/1974,71,155,Gilbert Grappling,Lightweight,"Portage, Indiana",United States
+/fighter/Krzysztof-Soszynski-9178,9178,Krzysztof Soszynski,The Polish Experiment,8/2/1977,73,205,Reign MMA,Light Heavyweight,"Winnipeg, Manitoba",Canada
+/fighter/Josh-Neer-9179,9179,Josh Neer,The Dentist,3/24/1983,71,170,Cesar Gracie Fight Team,Welterweight,"Des Moines, Iowa",United States
+/fighter/Eddie-Alvarez-9265,9265,Eddie Alvarez,,1/11/1984,70,155,Blackzilians,Lightweight,"Philadelphia, Pennsylvania",United States
+/fighter/Jay-Hieron-9267,9267,Jay Hieron,The Thoroughbred,7/29/1976,71,170,Xtreme Couture,Welterweight,"Long Island, New York",United States
+/fighter/Chris-Wilson-9281,9281,Chris Wilson,The Professor,6/7/1977,73,155,CW Combat Sports,Lightweight,"Ribeirao Preto, Sao Paulo",Brazil
+/fighter/Josh-Koscheck-9418,9418,Josh Koscheck,Kos,11/30/1977,70,170,Dethrone Base Camp,Welterweight,"Buffalo, New York",United States
+/fighter/Anthony-Perosh-9491,9491,Anthony Perosh,The Hippo,5/10/1972,75,205,Sinosic,Light Heavyweight,"Sydney, New South Wales",Australia
+/fighter/Lavar-Johnson-9511,9511,Lavar Johnson,Big,6/11/1977,75,253,Pro Buhawe,Heavyweight,"Madera, California",United States
+/fighter/John-Polakowski-9512,9512,John Polakowski,Buckets of Blood,6/21/1981,69,155,The Pit,Lightweight,"San Luis Obsipo, California",United States
+/fighter/Diego-Saraiva-9534,9534,Diego Saraiva,The Octopus,4/23/1982,66,149,Team Octopus,Lightweight,"Atlanta, Georgia",United States
+/fighter/Keita-Nakamura-9572,9572,Keita Nakamura,K-Taro,5/22/1984,71,170,K-Taro Dojo,Welterweight,Tokyo,Japan
+/fighter/Raphael-Assuncao-9574,9574,Raphael Assuncao,,7/19/1982,65,135,Ascension MMA,Bantamweight,"Recife, Pernambuco",Brazil
+/fighter/Mike-Easton-9626,9626,Mike Easton,The Hulk,1/25/1984,66,135,Alliance MMA,Bantamweight,"Temple Hills, Maryland",United States
+/fighter/Soa-Palelei-9680,9680,Soa Palelei,The Hulk,12/7/1977,76,265,AKA Thailand,Heavyweight,"Perth, Western Australia",Australia
+/fighter/Mark-Bocek-9781,9781,Mark Bocek,,10/24/1981,69,155,Tristar Gym,Lightweight,"Toronto, Ontario",Canada
+/fighter/Jeff-Cox-9785,9785,Jeff Cox,,8/2/1968,,155,Strong Style Fight Team,Lightweight,"Cleveland, Ohio",United States
+/fighter/Dorian-Price-9786,9786,Dorian Price,,8/20/1977,75,155,Team Jorge Gurgel,Lightweight,"Columbus, Ohio",United States
+/fighter/Francis-Carmont-9798,9798,Francis Carmont,Limitless,11/10/1981,72,170,Renzo Gracie Jiu-Jitsu,Welterweight,"Jackson, New Jersey",United States
+/fighter/Dennis-Siver-9817,9817,Dennis Siver,,1/13/1979,67,145,Kiboju,Featherweight,Mannheim,Germany
+/fighter/Rob-Kimmons-9863,9863,Rob Kimmons,The Rosedale Reaper,1/30/1981,70,170,K2L Grindhouse,Welterweight,"Liberty, Missouri",United States
+/fighter/Sam-Stout-9901,9901,Sam Stout,Hands of Stone,4/23/1984,69,155,Team Tompkins,Lightweight,"London, Ontario",Canada
+/fighter/Adriano-Martins-9907,9907,Adriano Martins,,12/16/1982,70,154,Top Life Amazonas,Lightweight,"Manaus, Amazonas",Brazil
+/fighter/Sione-Latu-9977,9977,Sione Latu,,,,,,N/A,,
+/fighter/Joshua-Burkman-10003,10003,Joshua Burkman,The People's Warrior,10/4/1980,70,155,The Pit Elevated Fight Team,Lightweight,"Salt Lake City, Utah",United States
+/fighter/Tomasz-Drwal-10047,10047,Tomasz Drwal,Gorilla,1/22/1982,73,185,Alliance MMA,Middleweight,Krakow,Poland
+/fighter/Lisa-Ellis-10071,10071,Lisa Ellis,,11/15/1982,64,110,United Training Center,Strawweight,"Olympia, Washington",United States
+/fighter/Roger-Huerta-10089,10089,Roger Huerta,El Matador,5/20/1983,69,155,Tiger Muay Thai,Lightweight,"Austin, Texas",United States
+/fighter/Julie-Kedzie-10093,10093,Julie Kedzie,Fireball,3/18/1981,65,135,Jackson-Wink MMA,Bantamweight,"Bloomington, Indiana",United States
+/fighter/Kendall-Grove-10126,10126,Kendall Grove,Da Spyder,12/11/1982,78,185,Straight Rootless Fight Team,Middleweight,"Maui, Hawaii",United States
+/fighter/Goran-Reljic-10165,10165,Goran Reljic,Ghost,3/20/1984,75,205,University of Fighting,Light Heavyweight,"Zadar, Dalmatia",Croatia
+/fighter/Michael-Bisping-10196,10196,Michael Bisping,The Count,2/28/1979,74,185,HB Ultimate,Middleweight,Manchester,England
+/fighter/Rashad-Evans-10200,10200,Rashad Evans,Suga,9/25/1979,71,205,Blackzilians,Light Heavyweight,"Niagara Falls, New York",United States
+/fighter/Justin-Levens-10226,10226,Justin Levens,The Executioner,4/18/1980,70,185,CSW,Middleweight,"Newport Beach, California",United States
+/fighter/Riki-Fukuda-10229,10229,Riki Fukuda,,1/6/1981,72,185,Grabaka,Middleweight,"Tokyo, Kanto",Japan
+/fighter/Roy-Nelson-10249,10249,Roy Nelson,Big Country,6/20/1976,72,249,Country Club,Heavyweight,"Las Vegas, Nevada",United States
+/fighter/Gilbert-Aldana-10334,10334,Gilbert Aldana,El Peligro,,73,250,Brausa Academy,Heavyweight,"Chandler, Arizona",USA
+/fighter/Ben-Saunders-10339,10339,Ben Saunders,Killa B,4/13/1983,75,170,American Top Team Orlando,Welterweight,"Orlando, Florida",United States
+/fighter/Richie-Hightower-10346,10346,Richie Hightower,The Dirty Samurai,11/24/1981,,155,,Lightweight,"Phoenix, Arizona",United States
+/fighter/Junior-Assuncao-10380,10380,Junior Assuncao,,6/24/1981,69,145,Ascension MMA,Featherweight,"Athens, Georgia",Brazil
+/fighter/Rani-Yahya-10425,10425,Rani Yahya,,12/9/1984,66,135,Constrictor Team,Bantamweight,"Brasilia, Federal District",Brazil
+/fighter/Fredson-Paixao-10432,10432,Fredson Paixao,,5/13/1979,70,145,Total Dojo,Featherweight,,England
+/fighter/Icho-Larenas-10502,10502,Icho Larenas,El Dogo,12/3/1982,73,235,,Heavyweight,,Canada
+/fighter/Brandon-Melendez-10515,10515,Brandon Melendez,The Murderer,3/24/1983,70,170,Elite Performance,Welterweight,"Bountiful, Utah",United States
+/fighter/Lucio-Linhares-10543,10543,Lucio Linhares,Spartan,12/8/1973,74,185,Alliance Jiu-Jitsu,Middleweight,"Ipatinga, Minas Gerais",Brazil
+/fighter/James-Wilks-10569,10569,James Wilks,Lightning,4/5/1978,73,170,Lightning MMA,Welterweight,"Leicestershire, East Midlands",England
+/fighter/Hector-Ramirez-10581,10581,Hector Ramirez,Sick Dog,3/28/1976,72,205,,Light Heavyweight,"Orange County, California",United States
+/fighter/Dan-Evensen-10584,10584,Dan Evensen,,,,,,N/A,,Norway
+/fighter/Dan-Hardy-10629,10629,Dan Hardy,The Outlaw,5/17/1982,72,170,Team Rough House,Welterweight,"Nottingham, East Midlands",England
+/fighter/Mark-Hunt-10668,10668,Mark Hunt,The Super Samoan,3/23/1974,70,262,American Top Team,Heavyweight,"South Auckland, Auckland",New Zealand
+/fighter/Chris-Tuchscherer-10669,10669,Chris Tuchscherer,The Crowbar,9/8/1975,74,260,Academy of Combat Arts,Heavyweight,"Fargo, North Dakota",United States
+/fighter/Vinny-Magalhaes-10709,10709,Vinny Magalhaes,Pezao,7/2/1984,75,205,Syndicate MMA,Light Heavyweight,Rio de Janeiro,Brazil
+/fighter/Jason-Gilliam-10754,10754,Jason Gilliam,,10/31/1972,72,169,Team Wolfpack,Welterweight,"Muncie, Indiana",United States
+/fighter/Rory-Markham-10768,10768,Rory Markham,,3/25/1982,72,177,Miletich Martial Arts,Middleweight,"Bettendorf, Iowa",United States
+/fighter/Alexander-Yakovlev-10846,10846,Alexander Yakovlev,The Thunder of the North,7/18/1984,73,170,K Dojo Warrior Tribe,Welterweight,St. Petersburg,Russia
+/fighter/Rob-Broughton-10924,10924,Rob Broughton,The Bear,3/3/1983,74,258,Atherton Submission Wrestling,Heavyweight,Liverpool,England
+/fighter/Alan-Belcher-10967,10967,Alan Belcher,The Talent,4/24/1984,74,185,Roufusport,Middleweight,"Biloxi, Mississippi",United States
+/fighter/War-Machine-10999,10999,War Machine,,11/30/1981,71,170,Und1sputed,Welterweight,"Las Vegas, Nevada",United States
+/fighter/Shannon-Gugerty-11001,11001,Shannon Gugerty,,12/30/1981,70,145,Victory MMA,Featherweight,"San Diego, California",United States
+/fighter/Cub-Swanson-11002,11002,Cub Swanson,,11/2/1983,67,145,Jackson-Wink MMA,Featherweight,"Palm Springs, California",United States
+/fighter/Shane-Nelson-11262,11262,Shane Nelson,Sugar,11/30/1984,69,146,BJ Penn's MMA,Featherweight,"Honolulu, Hawaii",United States
+/fighter/Mike-Nickels-11278,11278,Mike Nickels,Big,12/13/1971,76,204,Colorado Brazilian Jiu-Jitsu,Light Heavyweight,"Denver, Colorado",United States
+/fighter/Tim-Means-11281,11281,Tim Means,The Dirty Bird,2/20/1984,74,170,Fit NHB,Welterweight,"Albuquerque, New Mexico",United States
+/fighter/Hector-Lombard-11292,11292,Hector Lombard,Showeather,2/2/1978,69,170,American Top Team,Welterweight,Matanzas,Cuba
+/fighter/Paul-Georgieff-11408,11408,Paul Georgieff,,9/22/1982,,155,,Lightweight,"St. Paul, Minnesota",United States
+/fighter/Nate-Diaz-11451,11451,Nate Diaz,,4/16/1985,72,155,Cesar Gracie Fight Team,Lightweight,"Stockton, California",United States
+/fighter/Brad-Imes-11453,11453,Brad Imes,The Hillbilly Heartthrob,3/16/1977,79,260,Sacramaneto BJJ,Heavyweight,"Sacramento, California",United States
+/fighter/Dustin-Hazelett-11481,11481,Dustin Hazelett,McLovin,4/29/1986,73,155,Team Jorge Gurgel,Lightweight,"Cincinnati, Ohio",United States
+/fighter/David-Heath-11483,11483,David Heath,The Headhunter,10/2/1976,71,203,Absolute Combat Alliance,Light Heavyweight,"Tulsa, Oklahoma",United States
+/fighter/Donny-Walker-11486,11486,Donny Walker,Eagle Eye,1/4/1980,69,145,GriffonRawl Thaiboxing & MMA Academy,Featherweight,"Cleveland, Ohio",United States
+/fighter/Jose-Aldo-11506,11506,Jose Aldo,Scarface,9/9/1986,67,145,Nova Uniao,Featherweight,"Manaus, Amazonas",Brazil
+/fighter/Rodrigo-Damm-11507,11507,Rodrigo Damm,,2/3/1980,67,145,Alliance Jiu-Jitsu,Featherweight,"Sao Paulo, Sao Paulo",Brazil
+/fighter/John-Dodson-11660,11660,John Dodson,The Magician,9/26/1984,63,125,Jackson-Wink MMA,Flyweight,"Albuquerque, New Mexico",United States
+/fighter/Rafael-dos-Anjos-11675,11675,Rafael dos Anjos,,10/26/1984,69,155,Evolve MMA,Lightweight,Rio de Janeiro,Brazil
+/fighter/Tyson-Griffin-11689,11689,Tyson Griffin,,4/20/1984,66,155,American Kickboxing Academy,Lightweight,"Santa Rosa, California",United States
+/fighter/George-Sotiropoulos-11702,11702,George Sotiropoulos,,7/9/1977,70,155,American Top Team,Lightweight,"Geelong, Victoria",Australia
+/fighter/Abner-Lloveras-11729,11729,Abner Lloveras,Skullman,9/4/1982,71,155,Gracie Barcelona,Lightweight,Barcelona,Spain
+/fighter/Brad-Pickett-11743,11743,Brad Pickett,One Punch,9/24/1978,66,125,American Top Team,Flyweight,London,England
+/fighter/John-Howard-11798,11798,John Howard,Doomsday,3/1/1983,67,171,Wai Kru MMA,Welterweight,"Boston, Massachusetts",United States
+/fighter/Ross-Pearson-11884,11884,Ross Pearson,The Real Deal,9/26/1984,68,155,Alliance MMA,Lightweight,"Sunderland, Tyne and Wear",England
+/fighter/Yoshihiro-Akiyama-11895,11895,Yoshihiro Akiyama,Sexyama,7/29/1975,70,170,Jackson-Wink MMA,Welterweight,Osaka,Japan
+/fighter/Edilberto-de-Oliveira-11907,11907,Edilberto de Oliveira,Crocota,11/22/1982,72,170,Champion Team,Welterweight,"Campo Formoso, Bahia",Brazil
+/fighter/Francisco-Rivera-11908,11908,Francisco Rivera,Cisco,10/8/1981,68,135,All In MMA,Bantamweight,"Buena Park, California",United States
+/fighter/Alex-Karalexis-11941,11941,Alex Karalexis,T-Rex,9/20/1977,68,170,Team Sityodtong,Welterweight,"Boston, Massachusetts",United States
+/fighter/Ron-Stallings-11950,11950,Ron Stallings,The Choir Boy,2/25/1983,72,185,Team Lloyd Irvin,Middleweight,"Temple Hills, Maryland",United States
+/fighter/Rich-Attonito-11955,11955,Rich Attonito,The Raging Bull,6/16/1977,70,170,American Top Team,Welterweight,"Deerfield Beach, Florida",United States
+/fighter/Sean-Gannon-11962,11962,Sean Gannon,The Cannon,,75,265,,Heavyweight,"Boston, Massachusetts",United States
+/fighter/Dale-Hartt-11970,11970,Dale Hartt,,,70,155,Team Sityodtong,Lightweight,"Bangor, Maine",United States
+/fighter/Yoshiyuki-Yoshida-12073,12073,Yoshiyuki Yoshida,Zenko,5/10/1974,71,155,Haleo Top Team,Lightweight,Tokyo,Japan
+/fighter/Takeya-Mizugaki-12074,12074,Takeya Mizugaki,,12/16/1983,67,135,Hakkei Gym,Bantamweight,"Miura, Kanagawa",Japan
+/fighter/Mizuto-Hirota-12078,12078,Mizuto Hirota,Pugnus,5/5/1981,67,145,Cave,Featherweight,"Isahaya, Nagasaki",Japan
+/fighter/Steve-Byrnes-12079,12079,Steve Byrnes,,,,185,MMA Development,Middleweight,Hawaii,United States
+/fighter/Troy-Mandaloniz-12096,12096,Troy Mandaloniz,Rude Boy,1/2/1980,69,170,,Welterweight,"Hilo, Hawaii",United States
+/fighter/Eddie-Sanchez-12098,12098,Eddie Sanchez,The Manic Hispanic,4/11/1982,75,214,Kings MMA,Heavyweight,"San Diego, California",United States
+/fighter/Dominick-Cruz-12107,12107,Dominick Cruz,The Dominator,9/3/1985,68,134,Alliance MMA,Bantamweight,"San Diego, California",United States
+/fighter/Shayna-Baszler-12116,12116,Shayna Baszler,The Queen of Spades,8/8/1980,67,135,CSW,Bantamweight,"Sioux Falls, South Dakota",United States
+/fighter/Damacio-Page-12158,12158,Damacio Page,The Angel of Death,9/30/1982,66,125,Jackson-Wink MMA,Flyweight,"Albuquerque, New Mexico",United States
+/fighter/Jeremy-Stephens-12179,12179,Jeremy Stephens,Lil' Heathen,5/26/1986,69,145,Alliance MMA,Featherweight,"Des Moines, Iowa",United States
+/fighter/Takenori-Sato-12196,12196,Takenori Sato,,6/8/1985,70,170,Tribe Tokyo MMA,Welterweight,Akita,Japan
+/fighter/Luigi-Fioravanti-12199,12199,Luigi Fioravanti,The Italian Tank,1/22/1981,69,183,Flawless MMA,Middleweight,"St. Louis, Missouri",United States
+/fighter/Alvin-Robinson-12212,12212,Alvin Robinson,Kid,7/16/1982,69,145,Grudge Training Center,Featherweight,"Denver, Colorado",United States
+/fighter/Derek-Downey-12234,12234,Derek Downey,The Gentleman,4/27/1980,74,185,Victory MMA,Middleweight,"Orem, Utah",United States
+/fighter/Matt-Wiman-12236,12236,Matt Wiman,Handsome,9/19/1983,70,155,Skrap Pack,Lightweight,"Tulsa, Oklahoma",United States
+/fighter/Tom-Murphy-12284,12284,Tom Murphy,,11/19/1974,74,205,Tristar Gym,Light Heavyweight,"St. Albans, Vermont",United States
+/fighter/Antonio-Silva-12354,12354,Antonio Silva,Bigfoot,9/14/1979,76,264,American Top Team,Heavyweight,"Brasilia, Distrito Federal",Brazil
+/fighter/Jason-Tan-12369,12369,Jason Tan,,,70,170,,Welterweight,Liverpool,England
+/fighter/Willamy-Freire-12553,12553,Willamy Freire,Chiquerim,7/28/1987,68,155,Dragon Fight,Lightweight,"Fortaleza, Ceara",Brazil
+/fighter/Jason-Thacker-12690,12690,Jason Thacker,Strange Brew,8/18/1975,72,185,,Middleweight,"Whonnock, British Columbia",Canada
+/fighter/Reese-Andy-12692,12692,Reese Andy,Riptide,3/31/1973,72,205,West Coast Fight Team,Light Heavyweight,"Auburn, Washington",United States
+/fighter/Steve-Cantwell-12785,12785,Steve Cantwell,The Robot,12/8/1986,74,185,One Kick's Gym,Middleweight,"Pahrump, Nevada",United States
+/fighter/Igor-Araujo-12803,12803,Igor Araujo,,12/6/1980,73,170,Jackson-Wink MMA,Welterweight,"Brasilia, Federal District",
+/fighter/Mike-Massenzio-12852,12852,Mike Massenzio,,11/1/1982,74,185,Team Bombsquad,Middleweight,"Paterson, New Jersey",United States
+/fighter/Sherman-Pendergarst-12854,12854,Sherman Pendergarst,The Tank,,73,205,Miletich Fighting Systems,Light Heavyweight,"Baltimore, Maryland",United States
+/fighter/Carmelo-Marrero-12855,12855,Carmelo Marrero,The Fury,1/26/1981,74,255,American Top Team,Heavyweight,"Douglasville, Pennsylvania",United States
+/fighter/DaMarques-Johnson-12913,12913,DaMarques Johnson,Darkness,6/28/1982,72,170,Elite Performance,Welterweight,"Salt Lake City, Utah",United States
+/fighter/Scott-Junk-12943,12943,Scott Junk,Punk Haole,12/17/1978,73,265,MMA Development,Heavyweight,"Kailua, Hawaii",United States
+/fighter/Denis-Stojnic-12955,12955,Denis Stojnic,The Menace,2/2/1980,72,247,Golden Glory,Heavyweight,Sarajevo,Bosnia and Herzegovina
+/fighter/Bristol-Marunde-12961,12961,Bristol Marunde,,4/20/1982,73,171,Syndicate MMA,Welterweight,"Las Vegas, Nevada",United States
+/fighter/Vitor-Miranda-13004,13004,Vitor Miranda,Lex Luthor,3/10/1979,73,185,Team Nogueira,Middleweight,"Joinville, Santa Catarina",Brazil
+/fighter/Michihiro-Omigawa-13005,13005,Michihiro Omigawa,Michi,12/19/1975,66,145,Neo Judo Academy,Featherweight,Ibaraki,Japan
+/fighter/Jake-Ellenberger-13068,13068,Jake Ellenberger,The Juggernaut,3/28/1985,69,170,Reign MMA,Welterweight,"Omaha, Nebraska",United States
+/fighter/Danillo-Villefort-13093,13093,Danillo Villefort,Indio,5/8/1983,73,186,Blackzilians,Middleweight,"Coconut Creek, Florida",United States
+/fighter/Cole-Miller-13133,13133,Cole Miller,Magrinho,4/26/1984,73,145,American Top Team,Featherweight,"Augusta, Georgia",United States
+/fighter/Henry-Martinez-13237,13237,Henry Martinez,,8/7/1983,67,155,Team Irish,Lightweight,"Albuquerque, New Mexico",United States
+/fighter/Josh-Schockman-13270,13270,Josh Schockman,The Warhammer,12/29/1981,76,205,Dirty South Fight Team,Light Heavyweight,"Nashville, Tennessee",United States
+/fighter/Eric-Schafer-13275,13275,Eric Schafer,Red,9/20/1977,75,185,Red Schafer MMA,Middleweight,"Milwaukee, Wisconsin",United States
+/fighter/Terry-Etim-13332,13332,Terry Etim,,1/11/1986,73,155,Team Kaobon,Lightweight,Liverpool,England
+/fighter/Paulo-Thiago-13336,13336,Paulo Thiago,,1/25/1981,71,170,X-Gym,Welterweight,"Brasilia, Federal District",Brazil
+/fighter/Alejandro-Perez-13428,13428,Alejandro Perez,El Diablito,,66,136,KB-VT Gym,Bantamweight,Aguascalientes,Mexico
+/fighter/Jesse-Forbes-13453,13453,Jesse Forbes,Kid Hercules,10/24/1984,74,184,Power MMA Team,Middleweight,"Tempe, Arizona",United States
+/fighter/Chris-Clements-13469,13469,Chris Clements,The Menace,2/9/1976,70,170,Adrenaline Training Center,Welterweight,"Chatam, Ontario",Canada
+/fighter/Tyler-Toner-13539,13539,Tyler Toner,Thunder,,69,145,Elevation Fight Team,Featherweight,"Aurora, Colorado",United States
+/fighter/Dustin-Neace-13599,13599,Dustin Neace,The Beast,9/12/1986,69,146,Damage Incorporated,Featherweight,"Indianapolis, Indiana",United States
+/fighter/Colin-Robinson-13660,13660,Colin Robinson,Big C,11/27/1968,76,243,,Heavyweight,Ballymena,Northern Ireland
+/fighter/Rex-Holman-13745,13745,Rex Holman,,,75,205,,Light Heavyweight,"Columbus, Ohio",USA
+/fighter/Masanori-Kanehara-13767,13767,Masanori Kanehara,,11/18/1982,67,135,Alpha,Bantamweight,"Tachikawa, Tokyo",Japan
+/fighter/Bryan-Caraway-13791,13791,Bryan Caraway,Kid Lightning,8/4/1984,69,135,Xtreme Couture,Bantamweight,"Seattle, Washington",United States
+/fighter/Ian-Loveland-13793,13793,Ian Loveland,The Barn Owl,9/7/1983,68,135,Sports Lab,Bantamweight,"Portland, Oregon",United States
+/fighter/Seth-Baczynski-13827,13827,Seth Baczynski,The Polish Pistola,10/26/1981,75,170,Power MMA Team,Welterweight,"Apache Junction, Arizona",United States
+/fighter/David-Kaplan-13848,13848,David Kaplan,Diamond,,66,159,Team Tompkins,Welterweight,"Las Vegas, Nevada",United States
+/fighter/Rafael-Natal-13968,13968,Rafael Natal,Sapo,12/25/1982,72,185,Renzo Gracie Jiu-Jitsu,Middleweight,"Belo Horizonte, Minas Gerais",Brazil
+/fighter/Marcio-Cruz-13976,13976,Marcio Cruz,Pe de Pano,4/24/1978,76,205,Gracie Fusion,Light Heavyweight,Rio de Janeiro,Brazil
+/fighter/Shane-Carwin-14013,14013,Shane Carwin,,1/4/1975,74,254,Grudge Training Center,Heavyweight,"Greeley, Colorado",United States
+/fighter/Chad-Reiner-14016,14016,Chad Reiner,The Grinder,,72,170,Premier Combat Center,Welterweight,"Omaha, Nebraska",United States
+/fighter/Rory-MacDonald-14018,14018,Rory MacDonald,Red King,7/22/1989,71,170,Tristar Gym,Welterweight,"Kelowna, British Columbia",Canada
+/fighter/Paul-Kelly-14028,14028,Paul Kelly,Tellys,9/12/1984,69,169,Team Kaobon,Welterweight,Liverpool,England
+/fighter/Mike-Ciesnolevicz-14047,14047,Mike Ciesnolevicz,,10/28/1979,72,204,Miletich Martial Arts,Light Heavyweight,"Harrisburg, Pennsylvania",United States
+/fighter/Neil-Seery-14062,14062,Neil Seery,2 Tap,8/30/1979,66,125,Team Ryano MMA,Flyweight,"Dublin, Leinster",Ireland
+/fighter/Chris-Price-14121,14121,Chris Price,Exorcist,,74,203,Team IBJJA,Light Heavyweight,"Beach Grove, Indiana",United States
+/fighter/Joe-Ellenberger-14173,14173,Joe Ellenberger,Excalibur,3/28/1985,68,155,Premier Combat Center,Lightweight,"Omaha, Nebraska",United States
+/fighter/Jason-High-14185,14185,Jason High,The Kansas City Bandit,10/12/1981,69,155,American Top Team HD,Lightweight,"Kansas City, Missouri",United States
+/fighter/Frankie-Edgar-14204,14204,Frankie Edgar,The Answer,10/16/1981,66,145,Ricardo Almeida Jiu-Jitsu,Featherweight,"Toms River, New Jersey",United States
+/fighter/Lyman-Good-14207,14207,Lyman Good,Cyborg,5/26/1985,72,170,Team Tiger Schulmann,Welterweight,"New York City, New York",United States
+/fighter/Uriah-Hall-14210,14210,Uriah Hall,Primetime,7/31/1984,72,186,Team Tiger Schulmann,Middleweight,"New York City, New York",United States
+/fighter/James-Giboo-14266,14266,James Giboo,,6/1/1978,71,170,,Welterweight,"Yale, Iowa",USA
+/fighter/Matt-Brown-14310,14310,Matt Brown,The Immortal,1/10/1981,72,170,Team Jorge Gurgel,Welterweight,"Xenia, Ohio",United States
+/fighter/Thiago-Silva-14396,14396,Thiago Silva,,11/12/1982,73,208,Blackzilians,Heavyweight,Sao Paulo,Brazil
+/fighter/Jim-Miller-14463,14463,Jim Miller,,8/30/1983,68,155,Miller Brothers MMA,Lightweight,"Sparta, New Jersey",United States
+/fighter/Dan-Miller-14464,14464,Dan Miller,,6/30/1981,73,185,Miller Brothers MMA,Middleweight,"Sparta, New Jersey",United States
+/fighter/Sean-Salmon-14515,14515,Sean Salmon,,11/9/1977,70,205,,Light Heavyweight,"Columbus, Ohio",United States
+/fighter/Matt-Grice-14539,14539,Matt Grice,The Real One,7/29/1981,68,145,R-1 MMA,Featherweight,"Harrah, Oklahoma",United States
+/fighter/Bubba-McDaniel-14600,14600,Bubba McDaniel,The Menace,5/3/1983,75,190,,Light Heavyweight,"Wichita Falls, Texas",United States
+/fighter/Demian-Maia-14637,14637,Demian Maia,,11/6/1977,72,170,Demian Maia Jiu-Jitsu,Welterweight,"Santana de Parnaiba, Sao Paulo",Brazil
+/fighter/Francimar-Barroso-14702,14702,Francimar Barroso,Bodao,2/29/1980,73,205,Nova Uniao,Light Heavyweight,"Xapuri, Acre",Brazil
+/fighter/Hans-Stringer-14825,14825,Hans Stringer,,7/6/1987,74,205,Blackzilians,Light Heavyweight,Zevenbergen,Netherlands
+/fighter/Brian-Stann-14829,14829,Brian Stann,All-American,9/24/1980,73,185,Jackson-Wink MMA,Middleweight,"Jacksonville, North Carolina",United States
+/fighter/Mark-Holst-14862,14862,Mark Holst,Boots,8/14/1985,72,169,OAMA,Welterweight,"Ottawa, Ontario",Canada
+/fighter/Anton-Kuivanen-14865,14865,Anton Kuivanen,,5/1/1984,69,155,Primus Fight Team,Lightweight,Helsinki,Finland
+/fighter/Cung-Le-14883,14883,Cung Le,,5/25/1972,70,185,Cung Le's Universal Strength Headquarters,Middleweight,"San Jose, California",United States
+/fighter/Johnny-Rees-14891,14891,Johnny Rees,The Hater Hurter,,72,178,,Middleweight,"Greenwood, Indiana",United States
+/fighter/Jake-OBrien-14892,14892,Jake O'Brien,,9/25/1984,75,205,Integrated Fighting Academy,Light Heavyweight,"Indianapolis, Indiana",United States
+/fighter/Leonardo-Guimaraes-14971,14971,Leonardo Guimaraes,Leleco,4/15/1982,72,185,MMA Masters,Middleweight,"Salvador, Bahia",Brazil
+/fighter/Edinaldo-Oliveira-14972,14972,Ednaldo Oliveira,Lula Molusco,2/19/1984,77,205,Champion Team,Light Heavyweight,"Salvador, Bahia",Brazil
+/fighter/Joseph-Benavidez-15008,15008,Joseph Benavidez,,7/31/1984,64,125,Team Alpha Male,Flyweight,"Sacramento, California",United States
+/fighter/Erick-Silva-15009,15009,Erick Silva,The Tiger,6/21/1984,71,170,Team Nogueira,Welterweight,"Vila Velha, Espirito Santo",Brazil
+/fighter/Nik-Lentz-15058,15058,Nik Lentz,The Carny,8/13/1984,68,145,American Top Team,Featherweight,"St. Paul, Minnesota",United States
+/fighter/Stefan-Struve-15063,15063,Stefan Struve,Skyscraper,2/18/1988,84,265,Team Schrijber,Heavyweight,"Beverwijk, North Holland",Netherlands
+/fighter/Eliot-Marshall-15104,15104,Eliot Marshall,The Fire,7/7/1980,75,205,Grudge Training Center,Light Heavyweight,"Boulder, Colorado",United States
+/fighter/Donald-Cerrone-15105,15105,Donald Cerrone,Cowboy,3/29/1983,71,155,Jackson-Wink MMA,Lightweight,"Broomfield, Colorado",United States
+/fighter/TJ-Waldburger-15125,15125,T.J. Waldburger,,4/25/1988,71,170,Grapplers Lair Fight Team,Welterweight,"Belton, Texas",United States
+/fighter/Aaron-Rosa-15129,15129,Aaron Rosa,,5/28/1983,75,205,Rodrigo Pinheiro Brazilian Jiu-Jitsu,Light Heavyweight,"San Antonio, Texas",United States
+/fighter/George-Sullivan-15148,15148,George Sullivan,,3/13/1981,72,169,Pellegrino MMA,Welterweight,"Belmar, New Jersey",United States
+/fighter/Bobby-Voelker-15156,15156,Bobby Voelker,Vicious,4/26/1979,72,171,Finney's MMA,Welterweight,"Kansas City, Kansas",United States
+/fighter/Jessica-Aguilar-15174,15174,Jessica Aguilar,Jag,5/8/1982,64,115,American Top Team,Strawweight,"Houston, Texas",United States
+/fighter/Tom-Watson-15179,15179,Tom Watson,Kong,7/13/1982,73,185,Jackson-Wink MMA,Middleweight,Southampton,England
+/fighter/Jorge-Antonio-Cezario-de-Oliveira-15380,15380,Jorge Antonio Cezario de Oliveira,Blade,1/22/1980,70,155,Renovacao Fight Team,Lightweight,"Nilopolis, Rio de Janeiro",Brazil
+/fighter/Wendell-de-Oliveira-Marques-15393,15393,Wendell de Oliveira Marques,The Machine / Negao,6/1/1983,71,170,War Machine,Welterweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/John-Maguire-15574,15574,John Maguire,The One,5/19/1983,69,165,Tsunami Gym,Welterweight,"Wisbech, Cambridgeshire",England
+/fighter/Nate-Loughran-15626,15626,Nate Loughran,,,74,170,Nor-Cal Fighting Alliance,Welterweight,"Santa Rosa, California",United States
+/fighter/Luke-Zachrich-15720,15720,Luke Zachrich,,10/1/1981,74,185,Ronin Training Center,Middleweight,"Cincinnati, Ohio",United States
+/fighter/Jake-Hecht-15759,15759,Jake Hecht,Hitman,2/9/1984,72,170,Fiore MMA,Welterweight,"Moscow Mills, Missouri",United States
+/fighter/Andre-Gusmao-15806,15806,Andre Gusmao,,5/19/1977,74,185,,Middleweight,"Goiania, Goias",Brazil
+/fighter/Peter-Sobotta-15816,15816,Peter Sobotta,,1/11/1987,72,169,Planet Eater,Welterweight,Balingen,Germany
+/fighter/Joe-Vedepo-15833,15833,Joe Vedepo,The Doctor,1/1/1982,72,185,,Middleweight,"Cedar Rapids, Iowa",United States
+/fighter/Gray-Maynard-15835,15835,Gray Maynard,The Bully,9/5/1979,68,155,American Kickboxing Academy,Lightweight,"Santa Cruz, California",United States
+/fighter/Chuck-ONeil-15855,15855,Chuck O'Neil,Cold Steel,9/22/1985,74,185,Mass BJJ,Middleweight,"Bourne, Massachusetts",United States
+/fighter/Steven-Lynch-15882,15882,Steven Lynch,,,70,170,,Welterweight,Antrim,Northern Ireland
+/fighter/TJ-Grant-15906,15906,T.J. Grant,,2/26/1984,70,155,Fit Plus,Lightweight,"Cole Harbour, Nova Scotia",Canada
+/fighter/Roger-Hollett-15907,15907,Roger Hollett,The Hulk,10/8/1978,70,205,Titans MMA,Light Heavyweight,"Halifax, Nova Scotia",Canada
+/fighter/Chad-Griggs-15932,15932,Chad Griggs,The Grave Digger,5/15/1978,75,205,Apex MMA,Light Heavyweight,"Tucson, Arizona",United States
+/fighter/Yaotzin-Meza-15937,15937,Yaotzin Meza,,2/4/1981,69,145,MMA Lab,Featherweight,"Glendale, Arizona",United States
+/fighter/Jared-Hamman-15949,15949,Jared Hamman,The Messenger,3/7/1982,75,205,Dynamix MMA,Light Heavyweight,"Atascadero, California",United States
+/fighter/Ryan-Hall-15962,15962,Ryan Hall,,2/22/1985,70,145,50,Featherweight,"Arlington, Virginia",United States
+/fighter/Yui-Chul-Nam-15987,15987,Yui Chul Nam,The Korean Bulldozer,7/16/1981,69,145,,Featherweight,,South Korea
+/fighter/Jesse-Sanders-16098,16098,Jesse Sanders,,,73,170,,Welterweight,"Oskaloosa, Iowa",United States
+/fighter/Iuri-Alcantara-16129,16129,Iuri Alcantara,Marajo,8/4/1980,69,136,Marajo Brothers Team,Bantamweight,"Marajo, Para",Brazil
+/fighter/Rafael-Cavalcante-16161,16161,Rafael Cavalcante,Feijao,4/4/1980,72,205,Team Nogueira,Light Heavyweight,"Ilha Solteira, Sao Paulo",Brazil
+/fighter/Justin-Salas-16180,16180,Justin Salas,J-Bomb,3/13/1982,68,155,Grudge Training Center,Lightweight,"Wheat Ridge, Colorado",United States
+/fighter/Rousimar-Palhares-16286,16286,Rousimar Palhares,Toquinho,2/20/1980,68,170,Team Nogueira,Welterweight,"Dores do Indaia, Minas Gerais",Brazil
+/fighter/Ivan-Serati-16300,16300,Ivan Serati,,,73,225,Sure Grip Vale Tudo,Heavyweight,Monza,Italy
+/fighter/Dong-Hyun-Kim-16374,16374,Dong Hyun Kim,Stun Gun,11/17/1981,73,170,Busan Team M.A.D.,Welterweight,"Busan, Yeongnam",South Korea
+/fighter/George-Roop-16415,16415,George Roop,,11/10/1981,73,135,Apex MMA,Bantamweight,"Tucson, Arizona",United States
+/fighter/Fabio-Maldonado-16426,16426,Fabio Maldonado,Caipira de Aco,3/17/1980,73,205,American Top Team,Light Heavyweight,"Sorocaba, Sao Paulo",Brazil
+/fighter/Allen-Berube-16459,16459,Allen Berube,Monstah,8/25/1974,68,155,Gracie Tampa,Lightweight,"Biddeford, Maine",United States
+/fighter/Chris-Cariaso-16467,16467,Chris Cariaso,Kamikaze,5/27/1981,63,125,Fight and Fitness,Flyweight,"San Francisco, California",United States
+/fighter/Tamdan-McCrory-16470,16470,Tamdan McCrory,The Barn Cat,11/5/1986,76,170,CNY MMA,Welterweight,"Cortland, New York",United States
+/fighter/Sarah-Kaufman-16524,16524,Sarah Kaufman,,9/20/1985,65,136,Zugec Ultimate Martial Arts,Bantamweight,"Victoria, British Columbia",Canada
+/fighter/Ryan-Madigan-16551,16551,Ryan Madigan,The Lion,,72,170,Jungle Fight Team,Welterweight,"Cuyahoga Falls, Ohio",United States
+/fighter/Efrain-Escudero-16555,16555,Efrain Escudero,Hecho en Mexico,1/15/1986,69,155,MMA Lab,Lightweight,"Tempe, Arizona",United States
+/fighter/Dan-Lauzon-16556,16556,Dan Lauzon,The Upgrade,3/30/1988,70,170,Lauzon MMA,Welterweight,"Bridgewater, Massachusetts",United States
+/fighter/Kyle-Kingsbury-16558,16558,Kyle Kingsbury,Kingsbu,3/22/1982,76,205,American Kickboxing Academy,Light Heavyweight,"San Jose, California",United States
+/fighter/Tom-Speer-16635,16635,Tom Speer,The Farm Boy,8/20/1984,71,170,,Welterweight,"Elgin, Minnesota",United States
+/fighter/Matt-Hamill-16695,16695,Matt Hamill,The Hammer,10/5/1976,74,205,,Light Heavyweight,"Loveland, Ohio",United States
+/fighter/Danny-Abbadi-16696,16696,Danny Abbadi,,,71,185,,Middleweight,"Orlando, Florida",United States
+/fighter/John-Hathaway-16704,16704,John Hathaway,The Hitman,7/1/1987,74,170,London Shootfighters,Welterweight,"Brighton, Sussex",England
+/fighter/Alberto-Mina-16705,16705,Alberto Mina,Soldier of God,5/2/1982,72,170,Kings MMA,Welterweight,"Campina Grande, Paraiba",Brazil
+/fighter/Danny-Martinez-16777,16777,Danny Martinez,The Gremlin,6/14/1985,65,135,Alliance MMA,Bantamweight,"Tempe, Arizona",United States
+/fighter/Travis-Browne-16785,16785,Travis Browne,Hapa,7/17/1982,79,236,Glendale Fighting Club,Heavyweight,"Oahu, Hawaii",United States
+/fighter/Katsunori-Kikuno-16806,16806,Katsunori Kikuno,,10/30/1981,68,145,Alliance-Square,Featherweight,Kagoshima,Japan
+/fighter/David-Mitchell-16830,16830,David Mitchell,Bulletproof,10/24/1979,72,185,Team Alpha Male,Middleweight,"Windsor, California",United States
+/fighter/Scott-Jorgensen-16852,16852,Scott Jorgensen,Young Guns,9/17/1982,65,135,Twisted Genetiks,Bantamweight,"Boise, Idaho",United States
+/fighter/Rob-Yundt-16858,16858,Rob Yundt,,5/5/1980,,185,,Middleweight,"Wasilla, Alaska",USA
+/fighter/Tiequan-Zhang-16984,16984,Tiequan Zhang,The Wolf,7/25/1978,69,145,China Top Team,Featherweight,Beijing,China
+/fighter/Joe-Soto-17004,17004,Joe Soto,One Bad Mofo,3/22/1987,66,135,Central Valley Combat Academy,Bantamweight,"Porterville, California",United States
+/fighter/Rameau-Thierry-Sokoudjou-17010,17010,Rameau Thierry Sokoudjou,The African Assassin,4/18/1984,70,205,Team Quest,Light Heavyweight,"San Diego, California",United States
+/fighter/Joe-Brammer-17016,17016,Joe Brammer,The Southside Strangler,8/30/1983,68,156,Victory MMA,Lightweight,"Des Moines, Iowa",United States
+/fighter/Andre-Winner-17034,17034,Andre Winner,,11/9/1981,71,155,Team Rough House,Lightweight,"Leicester, Leicestershire",England
+/fighter/Joseph-Duffy-17052,17052,Joseph Duffy,Irish Joe,2/18/1988,70,155,The MMA Clinic,Lightweight,Donegal,Ireland
+/fighter/Abel-Trujillo-17129,17129,Abel Trujillo,Killa,9/18/1983,68,155,Blackzilians,Lightweight,"Des Moines, Iowa",United States
+/fighter/Jesse-Lennox-17139,17139,Jesse Lennox,The Ox,3/10/1982,69,170,Miletich Martial Arts,Welterweight,"Cedar Rapids, Iowa",United States
+/fighter/Chris-Camozzi-17224,17224,Chris Camozzi,,11/20/1986,75,185,factoryX Muay Thai,Middleweight,"Englewood, Colorado",United States
+/fighter/Junior-dos-Santos-17272,17272,Junior dos Santos,Cigano,1/30/1984,76,239,Champion Team,Heavyweight,"Cacadores, Santa Catarina",Brazil
+/fighter/Jonathan-Brookins-17316,17316,Jonathan Brookins,,8/13/1985,72,135,Gracie Barra Orlando,Bantamweight,"Orlando, Florida",United States
+/fighter/Byron-Bloodworth-17355,17355,Byron Bloodworth,,8/16/1983,69,135,Iron Clutch Fitness,Bantamweight,"Atlanta, Georgia",United States
+/fighter/Jesse-Taylor-17389,17389,Jesse Taylor,JT Money,1/2/1984,73,185,The Arena,Middleweight,"Poway, California",United States
+/fighter/Shane-del-Rosario-17393,17393,Shane del Rosario,,9/23/1983,75,246,Team Oyama,Heavyweight,"Irvine, California",United States
+/fighter/Josh-Samman-17460,17460,Josh Samman,Anqa,3/14/1988,75,186,MMA Masters,Middleweight,"Tallahassee, Florida",United States
+/fighter/Brock-Lesnar-17522,17522,Brock Lesnar,,7/12/1977,75,264,Team Death Clutch,Heavyweight,"Webster, South Dakota",United States
+/fighter/Luiz-Cane-17559,17559,Luiz Cane,Banha,4/2/1981,74,205,Demian Maia Jiu-Jitsu,Light Heavyweight,"Sao Paulo, Sao Paulo",Brazil
+/fighter/Joao-Zeferino-17577,17577,Joao Zeferino,The Brazilian Samurai,1/15/1986,71,155,Rangel Farias Team,Lightweight,"Florianopolis, Santa Catarina",Brazil
+/fighter/Nissen-Osterneck-17591,17591,Nissen Osterneck,,5/1/1981,74,185,Relson Gracie Jiu-Jitsu,Middleweight,"Maui, Hawaii",United States
+/fighter/Anthony-Johnson-17662,17662,Anthony Johnson,Rumble,3/6/1984,74,205,Blackzilians,Light Heavyweight,"Boca Raton, Florida",United States
+/fighter/Daniel-Sarafian-17665,17665,Daniel Sarafian,,8/21/1982,69,185,Power MMA,Middleweight,"Sao Paulo, Sao Paulo",Brazil
+/fighter/Tim-Gorman-17717,17717,Tim Gorman,The Psycho,4/29/1983,64,135,Des Moines MMA Academy,Bantamweight,"Des Moines, Iowa",United States
+/fighter/Brian-Foster-17723,17723,Brian Foster,,4/4/1984,70,155,factoryX Muay Thai,Lightweight,"Sallisaw, Oklahoma",United States
+/fighter/Jason-Young-17758,17758,Jason Young,Shotgun,6/28/1986,69,145,American Top Team,Featherweight,London,England
+/fighter/Carlos-Augusto-Inocente-Filho-17786,17786,Carlos Augusto Inocente Filho,Guto,5/29/1986,75,205,Blackzilians,Light Heavyweight,"Brasilia, Federal District",Brazil
+/fighter/Gerald-Harris-17903,17903,Gerald Harris,Hurricane,11/19/1979,71,170,Ghost Dog,Welterweight,"Tulsa, Oklahoma",United States
+/fighter/Mike-de-la-Torre-17915,17915,Mike de la Torre,El Cucuy,9/22/1986,72,135,MMA Lab,Bantamweight,"San Diego, California",United States
+/fighter/Justin-Buchholz-18062,18062,Justin Buchholz,,8/22/1983,71,155,Team Alpha Male,Lightweight,"Sacramento, California",United States
+/fighter/Julio-Paulino-18106,18106,Julio Paulino,Dominican Demon,,72,170,,Welterweight,"Anchorage, Alaska",United States
+/fighter/Hector-Urbina-18168,18168,Hector Urbina,El Toro,9/17/1987,72,170,American Top Team,Welterweight,"Chicago, Illinois",United States
+/fighter/Douglas-Evans-18184,18184,Douglas Evans,,10/10/1980,69,144,AK Wolfpack,Featherweight,"Anchorage, Alaska",United States
+/fighter/Mark-Scanlon-18253,18253,Mark Scanlon,Scanno,,69,170,Team Kaobon,Welterweight,"Liverpool, Merseyside",England
+/fighter/Shane-Primm-18304,18304,Shane Primm,,7/30/1984,76,185,Gracie Tampa,Middleweight,"Tampa, Florida",United States
+/fighter/Ryan-McGillivray-18533,18533,Ryan McGillivray,The Kid,9/27/1986,71,170,Jackson-Wink MMA,Welterweight,"Edmonton, Alberta",Canada
+/fighter/Anthony-Lapsley-18590,18590,Anthony Lapsley,The Recipe,2/13/1980,69,170,,Welterweight,"Fort Wayne, Indiana",United States
+/fighter/Waylon-Lowe-18744,18744,Waylon Lowe,,10/31/1980,67,160,,Welterweight,"Philadelphia, Pennsylvania",United States
+/fighter/Rin-Nakai-18887,18887,Rin Nakai,,10/22/1986,61,135,Pancrase Venus,Bantamweight,"Matsuyama, Ehime",Japan
+/fighter/Matt-Lucas-18915,18915,Matt Lucas,Luke Duke,,73,205,Arizona Combat Sports,Light Heavyweight,"Mesa, Arizona",United States
+/fighter/Reza-Madadi-18921,18921,Reza Madadi,Mad Dog,6/20/1978,71,155,Allstars Training Center,Lightweight,Tehran,"Iran, Islamic Republic of"
+/fighter/Brian-Bowles-18944,18944,Brian Bowles,,6/22/1980,67,135,Hardcore Gym,Bantamweight,"Athens, Georgia",United States
+/fighter/Greg-Soto-19080,19080,Greg Soto,,6/3/1986,71,170,Pellegrino MMA,Welterweight,"Oakhurst, New Jersey",United States
+/fighter/Cain-Velasquez-19102,19102,Cain Velasquez,,7/28/1982,73,241,American Kickboxing Academy,Heavyweight,"Salinas, California",United States
+/fighter/Nick-Denis-19128,19128,Nick Denis,The Ninja of Love,10/11/1983,66,135,Ronin MMA,Bantamweight,"Ottawa, Ontario",Canada
+/fighter/Motonobu-Tezuka-19390,19390,Motonobu Tezuka,,8/29/1987,67,135,Cobra Kai MMA Dojo,Bantamweight,Nagano,Japan
+/fighter/Matt-Arroyo-19456,19456,Matt Arroyo,No Regard,9/10/1982,72,155,,Lightweight,"Cobleskill, New York",United States
+/fighter/Logan-Clark-19478,19478,Logan Clark,The Pink Pounder,2/16/1985,74,185,Minnesota Martial Arts Academy,Middleweight,"Eyota, Minnesota",United States
+/fighter/Leandro-Issa-19521,19521,Leandro Issa,Brodinho,9/19/1983,66,136,Evolve MMA,Bantamweight,"Ubatuba, Sao Paulo",Brazil
+/fighter/Antonio-Braga-Neto-19530,19530,Antonio Braga Neto,,10/29/1987,75,185,Team Nogueira,Middleweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Tim-Boetsch-19544,19544,Tim Boetsch,The Barbarian,1/28/1981,71,205,Team Irish,Light Heavyweight,"Lincolnville, Maine",United States
+/fighter/Tim-Hague-19599,19599,Tim Hague,The Thrashing Machine,9/5/1983,76,264,Black Sheep MMA,Heavyweight,"Boyle, Alberta",Canada
+/fighter/Sean-McCorkle-19640,19640,Sean McCorkle,Big Sexy,7/17/1976,79,312,Team James Clingerman,Super Heavyweight,"Indianapolis, Indiana",United States
+/fighter/Johnny-Bedford-19717,19717,Johnny Bedford,Brutal,1/6/1983,69,135,Fitness Fight Factory,Bantamweight,"Fort Worth, Texas",United States
+/fighter/Dave-Herman-19720,19720,Dave Herman,,10/3/1984,76,223,Team Quest,Heavyweight,"Columbia City, Indiana",United States
+/fighter/Paul-Bradley-19726,19726,Paul Bradley,The Gentleman,5/17/1983,69,170,Alliance MMA,Welterweight,"San Diego, California",United States
+/fighter/Ryan-Roberts-19761,19761,Ryan Roberts,Are You Ready?,7/16/1978,66,139,Disorderly Conduct,Featherweight,"Omaha, Nebraska",United States
+/fighter/Hacran-Dias-19789,19789,Hacran Dias,Barnabe,5/16/1984,68,145,Nova Uniao,Featherweight,Rio de Janeiro,Brazil
+/fighter/Roger-Gracie-19854,19854,Roger Gracie,,9/26/1981,76,186,Black House,Middleweight,Rio de Janeiro,Brazil
+/fighter/Jeremy-Larsen-19863,19863,Jeremy Larsen,,3/11/1986,70,145,Arizona Combat Sports,Featherweight,"Phoenix, Arizona",United States
+/fighter/Simeon-Thoresen-19977,19977,Simeon Thoresen,The Grin,3/14/1984,73,170,Frontline Academy,Welterweight,Oslo,Norway
+/fighter/Neil-Wain-20121,20121,Neil Wain,Old Skool,,70,242,,Heavyweight,Doncaster,England
+/fighter/Ryan-Thomas-20224,20224,Ryan Thomas,The Tank Engine,11/5/1984,72,170,American Top Team,Welterweight,"Danville, Illinois",United States
+/fighter/Marcelo-Guimaraes-20277,20277,Marcelo Guimaraes,Magrao,6/25/1983,72,185,Caveira Team,Middleweight,"Itapemirim, Espirito Santo",Brazil
+/fighter/Josh-Grispi-20416,20416,Josh Grispi,The Fluke,10/14/1988,71,146,South Shore Sport Fighting,Featherweight,"Rockland, Massachusetts",United States
+/fighter/Ronys-Torres-20447,20447,Ronys Torres,,8/13/1986,68,155,Nova Uniao,Lightweight,"Manacapuru, Amazonas",Brazil
+/fighter/Kevin-Burns-20512,20512,Kevin Burns,The Fire,3/3/1980,72,170,Grudge Training Center,Welterweight,"Des Moines, Iowa",United States
+/fighter/Zach-Makovsky-20522,20522,Zach Makovsky,Fun Size,6/30/1982,64,125,Philadelphia Fight Factory,Flyweight,"Bethlehem, Pennsylvania",United States
+/fighter/Benson-Henderson-20548,20548,Benson Henderson,Smooth,11/16/1983,69,155,MMA Lab,Lightweight,"Glendale, Arizona",United States
+/fighter/Mike-Russow-20552,20552,Mike Russow,,11/9/1976,73,256,,Heavyweight,"Chicago, Illinois",United States
+/fighter/Shamar-Bailey-20744,20744,Shamar Bailey,The Watchman,9/22/1982,68,170,Sparta Indy,Welterweight,"Indianapolis, Indiana",United States
+/fighter/Papy-Abedi-20812,20812,Papy Abedi,Makambo,6/30/1978,71,170,Allstars Training Center,Welterweight,Stockholm,Sweden
+/fighter/Shane-Howell-20906,20906,Shane Howell,,11/28/1983,68,125,R-1 MMA,Flyweight,"Norman, Oklahoma",United States
+/fighter/Enrique-Briones-20939,20939,Enrique Briones,Henry Bure,,67,135,Entram Gym,Bantamweight,"Tijuana, Baja California",Mexico
+/fighter/Mike-Stumpf-20967,20967,Mike Stumpf,,8/1/1986,70,170,Team Curran,Welterweight,"Crystal Lake, Illinois",United States
+/fighter/Kiichi-Kunimoto-21039,21039,Kiichi Kunimoto,Strasser,5/1/1981,70,169,Cobra Kai MMA Dojo,Welterweight,Osaka,Japan
+/fighter/Hyun-Gyu-Lim-21040,21040,Hyun Gyu Lim,The Ace,1/16/1985,74,170,Korean Top Team,Welterweight,Seoul,South Korea
+/fighter/Ryan-Jimmo-21044,21044,Ryan Jimmo,The Big Deal,11/27/1981,74,205,Power MMA Team,Light Heavyweight,"Halifax, Nova Scotia",Canada
+/fighter/Clay-Harvison-21131,21131,Clay Harvison,Heavy Metal,9/25/1980,73,160,Madhouse Training,Welterweight,"Marietta, Georgia",United States
+/fighter/Ronny-Marki-Sales-da-Silva-21175,21175,Ronny Markes,,4/21/1988,73,190,Nova Uniao Kimura,Light Heavyweight,"Natal, Rio Grande do Norte",Brazil
+/fighter/Joey-Beltran-21219,21219,Joey Beltran,Mexicutioner,12/9/1981,73,185,Blackline,Middleweight,"San Diego, California",United States
+/fighter/Seo-Hee-Ham-21246,21246,Seo Hee Ham,,3/8/1987,62,115,CMA Korea,Strawweight,Busan,South Korea
+/fighter/Jessica-Penne-21247,21247,Jessica Penne,,1/30/1983,65,115,Alliance MMA,Strawweight,"Huntington Beach, California",United States
+/fighter/Robbie-Peralta-21339,21339,Robbie Peralta,Problems,3/14/1986,68,145,Team Xplode MMA,Featherweight,"Escondido, California",United States
+/fighter/Sergio-Moraes-21343,21343,Sergio Moraes,The Panther,7/23/1982,72,170,Evolucao Thai,Welterweight,"Sao Paulo, Sao Paulo",Brazil
+/fighter/Justin-Wren-21401,21401,Justin Wren,The Big Pygmy,4/27/1987,75,265,Grudge Training Center,Heavyweight,"Ames, Iowa",United States
+/fighter/Sirwan-Kakai-21446,21446,Sirwan Kakai,Zohan,10/3/1989,66,135,GBG MMA,Bantamweight,Gothenburg,Sweden
+/fighter/Daniel-Pineda-21564,21564,Daniel Pineda,The Pit,8/6/1985,67,155,4oz. Fight Club,Lightweight,"Houston, Texas",United States
+/fighter/Marcus-Brimage-21618,21618,Marcus Brimage,The Bama Beast,4/6/1985,64,135,American Top Team,Bantamweight,"Birmingham, Alabama",United States
+/fighter/Steve-Steinbeiss-21627,21627,Steve Steinbeiss,The Hooligan,5/5/1981,75,186,Power MMA Team,Middleweight,"Phoenix, Arizona",United States
+/fighter/Dong-Hyun-Kim-21673,21673,Dong Hyun  Kim,Maestro,,71,170,Busan Team M.A.D.,Welterweight,Busan,South Korea
+/fighter/Angela-Magana-21720,21720,Angela Magana,Your Majesty,8/2/1983,64,115,Team Four Corners,Strawweight,"Farmington, New Mexico",United States
+/fighter/Richie-Vaculik-21798,21798,Richie Vaculik,Vas,6/19/1983,66,125,TP Fight Team,Flyweight,"Maroubra, New South Wales",Australia
+/fighter/Dylan-Andrews-21803,21803,Dylan Andrews,The Villain,11/15/1979,73,185,Heartbreak Conditioning,Middleweight,,New Zealand
+/fighter/Valerie-Letourneau-21851,21851,Valerie Letourneau,Trouble,4/29/1983,67,116,American Top Team,Strawweight,"Montreal, Quebec",Canada
+/fighter/Todd-Brown-21887,21887,Todd Brown,Bulldog,12/13/1976,71,185,Bulldog Fight Team,Middleweight,"Mishawaka, Indiana",United States
+/fighter/Tarec-Saffiedine-21912,21912,Tarec Saffiedine,Sponge,9/6/1986,69,169,Evolve MMA,Welterweight,,Belgium
+/fighter/Tom-Lawlor-21940,21940,Tom Lawlor,Filthy,5/15/1983,72,205,The Jungle MMA,Light Heavyweight,"Fall River, Massachusetts",United States
+/fighter/Anistavio-Medeiros-de-Figueiredo-21962,21962,Anistavio Medeiros de Figueiredo,Gasparzinho,5/1/1988,67,145,Pitbull Brothers,Featherweight,"Natal, Rio Grande do Norte",Brazil
+/fighter/Josh-Bryant-21971,21971,Josh Bryant,The Beast,4/23/1980,72,185,Absolute Combat Alliance,Middleweight,"Broken Arrow, Oklahoma",United States
+/fighter/Evan-Dunham-22038,22038,Evan Dunham,,12/18/1981,70,155,Xtreme Couture,Lightweight,"Eugene, Oregon",United States
+/fighter/Alexis-Davis-22071,22071,Alexis Davis,Ally-Gator,10/4/1984,65,136,Cesar Gracie Fight Team,Bantamweight,"Port Colborne, Ontario",Canada
+/fighter/Darren-Elkins-22094,22094,Darren Elkins,The Damage,5/16/1984,70,145,Duneland Vale Tudo,Featherweight,"Hobart, Indiana",United States
+/fighter/Josh-Clopton-22105,22105,Josh Clopton,The Gentleman,7/11/1981,67,145,Skrap Pack,Featherweight,"San Francisco, California",United States
+/fighter/James-McSweeney-22111,22111,James McSweeney,The Hammer,10/24/1980,76,206,Tiger Muay Thai,Light Heavyweight,"London, Greater London",England
+/fighter/TJ-OBrien-22127,22127,T.J. O'Brien,The Spider,1/1/1987,74,155,Des Moines Jiu-Jitsu,Lightweight,"Prole, Iowa",United States
+/fighter/Magnus-Cedenblad-22137,22137,Magnus Cedenblad,Jycken,4/10/1982,75,185,Allstars Training Center,Middleweight,Stockholm,Sweden
+/fighter/Cody-McKenzie-22173,22173,Cody McKenzie,The AK Kid,12/16/1987,72,170,Warrior Camp,Welterweight,"Cordova, Alaska",United States
+/fighter/Wagner-Campos-22197,22197,Wagner Campos,Galeto,7/31/1981,66,145,Fight Only,Featherweight,"Pinhais, Parana",Brazil
+/fighter/Valmir-Lazaro-22216,22216,Valmir Lazaro,Bidu,8/15/1985,72,154,Nova Uniao,Lightweight,"Salvador, Bahia",Brazil
+/fighter/Michel-Richard-Cunha-dos-Prazeres-22218,22218,Michel Richard Cunha dos Prazeres,Trator,7/25/1983,66,155,Coalizao Fight Team,Lightweight,"Belem, Para",Brazil
+/fighter/Ildemar-Alcantara-22223,22223,Ildemar Alcantara,Marajo,11/17/1982,74,185,Marajo Brothers Team,Middleweight,"Soure, Para",Brazil
+/fighter/Chase-Gormley-22247,22247,Chase Gormley,,,75,264,Reign MMA,Heavyweight,"Los Angeles, California",United States
+/fighter/Brandon-Thatch-22298,22298,Brandon Thatch,Rukus,7/11/1985,74,170,Elevation Fight Team,Welterweight,"Denver, Colorado",United States
+/fighter/Cody-Donovan-22304,22304,Cody Donovan,Donnybrook,2/20/1981,75,205,Grudge Training Center,Light Heavyweight,"Denver, Colorado",United States
+/fighter/CB-Dollaway-22350,22350,C.B. Dollaway,The Doberman,8/10/1983,74,185,Power MMA Team,Middleweight,"Tempe, Arizona",United States
+/fighter/Kevin-Ferguson-22388,22388,Kevin Ferguson,Kimbo Slice,2/8/1974,74,225,American Top Team,Heavyweight,"Miami, Florida",United States
+/fighter/Cezar-Ferreira-22400,22400,Cezar Ferreira,Mutante,2/15/1985,73,185,Blackzilians,Middleweight,"Ibitinga, Sao Paulo",Brazil
+/fighter/Mark-Munoz-22411,22411,Mark Munoz,The Filipino Wrecking Machine,2/9/1978,72,185,Reign MMA,Middleweight,"Mission Viejo, California",United States
+/fighter/Edwin-Figueroa-22490,22490,Edwin Figueroa,El Feroz,7/31/1984,67,135,Mohler MMA,Bantamweight,"McKinney, Texas",United States
+/fighter/Steven-Siler-22537,22537,Steven Siler,Super,2/15/1987,71,164,The Pit Elevated Fight Team,Welterweight,"Provo, Utah",United States
+/fighter/Mitch-Clarke-22556,22556,Mitch Clarke,Danger Zone,11/24/1985,70,154,MMA Lab,Lightweight,"Saskatoon, Saskatchewan",Canada
+/fighter/Akira-Corassani-22641,22641,Akira Corassani,,8/27/1982,68,145,Renzo Gracie Jiu-Jitsu,Featherweight,Gothenburg,Sweden
+/fighter/Shunichi-Shimizu-22677,22677,Shunichi Shimizu,Rolling Star,1/31/1985,66,125,Uruno Dojo,Flyweight,Tokyo,Japan
+/fighter/Steve-Bosse-22732,22732,Steve Bosse,The Boss,7/29/1981,71,202,Tristar Gym,Light Heavyweight,"Montreal, Quebec",Canada
+/fighter/Frank-Lester-22791,22791,Frank Lester,The Tank,6/10/1984,71,170,Jackson-Wink MMA,Welterweight,"Temecula, California",United States
+/fighter/Ryan-Bader-22858,22858,Ryan Bader,Darth,6/7/1983,74,205,Power MMA Team,Light Heavyweight,"Tempe, Arizona",United States
+/fighter/Quinn-Mulhern-22873,22873,Quinn Mulhern,,9/20/1984,75,155,Jackson-Wink MMA,Lightweight,"Santa Fe, New Mexico",United States
+/fighter/Todd-Duffee-22903,22903,Todd Duffee,,12/6/1985,75,241,American Top Team,Heavyweight,"Evansville, Indiana",United States
+/fighter/Chris-Tickle-22955,22955,Chris Tickle,Bad Boy,2/1/1982,69,160,Adrenaline MMA,Welterweight,"Bloomington, Illinois",United States
+/fighter/Nick-Catone-23006,23006,Nick Catone,The Jersey Devil,9/1/1981,72,173,Nick Catone MMA Academy,Middleweight,"Englewood, New Jersey",United States
+/fighter/Roger-Bowling-23052,23052,Roger Bowling,Relentless,12/5/1982,68,155,Team Vision,Lightweight,"Cincinnati, Ohio",United States
+/fighter/Michelle-Waterson-23091,23091,Michelle Waterson,The Karate Hottie,1/6/1986,63,105,Jackson-Wink MMA,Atomweight,"Albuquerque, New Mexico",United States
+/fighter/Edgar-Garcia-23108,23108,Edgar Garcia,,2/22/1984,70,170,Arizona Athletic Club,Welterweight,"Yuma, Arizona",United States
+/fighter/Renan-Barao-23156,23156,Renan Barao,The Baron,1/31/1987,67,135,Nova Uniao,Bantamweight,"Natal, Rio Grande do Norte",Brazil
+/fighter/Tae-Hyun-Bang-23167,23167,Tae Hyun Bang,The Supernatural,4/15/1983,69,156,Korean Top Team,Lightweight,Seoul,South Korea
+/fighter/Neil-Grove-23219,23219,Neil Grove,Goliath,1/18/1971,78,264,Daigaku Karate Kai London,Heavyweight,London,England
+/fighter/James-Head-23253,23253,James Head,,2/9/1984,74,170,R-1 MMA,Welterweight,"Oklahoma City, Oklahoma",United States
+/fighter/Jorge-Lopez-23271,23271,Jorge Lopez,Lil' Monster,11/21/1988,70,170,Wand Fight Team,Welterweight,"Las Vegas, Nevada",United States
+/fighter/Jake-Rosholt-23322,23322,Jake Rosholt,,2/9/1982,73,205,Team Takedown,Light Heavyweight,"Dallas, Texas",United States
+/fighter/Razak-Al-Hassan-23326,23326,Razak Al-Hassan,Razor,5/14/1982,75,205,Roufusport,Light Heavyweight,"Milwaukee, Wisconsin",United States
+/fighter/Luke-Rockhold-23345,23345,Luke Rockhold,,10/17/1984,75,185,American Kickboxing Academy,Middleweight,"San Jose, California",United States
+/fighter/Matt-Veach-23350,23350,Matt Veach,,5/31/1981,67,170,Finney's HIT Squad,Welterweight,"Granite City, Illinois",United States
+/fighter/Erik-Koch-23390,23390,Erik Koch,New Breed,10/4/1988,70,145,Roufusport,Featherweight,"Cedar Rapids, Iowa",United States
+/fighter/Wilson-Reis-23401,23401,Wilson Reis,,1/6/1985,64,125,Brazilian Jiu-Jitsu United,Flyweight,"Januaria, Minas Gerais",Brazil
+/fighter/Charlie-Brenneman-23403,23403,Charlie Brenneman,The Spaniard,2/9/1981,70,155,AMA Fight Club,Lightweight,"Hollidaysburg, Pennsylvania",United States
+/fighter/Alan-Omer-23437,23437,Alan Omer,,9/14/1988,69,145,Stallion Cage,Featherweight,"Erbil, Kurdistan Region",Iraq
+/fighter/Dongi-Yang-23501,23501,Dongi Yang,The Ox,12/7/1984,71,185,Korean Top Team,Middleweight,Seoul,South Korea
+/fighter/Paul-Sass-23531,23531,Paul Sass,Sassangle,8/4/1988,73,155,Team Kaobon,Lightweight,Liverpool,England
+/fighter/Marcus-LeVesseur-23538,23538,Marcus LeVesseur,The Prospect,7/17/1983,70,155,Minnesota Fight Factory,Lightweight,"Minneapolis, Minnesota",United States
+/fighter/Sheldon-Westcott-23648,23648,Sheldon Westcott,,8/20/1984,73,170,Complete Fitness and Martial Arts,Welterweight,"St. Albert, Alberta",Canada
+/fighter/Nick-Penner-23736,23736,Nick Penner,The Quiet Assassin,3/26/1980,72,205,Frank Lee's Muay Thai,Light Heavyweight,"Blumenort, Manitoba",Canada
+/fighter/Daniel-Barrera-23762,23762,Daniel Barrera,,12/23/1980,,170,,Welterweight,"Radcliff, Kentucky",United States
+/fighter/Buddy-Roberts-23811,23811,Buddy Roberts,,10/17/1982,74,185,Jackson-Wink MMA,Middleweight,"Albuquerque, New Mexico",United States
+/fighter/Amilcar-Alves-23841,23841,Amilcar Alves,,12/13/1979,72,201,Nova Uniao,Light Heavyweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Mario-Miranda-23852,23852,Mario Miranda,Super Mario,9/21/1978,75,185,Black House,Middleweight,Rio de Janeiro,Brazil
+/fighter/Corey-Hill-23864,23864,Corey Hill,The Real Deal,10/3/1978,76,168,KO Evolution,Welterweight,"Brookfield, Florida",United States
+/fighter/Ricardo-Romero-23978,23978,Ricardo Romero,,4/15/1978,72,205,AMA Fight Club,Light Heavyweight,"North Brunswick, New Jersey",United States
+/fighter/Drew-Dober-23982,23982,Drew Dober,,10/19/1988,68,155,MidAmerica Martial Arts,Lightweight,"Omaha, Nebraska",United States
+/fighter/Daniel-Roberts-23999,23999,Daniel Roberts,Ninja,8/5/1980,70,170,Cesar Gracie Fight Team,Welterweight,"Rockford, Illinois",United States
+/fighter/Ricardo-Funch-24057,24057,Ricardo Funch,Golden Boy,8/14/1980,70,170,Team Link,Welterweight,"Ludlow, Massachusetts",United States
+/fighter/Kyung-Ho-Kang-24067,24067,Kyung Ho Kang,Mr. Perfect,9/9/1987,69,135,Busan Team M.A.D.,Bantamweight,"Busan, Yeongnam",South Korea
+/fighter/Kevin-Casey-24121,24121,Kevin Casey,King,6/15/1981,71,185,Black House,Middleweight,"Los Angeles, California",United States
+/fighter/Rolles-Gracie-24217,24217,Rolles Gracie,,7/14/1978,76,249,Renzo Gracie Jiu-Jitsu,Heavyweight,Rio de Janeiro,Brazil
+/fighter/Johny-Hendricks-24539,24539,Johny Hendricks,Bigg Rigg,9/12/1983,69,170,Team Takedown,Welterweight,"Ada, Oklahoma",United States
+/fighter/Shane-Roller-24540,24540,Shane Roller,,7/14/1979,70,155,Team Takedown,Lightweight,"Bixby, Oklahoma",United States
+/fighter/Jacob-Volkmann-24765,24765,Jacob Volkmann,Christmas,9/5/1980,69,170,Minnesota Martial Arts Academy,Welterweight,"White Bear Lake, Minnesota",United States
+/fighter/Roman-Salazar-24790,24790,Roman Salazar,El Gallito,2/21/1988,67,135,Fight Ready,Bantamweight,"Scottsdale, Arizona",United States
+/fighter/Ken-Stone-24913,24913,Ken Stone,,10/8/1982,68,135,American Top Team,Bantamweight,"Coconut Creek, Florida",United States
+/fighter/Josh-Shockley-24948,24948,Josh Shockley,,11/15/1989,73,155,Duneland Vale Tudo,Lightweight,"Lake Station, Indiana",United States
+/fighter/Estevan-Payan-24952,24952,Estevan Payan,El Terrible,4/3/1982,70,148,Arizona Combat Sports,Lightweight,"Tempe, Arizona",United States
+/fighter/Aaron-Simpson-24986,24986,Aaron Simpson,A-Train,7/20/1974,72,170,Power MMA Team,Welterweight,"Phoenix, Arizona",United States
+/fighter/Diego-Brandao-25097,25097,Diego Brandao,DB,5/27/1987,67,145,Jackson-Wink MMA,Featherweight,"Fortaleza, Ceara",Brazil
+/fighter/Aisling-Daly-25245,25245,Aisling Daly,Ais the Bash,12/24/1987,63,116,SBG Ireland,Strawweight,"Dublin, Leinster",Ireland
+/fighter/Gunnar-Nelson-25246,25246,Gunnar Nelson,Gunni,7/28/1988,71,170,Mjolnir,Welterweight,Reykjavik,Iceland
+/fighter/Eric-Wisely-25320,25320,Eric Wisely,Little Lee,7/25/1984,68,160,Team Conquest,Welterweight,"Clinton, Iowa",United States
+/fighter/Nathan-Coy-25412,25412,Nathan Coy,Soulforce,7/24/1978,70,170,American Top Team,Welterweight,"Portland, Oregon",United States
+/fighter/Mike-Pierce-25415,25415,Mike Pierce,,9/1/1980,68,170,Sports Lab,Welterweight,"Portland, Oregon",United States
+/fighter/Pat-Audinwood-25476,25476,Pat Audinwood,Awesomely Awesome,4/16/1986,72,155,Team Bombsquad,Lightweight,"Cortland, New York",United States
+/fighter/Fernando-Bruno-25491,25491,Fernando Bruno,Acougueiro,2/24/1982,66,145,Nova Uniao,Featherweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Mike-Wessel-25524,25524,Mike Wessel,The Juggernaut,12/2/1977,72,263,Westside Fight Team,Heavyweight,"Little Rock, Arkansas",United States
+/fighter/Cameron-Dollar-25531,25531,Cameron Dollar,The Money Man,5/12/1987,71,145,Colorado Fight Factory,Featherweight,"Colorado Springs, Colorado",United States
+/fighter/Gabriel-Benitez-25733,25733,Gabriel Benitez,Moggly,6/15/1988,68,145,Entram Gym,Featherweight,"Tijuana, Baja California",Mexico
+/fighter/Chris-Cope-25784,25784,Chris Cope,C-Murder,3/5/1983,72,170,The Arena,Welterweight,"San Diego, California",United States
+/fighter/Jan-Blachowicz-25821,25821,Jan Blachowicz,,2/24/1983,74,205,PJ Promotion,Light Heavyweight,Cieszyn,Poland
+/fighter/Claudio-Henrique-da-Silva-25830,25830,Claudio Henrique da Silva,Hannibal,9/6/1982,71,185,London Shootfighters,Middleweight,"Rondonopolis, Mato Grosso",Brazil
+/fighter/Marcus-Jones-25912,25912,Marcus Jones,Big Baby,8/15/1973,78,265,,Heavyweight,"Tampa, Florida",United States
+/fighter/Diego-Nunes-25981,25981,Diego Nunes,The Gun,11/30/1982,66,145,X-Gym,Featherweight,"Caxias do Sul, Rio Grande do Sul",Brazil
+/fighter/Rick-Story-25989,25989,Rick Story,The Horror,8/28/1984,70,170,MMA Lab,Welterweight,"Tacoma, Washington",United States
+/fighter/Danny-Castillo-26070,26070,Danny Castillo,Last Call,8/25/1979,69,155,Team Alpha Male,Lightweight,"Sacaramento, California",United States
+/fighter/Nicholas-Musoke-26160,26160,Nicholas Musoke,Nico,4/5/1986,72,170,Allstars Training Center,Welterweight,"Botkyrka, Stockholm",Sweden
+/fighter/Alexander-Gustafsson-26162,26162,Alexander Gustafsson,The Mauler,1/15/1987,76,205,Allstars Training Center,Light Heavyweight,"Stockholm, Stockholm County",Sweden
+/fighter/Kazuki-Tokudome-26192,26192,Kazuki Tokudome,,3/4/1987,71,154,Paraestra Hachioji,Lightweight,Tokyo,Japan
+/fighter/Miesha-Tate-26252,26252,Miesha Tate,Cupcake,8/18/1986,66,135,Xtreme Couture,Bantamweight,"Tacoma, Washington",United States
+/fighter/Nordine-Taleb-26261,26261,Nordine Taleb,,6/10/1981,73,170,Tristar Gym,Welterweight,"Montreal, Quebec",Canada
+/fighter/Carlos-Diego-Ferreira-26358,26358,Carlos Diego Ferreira,,1/18/1985,68,156,James Cooper MMA,Lightweight,"Careiro da Varzea, Amazonas",Brazil
+/fighter/Jianping-Yang-26365,26365,Jianping Yang,,1/7/1986,68,140,Fight Emperor,Featherweight,,China
+/fighter/Jingliang-Li-26381,26381,Jingliang Li,The Leech,3/20/1988,72,169,China Top Team,Welterweight,Beijing,China
+/fighter/Guangyou-Ning-26389,26389,Guangyou Ning,Smasher,12/15/1981,65,135,Tiger Muay Thai,Bantamweight,"Cangzhou, Hebei",China
+/fighter/Bernardo-Magalhaes-26495,26495,Bernardo Magalhaes,Trekko,8/4/1981,69,155,TP Fight Team,Lightweight,Rio de Janeiro,Brazil
+/fighter/Reuben-Duran-26602,26602,Reuben Duran,Hurricane,7/2/1983,67,136,Pinnacle Fighting Systems,Bantamweight,"Redlands, California",United States
+/fighter/Anthony-Pettis-26627,26627,Anthony Pettis,Showtime,1/27/1987,69,155,Roufusport,Lightweight,"Milwaukee, Wisconsin",United States
+/fighter/Jon-Manley-26632,26632,Jon Manley,,7/7/1986,72,170,Team Link,Welterweight,"Adams, Massachusetts",United States
+/fighter/Josh-Ferguson-26649,26649,Josh Ferguson,Taz,,65,125,All American MMA,Flyweight,"Louisville, Kentucky",United States
+/fighter/Shamil-Abdurakhimov-26808,26808,Shamil Abdurakhimov,Abrek,9/2/1981,75,255,Peresvet FT,Heavyweight,"Makhachkala, Dagestan",Russia
+/fighter/Ramiro-Hernandez-26934,26934,Ramiro Hernandez,Junior,7/22/1986,69,145,Miletich Fighting Systems,Featherweight,"Muscatine, Iowa",United States
+/fighter/Enrique-Marin-27077,27077,Enrique Marin,Wasabi,,,170,Crazy Seville,Welterweight,"Seville, Andalusia",Spain
+/fighter/Yan-Cabral-27090,27090,Yan Cabral,,5/13/1983,72,170,Nova Uniao,Welterweight,"Visconde de Maua, Rio de Janeiro",Brazil
+/fighter/Stanislav-Nedkov-27115,27115,Stanislav Nedkov,,9/12/1981,71,203,Bushido Bulgaria,Light Heavyweight,Veliko Tarnovo,Bulgaria
+/fighter/Maciej-Jewtuszko-27440,27440,Maciej Jewtuszko,Irokez,1/31/1981,72,155,Berserkers Team,Lightweight,Szczecin,Poland
+/fighter/Yancy-Medeiros-27738,27738,Yancy Medeiros,The Kid,9/7/1987,70,155,Team Hakuilua,Lightweight,"Makaha, Hawaii",United States
+/fighter/Phil-Davis-27802,27802,Phil Davis,Mr. Wonderful,9/25/1984,74,205,Alliance MMA,Light Heavyweight,"Harrisburg, Pennsylvania",United States
+/fighter/Jon-Jones-27944,27944,Jon Jones,Bones,7/19/1987,76,205,Jackson-Wink MMA,Light Heavyweight,"Rochester, New York",United States
+/fighter/Bobby-Green-27953,27953,Bobby Green,King,9/9/1986,70,155,Pinnacle Fighting Systems,Lightweight,"Redlands, California",United States
+/fighter/Johnny-Case-28017,28017,Johnny Case,Hollywood,6/28/1989,73,155,Power MMA,Lightweight,"Jefferson, Iowa",United States
+/fighter/Elvis-Mutapcic-28038,28038,Elvis Mutapcic,The King,7/19/1986,72,185,Roundkick Gym,Middleweight,"Des Moines, Iowa",United States
+/fighter/Junie-Allen-Browning-28041,28041,Junie Allen Browning,Lunatik,5/12/1985,70,180,Legends MMA,Middleweight,"Lexington, Kentucky",United States
+/fighter/Felipe-Olivieri-28181,28181,Felipe Olivieri,,,,155,Nova Uniao,Lightweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Hernani-Perpetuo-28185,28185,Hernani Perpetuo,,5/24/1985,72,170,Nova Uniao,Welterweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Nandor-Guelmino-28286,28286,Nandor Guelmino,The Hun,12/20/1975,75,230,Gym 23,Heavyweight,Vienna,Austria
+/fighter/Stephen-Bass-28788,28788,Stephen Bass,Bigfish,11/14/1982,69,145,Mad House Gym,Featherweight,"Shreveport, Louisiana",United States
+/fighter/Bubba-Bush-29111,29111,Bubba Bush,The Fightin' Texas Aggie,7/24/1985,72,185,Brazos Valley MMA,Middleweight,"College Station, Texas",United States
+/fighter/Steve-Lopez-29129,29129,Steve Lopez,,7/30/1984,71,155,Syndicate MMA,Lightweight,"South Bend, Indiana",United States
+/fighter/Anthony-Smith-29470,29470,Anthony Smith,Lionheart,7/26/1988,76,185,Disorderly Conduct,Middleweight,"Omaha, Nebraska",United States
+/fighter/Dileno-Lopes-29635,29635,Dileno Lopes,,9/26/1987,,135,Nova Uniao Manaus,Bantamweight,"Manacapuru, Amazonas",Brazil
+/fighter/Conor-McGregor-29688,29688,Conor McGregor,Notorious,7/14/1988,68,145,SBG Ireland,Featherweight,Dublin,Ireland
+/fighter/Tom-Egan-29690,29690,Tom Egan,The Tank,,71,181,SBG MMA,Middleweight,"Kildare, County Kildare",Ireland
+/fighter/Tom-DeBlass-29744,29744,Tom DeBlass,,,,,,N/A,,
+/fighter/Tony-Sims-30021,30021,Tony Sims,2,10/14/1985,71,155,Elevation Fight Team,Lightweight,"Davenport, Iowa",United States
+/fighter/Nick-Osipczak-30033,30033,Nick Osipczak,Slick,12/30/1984,73,170,Team Rough House,Welterweight,"Nottingham, Nottinghamshire",England
+/fighter/Russell-Doane-30054,30054,Russell Doane,,8/13/1986,66,135,Hawaii Elite MMA,Bantamweight,"Waianae, Hawaii",United States
+/fighter/Michael-McDonald-30297,30297,Michael McDonald,Mayday,1/15/1991,68,136,Last Stand Fight Team,Bantamweight,"Modesto, California",United States
+/fighter/Viscardi-Andrade-30298,30298,Viscardi Andrade,,3/8/1984,72,170,Gracie Fusion,Welterweight,"Jales, Sao Paulo",Brazil
+/fighter/Charles-Oliveira-30300,30300,Charles Oliveira,do Bronx,10/17/1989,71,145,Macaco Gold Team,Featherweight,"Guaruja, Sao Paulo",Brazil
+/fighter/Maiquel-Jose-Falcao-Goncalves-30304,30304,Maiquel Falcao,Big Rig,3/8/1981,71,185,Independent,Middleweight,"Pelotas, Rio Grande do Sul",Brazil
+/fighter/Damian-Grabowski-30320,30320,Damian Grabowski,The Polish Pitbull,5/12/1980,73,241,Lutadores Opole,Heavyweight,Opole,Poland
+/fighter/Ulysses-Gomez-30396,30396,Ulysses Gomez,Useless,5/25/1983,65,125,Marc Laimon's Cobra Kai,Flyweight,"Las Vegas, Nevada",United States
+/fighter/Sean-Strickland-30452,30452,Sean Strickland,Tarzan,2/27/1991,73,171,CQuence Jiu-Jitsu,Welterweight,"Riverside, California",United States
+/fighter/Davey-Grant-30564,30564,Davey Grant,Dangerous,12/18/1985,68,135,North East Top Team,Bantamweight,Bishop Auckland,England
+/fighter/Tommy-Hayden-30943,30943,Tommy Hayden,Wild Card,3/11/1986,69,145,Team Jorge Gurgel,Featherweight,"Cincinnati, Ohio",United States
+/fighter/Steve-Kennedy-31092,31092,Steve Kennedy,The Steamrolla,3/7/1983,72,170,Kickass MMA,Welterweight,"Perth, Western Australia",Australia
+/fighter/Alan-Patrick-Silva-Alves-31096,31096,Alan Patrick Silva Alves,Nuguette,7/19/1983,71,155,X-Gym,Lightweight,"Manaus, Amazonas",Brazil
+/fighter/Francisco-Trinaldo-31103,31103,Francisco Trinaldo,Massaranduba,8/24/1978,68,155,Evolucao Thai,Lightweight,"Brasilia, Federal District",Brazil
+/fighter/Lukasz-Sajewski-31110,31110,Lukasz Sajewski,Wookie,11/27/1990,68,155,Mighty Bulls Team,Lightweight,Gdansk,Poland
+/fighter/Kamal-Shalorus-31151,31151,Kamal Shalorus,Prince of Persia,8/27/1977,68,155,Kaizen MMA,Lightweight,"Ahmadabad, Ardabil","Iran, Islamic Republic of"
+/fighter/Tony-Ferguson-31239,31239,Tony Ferguson,El Cucuy,2/12/1984,72,155,Team Death Clutch,Lightweight,"Oxnard, California",United States
+/fighter/Felipe-Arantes-31372,31372,Felipe Arantes,Sertanejo,2/9/1988,68,135,Chute Boxe,Bantamweight,"Sao Paulo, Sao Paulo",Brazil
+/fighter/Amanda-Nunes-31496,31496,Amanda Nunes,Lioness,5/30/1988,65,136,American Top Team,Bantamweight,"Salvador, Bahia",Brazil
+/fighter/James-Krause-31766,31766,James Krause,The James Krause,6/4/1986,74,155,Glory MMA and Fitness,Lightweight,"Lee's Summit, Missouri",United States
+/fighter/Zak-Cummings-31808,31808,Zak Cummings,,8/2/1984,72,170,Glory MMA and Fitness,Welterweight,"Springfield, Missouri",United States
+/fighter/Rodolfo-Rubio-Perez-31897,31897,Rodolfo Rubio Perez,Fito,1/29/1987,65,145,Entram Gym,Featherweight,"Mexico City, Federal District",Mexico
+/fighter/Kenny-Robertson-31978,31978,Kenny Robertson,,2/14/1984,70,170,Central Illinois Combat Club,Welterweight,"East Peoria, Illinois",United States
+/fighter/Ricardo-Lamas-32051,32051,Ricardo Lamas,The Bully,5/21/1982,68,145,MMA Masters,Featherweight,"Chicago, Illinois",United States
+/fighter/David-Branch-32431,32431,David Branch,,9/26/1981,73,185,Renzo Gracie Jiu-Jitsu,Middleweight,"Brooklyn, New York",United States
+/fighter/Costas-Philippou-32432,32432,Costas Philippou,,11/29/1979,71,185,Bellmore Kickboxing Academy,Middleweight,"Merrick, New York",United States
+/fighter/Besam-Yousef-32445,32445,Besam Yousef,,3/25/1985,71,170,Gladius MMA,Welterweight,Gothenburg,Sweden
+/fighter/Mats-Nilsson-32446,32446,Mats Nilsson,,12/5/1983,73,185,Rumble Sports,Middleweight,Helsingborg,Sweden
+/fighter/Darrill-Schoonover-33084,33084,Darrill Schoonover,The Boss,6/18/1985,74,257,Red Spider MMA,Heavyweight,"El Paso, Texas",United States
+/fighter/Brad-Tavares-33095,33095,Brad Tavares,,12/21/1987,71,185,Xtreme Couture,Middleweight,"Kailua, Hawaii",United States
+/fighter/Nazareno-Malegarie-33115,33115,Nazareno Malegarie,El Tigre,5/16/1986,68,155,Team Tavares,Lightweight,"Arrecifes, Buenos Aires",Argentina
+/fighter/Sean-OConnell-33156,33156,Sean O'Connell,The Real OC,9/2/1983,73,205,,Light Heavyweight,"Salt Lake City, Utah",United States
+/fighter/Mairbek-Taisumov-33161,33161,Mairbek Taisumov,Beckan,8/8/1988,69,155,Team Taisumov,Lightweight,"Grozny, Chechnya",Russia
+/fighter/Pat-Barry-33342,33342,Pat Barry,HD,7/7/1979,71,237,Team Death Clutch,Heavyweight,"New Orleans, Louisiana",United States
+/fighter/Rodney-Wallace-33343,33343,Rodney Wallace,Sho Nuff the Master,11/21/1981,69,205,Team R.O.C. Charlotte,Light Heavyweight,"Bamberg, South Carolina",United States
+/fighter/John-Cofer-33523,33523,John Cofer,The Potter,4/29/1984,69,145,Hardcore Gym,Featherweight,"Athens, Georgia",United States
+/fighter/Jared-Papazian-33531,33531,Jared Papazian,The Jackhammer,2/1/1988,68,135,Team Hayastan,Bantamweight,"West Hills, California",United States
+/fighter/Mike-Ricci-33532,33532,Mike Ricci,The Martian,3/18/1986,72,155,Tristar Gym,Lightweight,"Montreal, Quebec",Canada
+/fighter/Brendan-Schaub-33926,33926,Brendan Schaub,Big Brown,3/18/1983,76,238,Reign MMA,Heavyweight,"Aurora, Colorado",United States
+/fighter/Cat-Zingano-33932,33932,Cat Zingano,Alpha,7/1/1982,66,135,Zingano Brazilian Jiu-Jitsu,Bantamweight,"Broomfield, Colorado",United States
+/fighter/Amir-Sadollah-34071,34071,Amir Sadollah,,8/27/1980,71,170,Syndicate MMA,Welterweight,"Richmond, Virginia",United States
+/fighter/Matt-Riddle-34072,34072,Matt Riddle,Deep Waters,1/14/1986,73,170,Throwdown,Welterweight,"Lehighton, Pennsylvania",United States
+/fighter/Cale-Yarbrough-34073,34073,Cale Yarbrough,,12/27/1986,74,203,Hardcore Gym,Light Heavyweight,"Atlanta, Georgia",United States
+/fighter/Court-McGee-34124,34124,Court McGee,The Crusher,12/12/1984,71,170,The Pit Elevated Fight Team,Welterweight,"Layton, Utah",United States
+/fighter/Darrell-Montague-34214,34214,Darrell Montague,The Mongoose,11/3/1987,66,125,Millennia MMA,Flyweight,"Chino, California",United States
+/fighter/Myles-Jury-34236,34236,Myles Jury,Fury,10/31/1988,71,155,Power MMA,Lightweight,"Hazel Park, Michigan",United States
+/fighter/Issei-Tamura-34371,34371,Issei Tamura,,3/12/1984,65,145,Krazy Bee,Featherweight,"Shinagawa, Tokyo",Japan
+/fighter/Christian-Morecraft-34376,34376,Christian Morecraft,,9/8/1986,78,261,Team Bombsquad,Heavyweight,"Plymouth, Massachusetts",United States
+/fighter/Jay-Silva-34408,34408,Jay Silva,Da Spyda Killa,5/25/1981,74,185,MPF Training Systems,Middleweight,"Huntington Beach, California",United States
+/fighter/Ryan-LaFlare-34409,34409,Ryan LaFlare,,10/1/1983,73,170,Long Island MMA,Welterweight,"Lindenhurst, New York",United States
+/fighter/Colin-Fletcher-34621,34621,Colin Fletcher,Freakshow,1/8/1983,74,170,Unity Gym,Welterweight,"Sunderland, Tyne and Wear",England
+/fighter/Curt-Warburton-34623,34623,Curt Warburton,The War,,72,155,NEVT,Lightweight,"Bishop Auckland, County Durham",England
+/fighter/Shane-Campbell-34625,34625,Shane Campbell,Shaolin,1/21/1988,72,155,Toshido Mixed Martial Arts,Lightweight,"Kelowna, British Columbia",Canada
+/fighter/Carlos-Eduardo-Rocha-35142,35142,Carlos Eduardo Rocha,Ta Danado,7/12/1981,70,170,American Kickboxing Academy,Welterweight,"Fortaleza, Ceara",Brazil
+/fighter/Sam-Alvey-35410,35410,Sam Alvey,Smile'n,5/6/1986,74,185,Team Quest,Middleweight,"Waterford, Wisconsin",United States
+/fighter/Pablo-Garza-35448,35448,Pablo Garza,The Scarecrow,9/16/1983,73,145,Academy of Combat Arts,Featherweight,"Fargo, North Dakota",United States
+/fighter/Erik-Perez-35509,35509,Erik Perez,El Goyito,11/19/1989,68,135,Jackson-Wink MMA,Bantamweight,Monterrey,Mexico
+/fighter/Will-Campuzano-35521,35521,Will Campuzano,,5/27/1986,69,125,Mohler MMA,Flyweight,"Mount Pleasant, Texas",United States
+/fighter/John-Cholish-35867,35867,John Cholish,,12/17/1983,71,155,Renzo Gracie Jiu-Jitsu,Lightweight,"Hackettstown, New Jersey",United States
+/fighter/Chan-Sung-Jung-36155,36155,Chan Sung Jung,The Korean Zombie,3/17/1987,69,145,Korean Zombie MMA,Featherweight,"Gyeongju, North Gyeongsang",South Korea
+/fighter/Walel-Watson-36403,36403,Walel Watson,The Gazelle,7/16/1984,71,134,Team Hurricane Awesome,Bantamweight,"San Diego, California",United States
+/fighter/Jim-Alers-36581,36581,Jim Alers,The Beast,10/14/1986,69,145,Tough as Nails MMA,Featherweight,"Orlando, Florida",United States
+/fighter/Maximo-Blanco-36618,36618,Maximo Blanco,Maxi,10/16/1983,68,145,Yoshida Dojo,Featherweight,Caracas,Venezuela
+/fighter/Brock-Jardine-36630,36630,Brock Jardine,The Machine,7/10/1985,71,170,The Pit Elevated Fight Team,Welterweight,"Orem, Utah",United States
+/fighter/Mike-Lullo-36885,36885,Mike Lullo,,7/24/1979,68,145,,Featherweight,"Schaumburg, Illinois",United States
+/fighter/James-Moontasri-36889,36889,James Moontasri,Moonwalker,4/10/1988,70,155,Black House,Lightweight,"Los Angeles, California",United States
+/fighter/Chris-Gruetzemacher-36924,36924,Chris Gruetzemacher,Gritz,6/16/1986,67,145,MMA Lab,Featherweight,"Glendale, Arizona",United States
+/fighter/Jussier-da-Silva-36939,36939,Jussier da Silva,Formiga,4/14/1985,65,125,Kimura Nova Uniao,Flyweight,"Natal, Rio Grande do Norte",Brazil
+/fighter/Ramsey-Nijem-36963,36963,Ramsey Nijem,,4/1/1988,71,155,Skrap Pack,Lightweight,"Orem, Utah",United States
+/fighter/Rafaello-Oliveira-37260,37260,Rafaello Oliveira,Tractor,1/26/1982,68,155,AMA Fight Club,Lightweight,"Whippany, New Jersey",United States
+/fighter/Roland-Delorme-37351,37351,Roland Delorme,Stunning,12/18/1983,69,135,Winnipeg Academy of MMA,Bantamweight,"Winnipeg, Manitoba",Canada
+/fighter/John-Makdessi-37402,37402,John Makdessi,The Bull,5/3/1985,68,155,Tristar Gym,Lightweight,"Laval, Quebec",Canada
+/fighter/Mitch-Gagnon-37404,37404,Mitch Gagnon,,10/10/1984,66,135,Troop MMA,Bantamweight,"Sudbury, Ontario",Canada
+/fighter/Eddie-Mendez-37421,37421,Eddie Mendez,,,69,185,House of Champions,Middleweight,"Sun Valley, California",United States
+/fighter/Justin-Edwards-37452,37452,Justin Edwards,Fast Eddy,1/26/1983,70,155,Team Jorge Gurgel,Lightweight,"Cincinnati, Ohio",United States
+/fighter/Jimi-Manuwa-37528,37528,Jimi Manuwa,Poster Boy,2/18/1980,72,205,Keddles Gym,Light Heavyweight,Morden,England
+/fighter/Jose-Maria-Tome-37681,37681,Jose Maria Tome,No Chance,1/4/1982,65,125,Team Nogueira,Flyweight,"Limoeiro do Norte, Ceara",Brazil
+/fighter/Renee-Forte-37684,37684,Renee Forte,,3/27/1987,68,156,Team Renee Forte,Lightweight,"Fortaleza, Ceara",Brazil
+/fighter/Francisco-Trevino-38029,38029,Francisco Trevino,Sitkayan,12/17/1981,70,155,Macaco Gold Team,Lightweight,"Edinburg, Texas",United States
+/fighter/Rony-Mariano-Bezerra-38190,38190,Rony Mariano Bezerra,Jason,3/21/1984,67,145,Evolucao Thai,Featherweight,"Mossoro, Rio Grande do Norte",Brazil
+/fighter/Chad-Mendes-38393,38393,Chad Mendes,Money,5/1/1985,66,145,Team Alpha Male,Featherweight,"Hanford, California",United States
+/fighter/Max-Holloway-38671,38671,Max Holloway,Blessed,12/4/1991,71,145,Gracie Technics,Featherweight,"Waianae, Hawaii",United States
+/fighter/Mackens-Semerzier-38841,38841,Mackens Semerzier,Mack da Menace,11/3/1980,69,145,Team Curran,Featherweight,"Virginia Beach, Virginia",United States
+/fighter/Ovince-St-Preux-38842,38842,Ovince St. Preux,OSP,4/8/1983,75,205,Knoxville MMA,Light Heavyweight,"Knoxville, Tennessee",United States
+/fighter/Cody-Gibson-38903,38903,Cody Gibson,The Renegade,9/11/1987,70,135,Elite Team,Bantamweight,"Visalia, California",United States
+/fighter/Garett-Whiteley-39261,39261,Garett Whiteley,,12/13/1980,72,155,IndyBoxing and Grappling,Lightweight,"Indianapolis, Indiana",United States
+/fighter/Aaron-Wilkinson-39265,39265,Aaron Wilkinson,The Daywalker,,70,170,Straight Blast Gym,Welterweight,Manchester,England
+/fighter/Iliarde-Santos-39391,39391,Iliarde Santos,,9/25/1980,63,123,American Top Team,Flyweight,"Escada, Pernambuco",Brazil
+/fighter/Kris-McCray-39432,39432,Kris McCray,Savage,9/24/1981,72,170,Iron Army,Welterweight,"Toms River, New Jersey",United States
+/fighter/Dan-Spohn-39485,39485,Dan Spohn,Dragon,10/12/1984,76,204,Cambridge Martial Arts,Light Heavyweight,"Zanesville, Ohio",United States
+/fighter/Stipe-Miocic-39537,39537,Stipe Miocic,,8/19/1982,76,245,Strong Style Fight Team,Heavyweight,"Independence, Ohio",United States
+/fighter/Jessica-Eye-39575,39575,Jessica Eye,Evil,7/27/1986,66,135,Strong Style Fight Team,Bantamweight,"Cleveland, Ohio",United States
+/fighter/Dustin-Pague-39781,39781,Dustin Pague,The Disciple,8/5/1987,69,152,Disciple MMA,Lightweight,"Harrisburg, Pennsylvania",United States
+/fighter/Chris-Spang-40205,40205,Chris Spang,The Kiss,11/26/1987,74,171,J-Sect MMA,Welterweight,"Las Vegas, Nevada",United States
+/fighter/Ilir-Latifi-40207,40207,Ilir Latifi,The Sledgehammer,7/28/1983,68,205,Pancrase Gym Sweden,Light Heavyweight,Malmo,Sweden
+/fighter/Karlos-Vemola-40238,40238,Karlos Vemola,The Terminator,7/1/1985,72,205,London Shootfighters,Light Heavyweight,Olomouc,Czech Republic
+/fighter/Marco-Beltran-40285,40285,Marco Beltran,Psycho,,68,170,Top Brother Mexico,Welterweight,Mexico City,Mexico
+/fighter/Erick-Montano-40308,40308,Erick Montano,Perry,,,170,Bonebreakers Team,Welterweight,,Mexico
+/fighter/Masio-Fullen-40356,40356,Masio Fullen,Lobo,10/6/1987,70,145,Alliance MMA,Featherweight,"Gudalajara, Jalisco",Mexico
+/fighter/Willie-Gates-40436,40436,Willie Gates,,1/21/1987,68,125,Pinnacle MMA,Flyweight,"Fontana, California",United States
+/fighter/Scott-Askham-40518,40518,Scott Askham,,5/25/1988,75,185,Atherton Submission Wrestling,Middleweight,"Doncaster, South Yorkshire",England
+/fighter/Danny-Mitchell-40523,40523,Danny Mitchell,The Cheesecake Assassin,8/8/1986,74,170,AVT Fight Team,Welterweight,"Doncaster, Yorkshire",England
+/fighter/Godofredo-Castro-40623,40623,Godofredo Castro,Pepey,7/2/1987,67,145,Evolucao Thai,Featherweight,"Fortaleza, Ceara",Brazil
+/fighter/Jimmie-Rivera-40954,40954,Jimmie Rivera,El Terror,6/29/1989,64,135,Team Tiger Schulmann,Bantamweight,"Ramsey, New Jersey",United States
+/fighter/Nick-Pace-40956,40956,Nick Pace,,4/17/1987,67,135,Team Tiger Schulmann,Bantamweight,"Staten Island, New York",United States
+/fighter/Dustin-Kimura-41247,41247,Dustin Kimura,The Diamond,5/21/1989,66,136,Gracie Technics,Bantamweight,"Honolulu, Hawaii",United States
+/fighter/Augusto-Montano-41494,41494,Augusto Montano,Dodger,10/25/1984,73,170,Bonebreakers Team,Welterweight,Mexico City,Mexico
+/fighter/Adlan-Amagov-41523,41523,Adlan Amagov,Borz,10/30/1986,71,170,Jackson-Wink MMA,Welterweight,Grozny,Russia
+/fighter/Rashid-Magomedov-41524,41524,Rashid Magomedov,Highlander,5/14/1984,69,155,Gorec,Lightweight,"Makhachkala, Dagestan",Russia
+/fighter/Jules-Bruchez-41539,41539,Jules Bruchez,Cotton Mouth from the South,8/16/1977,72,184,Gladiator LA,Middleweight,"Lafayette, Louisiana",United States
+/fighter/Alex-Caceres-41586,41586,Alex Caceres,Bruce Leeroy,6/20/1988,69,135,MMA Lab,Bantamweight,"Miami, Florida",United States
+/fighter/Daniel-Downes-41666,41666,Daniel Downes,Danny Boy,4/8/1986,72,155,Roufusport,Lightweight,"Milwaukee, Wisconsin",United States
+/fighter/Germaine-de-Randamie-41745,41745,Germaine de Randamie,The Iron Lady,4/24/1984,69,135,American Kickboxing Academy,Bantamweight,"Utrecht, Utrecht",Netherlands
+/fighter/John-Lineker-41906,41906,John Lineker,Hands of Stone,6/12/1990,62,126,OCS Jiu-Jitsu,Flyweight,"Paranagua, Parana",Brazil
+/fighter/Mehdi-Baghdad-41993,41993,Mehdi Baghdad,The Sultan,4/13/1985,73,155,Black House,Lightweight,Six-Fours-les-Plages,France
+/fighter/Daniel-Stittgen-42258,42258,Daniel Stittgen,The Anvil,11/17/1980,73,179,Midwest Training Center,Middleweight,"Schaumburg, Illinois",United States
+/fighter/Jamie-Yager-42309,42309,Jamie Yager,The Chosyn 1,11/29/1983,74,170,Kings MMA,Welterweight,"Huntington Beach, California",United States
+/fighter/Dan-Cramer-42310,42310,Dan Cramer,Cosmo,10/31/1985,73,185,American Top Team,Middleweight,"Bethel, Connecticut",United States
+/fighter/Chris-Indich-42419,42419,Chris Indich,,4/22/1987,70,170,The Arena MMA,Welterweight,"Perth, Western Australia",Australia
+/fighter/Felice-Herrig-42432,42432,Felice Herrig,Lil Bulldog,9/18/1984,64,115,Team Curran,Strawweight,"Buffalo Grove, Illinois",United States
+/fighter/James-Hammortree-42479,42479,James Hammortree,Sledge,11/29/1983,75,204,USA Martial Arts,Light Heavyweight,"Ocala, Florida",United States
+/fighter/Tyron-Woodley-42605,42605,Tyron Woodley,The Chosen One,4/17/1982,69,170,American Top Team Evolution,Welterweight,"St. Louis, Missouri",United States
+/fighter/Andy-Ogle-42659,42659,Andy Ogle,The Little Axe,2/16/1989,69,144,Team Kaobon,Featherweight,Sunderland,England
+/fighter/Gian-Villante-42802,42802,Gian Villante,,4/18/1985,74,205,Bellmore Kickboxing Academy,Light Heavyweight,"Bellmore, New York",United States
+/fighter/Chris-Weidman-42804,42804,Chris Weidman,All-American,6/17/1984,74,185,Serra-Longo Fight Team,Middleweight,"Baldwin, New York",United States
+/fighter/Al-Iaquinta-42817,42817,Al Iaquinta,,4/30/1987,67,155,Serra-Longo Fight Team,Lightweight,"New York City, New York",United States
+/fighter/Chico-Camus-42850,42850,Chico Camus,King,1/26/1985,66,125,Roufusport,Flyweight,"Milwaukee, Wisconsin",United States
+/fighter/Michael-Kuiper-42901,42901,Michael Kuiper,Judo,6/7/1989,72,192,Team Topfighter,Light Heavyweight,Tilburg,Netherlands
+/fighter/Vagner-Rocha-43107,43107,Vagner Rocha,Ceara,6/6/1982,71,155,Team VRMA,Lightweight,Rio de Janeiro,Brazil
+/fighter/Pascal-Krauss-43439,43439,Pascal Krauss,Panzer,4/19/1987,73,170,Peak MMA,Welterweight,Freiburg,Germany
+/fighter/Sheila-Gaff-43445,43445,Sheila Gaff,The German Tank,12/29/1989,65,115,Pyranha MMA Offenbach,Strawweight,Offenbach,Germany
+/fighter/Brian-Melancon-43621,43621,Brian Melancon,,5/28/1982,68,170,Paradigm Training Center,Welterweight,"Houston, Texas",United States
+/fighter/John-Albert-43796,43796,John Albert,Prince,10/13/1986,69,137,Victory Athletics,N/A,"Puyallup, Washington",United States
+/fighter/Clint-Hester-43866,43866,Clint Hester,Headbussa,11/21/1986,74,185,X3 Sports,Middleweight,"Atlanta, Georgia",United States
+/fighter/Milana-Dudieva-43885,43885,Milana Dudieva,,4/8/1989,65,136,Peresvet FT,Bantamweight,"Vladikavkaz, North Ossetia",Russia
+/fighter/Pedro-Nobre-44211,44211,Pedro Nobre,The Rock,2/13/1986,65,125,Rio Fighters,Flyweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/John-Teixeira-da-Conceicao-44311,44311,John Teixeira da Conceicao,Macapa,11/18/1986,67,145,Nova Uniao,Featherweight,"Macapa, Amapa",Brazil
+/fighter/Brendan-Loughnane-44417,44417,Brendan Loughnane,,,70,145,All Powers Gym,Featherweight,"Manchester, Greater Manchester",England
+/fighter/Bradley-Scott-44442,44442,Bradley Scott,Bear,6/22/1989,73,185,Dragons Lair MMA,Middleweight,"Melksham, Wiltshire",England
+/fighter/Leo-Kuntz-44602,44602,Leo Kuntz,The Lion,10/3/1983,70,155,American Top Team,Lightweight,"Linton, North Dakota",United States
+/fighter/Alvaro-Herrera-44627,44627,Alvaro Herrera,El Chango,5/14/1990,72,170,UAG MMA,Welterweight,"Guadalajara, Jalisco",Mexico
+/fighter/Juan-Manuel-Puig-44638,44638,Juan Manuel Puig,Fenix,4/23/1989,69,145,American Kickboxing Academy,Featherweight,"Mexico City, Federal District",Mexico
+/fighter/John-Salter-44683,44683,John Salter,,3/21/1985,73,185,Dethrone Base Camp,Middleweight,"Nashville, Tennessee",United States
+/fighter/Jason-Knight-44957,44957,Jason Knight,The Kid,7/14/1992,71,145,,Featherweight,Mississippi,United States
+/fighter/Jon-Tuck-45108,45108,Jon Tuck,Super Saiyan,8/28/1984,70,155,MMA Lab,Lightweight,Chalan Pago,Guam
+/fighter/Daniel-Hooker-45122,45122,Daniel Hooker,The Hangman,2/13/1990,72,145,Saigon Sports Club,Featherweight,Auckland,New Zealand
+/fighter/Robert-Whittaker-45132,45132,Robert Whittaker,The Reaper,12/20/1990,71,185,PMA Super Martial Arts Centre,Middleweight,"Sydney, New South Wales",Australia
+/fighter/Louis-Gaudinot-45230,45230,Louis Gaudinot,Goodnight,8/28/1984,63,125,Team Tiger Schulmann,Flyweight,"Yonkers, New York",United States
+/fighter/Valentina-Shevchenko-45384,45384,Valentina Shevchenko,Bullet,3/7/1988,65,135,Tiger Muay Thai,Bantamweight,Lima,Peru
+/fighter/Rustam-Khabilov-45417,45417,Rustam Khabilov,Tiger,11/4/1986,70,155,Jackson-Wink MMA,Lightweight,"Makhachkala, Republic of Dagestan",Russia
+/fighter/Caros-Fodor-45430,45430,Caros Fodor,The Future,1/7/1984,69,156,AMC Pankration,Lightweight,"Kirkland, Washington",United States
+/fighter/Demetrious-Johnson-45452,45452,Demetrious Johnson,Mighty Mouse,8/13/1986,63,125,AMC Pankration,Flyweight,"Kirkland, Washington",United States
+/fighter/Tateki-Matsuda-45607,45607,Tateki Matsuda,Tech,2/27/1986,67,125,Team Sityodtong,Flyweight,"Boston, Massachusetts",United States
+/fighter/Shawn-Jordan-45624,45624,Shawn Jordan,The Savage,10/21/1984,72,251,American Top Team,Heavyweight,"Baton Rouge, Louisiana",United States
+/fighter/Humberto-Brown-Morrison-45721,45721,Humberto Brown Morrison,,11/3/1984,69,145,Alley Cat Fight Team,Featherweight,,Panama
+/fighter/Tom-Breese-45986,45986,Tom Breese,,9/26/1991,75,170,Tristar Gym,Welterweight,"Birmingham, West Midlands",England
+/fighter/Hayder-Hassan-46033,46033,Hayder Hassan,Hulk,10/20/1982,70,170,American Top Team,Welterweight,"Coconut Creek, Florida",United States
+/fighter/Philip-De-Fries-46202,46202,Philip De Fries,,4/21/1986,76,248,Alliance MMA,Heavyweight,"Sunderland, Tyne and Wear",England
+/fighter/Michael-Chiesa-46224,46224,Michael Chiesa,Maverick,12/7/1987,73,155,Sikjitsu,Lightweight,"Spokane, Washington",United States
+/fighter/Edson-Barboza-46259,46259,Edson Barboza,,1/21/1986,71,155,Ricardo Almeida Jiu-Jitsu,Lightweight,"Nova Friburgo, Rio de Janeiro",Brazil
+/fighter/Joe-Proctor-46307,46307,Joe Proctor,,8/10/1985,70,155,Team Aggression,Lightweight,"Pembroke, Massachusetts",United States
+/fighter/Keith-Berish-46314,46314,Keith Berish,Sha Bang Bang,11/14/1985,72,203,Black & Blue MMA,Light Heavyweight,"Poughkeepsie, New York",United States
+/fighter/Manuel-Rodriguez-46484,46484,Manuel Rodriguez,Chalate,4/25/1985,69,185,TP Fight Team,Middleweight,"Sydney, Australia",El Salvador
+/fighter/Leslie-Smith-46542,46542,Leslie Smith,The Peacemaker,8/17/1982,69,135,Cesar Gracie Fight Team,Bantamweight,"Pleasant Hill, California",United States
+/fighter/Antonio-dos-Santos-Jr-46759,46759,Antonio dos Santos Jr.,Junior Alpha,7/21/1988,70,185,Nordeste Jiu-Jitsu,Middleweight,"Salvador, Bahia",Brazil
+/fighter/Yosdenis-Cedeno-47066,47066,Yosdenis Cedeno,Pink Panther,2/12/1985,68,155,Blackzillians,Lightweight,Havana,Cuba
+/fighter/Yuri-Villefort-47069,47069,Yuri Villefort,,3/23/1991,71,156,Blackzilians,Lightweight,"Boca Raton, Florida",United States
+/fighter/Robert-Whiteford-47105,47105,Robert Whiteford,The Hammer,4/12/1983,69,145,Dinky Ninjas,Featherweight,"Armadale, West Lothian",Scotland
+/fighter/Sai-Wang-47118,47118,Sai Wang,The Fire Kylin,1/16/1986,72,170,AKA Thailand,Welterweight,Beijing,China
+/fighter/Shinsho-Anzai-47183,47183,Shinsho Anzai,Animal,12/1/1985,69,170,Team Climb,Welterweight,Tokyo,Japan
+/fighter/Chas-Skelly-47227,47227,Chas Skelly,The Scrapper,5/11/1985,71,145,Team Takedown,Featherweight,"Keller, Texas",United States
+/fighter/Norman-Parke-47549,47549,Norman Parke,Stormin,12/22/1986,71,155,Next Generation NI,Lightweight,"Bushmills, Antrim",Northern Ireland
+/fighter/Dominique-Steele-47845,47845,Dominique Steele,Non-Stop Action Packed,1/25/1988,70,170,Team Vision,Welterweight,"Cincinnati, Ohio",United States
+/fighter/Collin-Hart-47991,47991,Collin Hart,,,74,185,Nor-Cal Fighting Alliance,Middleweight,"Santa Rosa, California",United States
+/fighter/Jim-Hettes-48046,48046,Jim Hettes,The Kid,6/9/1987,69,145,Northeast Jiu-Jitsu,Featherweight,"Swoyersville, Pennsylvania",United States
+/fighter/Bruno-Santos-48052,48052,Bruno Santos,Carioca,7/17/1987,68,185,Ze Mario Team,Middleweight,"Macae, Rio de Janeiro",Brazil
+/fighter/Jerrod-Sanders-48156,48156,Jerrod Sanders,J-Reazie,10/1/1980,68,135,American Top Team OKC,Bantamweight,"Oklahoma City, Oklahoma",United States
+/fighter/Claudia-Gadelha-48404,48404,Claudia Gadelha,Claudinha,12/7/1988,63,115,Nova Uniao,Strawweight,"Mossoro, Rio Grande do Norte",Brazil
+/fighter/Cody-Pfister-48481,48481,Cody Pfister,The Pfist,7/12/1990,70,155,Nick's Fight Club,Lightweight,"Amarillo, Texas",United States
+/fighter/Ryan-Benoit-48566,48566,Ryan Benoit,Baby Face,8/25/1989,65,125,Janjira Muay Thai,Flyweight,"Dallas, Texas",United States
+/fighter/Vinicius-Kappke-de-Queiroz-48631,48631,Vinicius Kappke de Queiroz,Spartan,8/29/1983,79,237,Team Nogueira,Heavyweight,"Curitiba, Parana",Brazil
+/fighter/Jon-Madsen-48820,48820,Jon Madsen,,2/12/1980,72,222,HIT Squad,Heavyweight,"Granite City, Illinois",United States
+/fighter/Steve-Montgomery-49092,49092,Steve Montgomery,The Creepy Weasel,12/19/1990,76,170,American Top Team,Welterweight,"Boca Raton, Florida",United States
+/fighter/Tim-Elliott-49213,49213,Tim Elliott,,12/24/1986,67,125,Glory MMA and Fitness,Flyweight,"Lee's Summit, Missouri",United States
+/fighter/Daniel-Kelly-49516,49516,Daniel Kelly,,10/31/1977,72,185,Resilience Training Centre,Middleweight,"Melbourne, Victoria",Australia
+/fighter/Matt-Mitrione-49519,49519,Matt Mitrione,Meathead,7/15/1978,75,255,Blackzilians,Heavyweight,"Indianapolis, Indiana",United States
+/fighter/Joby-Sanchez-50239,50239,Joby Sanchez,,6/24/1991,66,125,Jackson-Wink MMA,Flyweight,"Albuquerque, New Mexico",United States
+/fighter/Alex-Soto-50367,50367,Alex Soto,Extremo,2/15/1984,67,135,KHK MMA Team,Bantamweight,"San Diego, California",United States
+/fighter/Cody-Garbrandt-50381,50381,Cody Garbrandt,No Love,7/7/1991,67,135,Strong Style Fight Team,Bantamweight,"Uhrichsville, Ohio",United States
+/fighter/Lipeng-Zhang-50416,50416,Lipeng Zhang,The Warrior,3/10/1990,71,155,Fight Emperor,Lightweight,"Hohhot, Inner Mongolia",China
+/fighter/Dustin-Poirier-50529,50529,Dustin Poirier,The Diamond,1/19/1989,69,155,American Top Team,Lightweight,"Carencro, Louisiana",United States
+/fighter/Mike-Wilkinson-50586,50586,Mike Wilkinson,The Warrior,9/15/1987,68,145,Atherton Submission Wrestling,Featherweight,"Leigh, Wigan",England
+/fighter/Ian-Entwistle-50588,50588,Ian Entwistle,Enty,11/19/1986,68,136,Apex MMA,Bantamweight,Accrington,England
+/fighter/Nick-Hein-50774,50774,Nick Hein,Sergeant,4/24/1984,68,155,G.I. Sports,Lightweight,Cologne,Germany
+/fighter/Julianna-Pena-50883,50883,Julianna Pena,The Venezuelan Vixen,8/19/1989,67,134,SikJitsu,Bantamweight,"Spokane, Washington",United States
+/fighter/Mike-King-50928,50928,Mike King,,8/4/1983,75,184,Buckeye MMA,Middleweight,"Perrysburg, Ohio",United States
+/fighter/Sergio-Pettis-50987,50987,Sergio Pettis,The Phenom,8/18/1993,66,125,Roufusport,Flyweight,"Milwaukee, Wisconsin",United States
+/fighter/Trevor-Smith-51113,51113,Trevor Smith,Hot Sauce,1/5/1981,75,185,Ring Demon Jiu-Jitsu,Middleweight,"Tukwila, Washington",United States
+/fighter/Caio-Magalhaes-51163,51163,Caio Magalhaes,Hellboy,12/14/1987,73,185,Dragon Fight,Middleweight,"Fortaleza, Ceara",Brazil
+/fighter/Chris-Holdsworth-51225,51225,Chris Holdsworth,Holds It Down,10/14/1987,71,135,Team Alpha Male,Bantamweight,"Las Vegas, Nevada",United States
+/fighter/Ryan-Couture-51228,51228,Ryan Couture,,8/27/1982,70,156,Xtreme Couture,Lightweight,"Las Vegas, Nevada",United States
+/fighter/Lorenz-Larkin-51345,51345,Lorenz Larkin,The Monsoon,9/3/1986,71,170,Millennia MMA,Welterweight,"Riverside, California",United States
+/fighter/Bryan-Barberena-51471,51471,Bryan Barberena,Bam Bam,5/3/1989,72,155,MMA Lab,Lightweight,"Minneapolis, Minnesota",United States
+/fighter/Chris-Kelades-51576,51576,Chris Kelades,The Greek Assassin,2/21/1981,67,125,Fit Plus,Flyweight,"Cole Harbour, Nova Scotia",Canada
+/fighter/Marcos-Vinicius-Borges-Pancini-51728,51728,Marcos Vinicius Borges Pancini,Vina,12/5/1979,69,145,Team Bronx,Featherweight,"Curitiba, Parana",Brazil
+/fighter/Marcos-Rogerio-de-Lima-51955,51955,Marcos Rogerio de Lima,Pezao,6/25/1985,73,205,011 MMA Team,Light Heavyweight,"Ribeirao Pires, Sao Paulo",Brazil
+/fighter/Daniel-Cormier-52311,52311,Daniel Cormier,,3/20/1979,71,205,American Kickboxing Academy,Light Heavyweight,"San Jose, California",United States
+/fighter/Pedro-Munhoz-52407,52407,Pedro Munhoz,The Young Punisher,9/7/1986,66,135,Black House,Bantamweight,"Sao Paulo, Sao Paulo",Brazil
+/fighter/Reginaldo-Vieira-52454,52454,Reginaldo Vieira,,,66,125,Peso Pesado Gold Team,Flyweight,"Sao Paulo, Sao Paulo",Brazil
+/fighter/Brendan-OReilly-52633,52633,Brendan O'Reilly,The Badger,6/24/1987,68,170,Gamebred Submission Fighting,Welterweight,"Brisbane, Queensland",Australia
+/fighter/Gasan-Umalatov-53109,53109,Gasan Umalatov,Cobra,11/3/1982,71,181,Fight Nights Team,Middleweight,"Zinzeli, Astrakhan Oblast",Russia
+/fighter/Wagner-Prado-53134,53134,Wagner Prado,Caldeirao,12/30/1987,73,205,Retz Muay Thai,Light Heavyweight,"Campinas, Sao Paulo",Brazil
+/fighter/Sam-Sicilia-53205,53205,Sam Sicilia,,2/1/1986,68,145,Sikjitsu,Featherweight,"Spokane, Washington",United States
+/fighter/Thiago-de-Oliveira-Perpetuo-53207,53207,Thiago de Oliveira Perpetuo,Bodao,12/14/1986,70,170,Furacao Fight Team,Welterweight,"Santo Andre, Sao Paulo",Brazil
+/fighter/Anthony-Birchak-53300,53300,Anthony Birchak,El Toro,5/16/1986,68,135,Luta Elite MMA,Bantamweight,"Tucson, Arizona",United States
+/fighter/Chris-Beal-53369,53369,Chris Beal,The Real Deal,8/6/1985,67,126,KnuckleHeadz Boxing,Flyweight,"Ventura, California",United States
+/fighter/Piotr-Hallmann-53375,53375,Piotr Hallmann,Pletwal,8/25/1987,69,155,Mighty Bulls Gdynia,Lightweight,Gdynia,Poland
+/fighter/Krzysztof-Jotko-53380,53380,Krzysztof Jotko,,8/19/1989,73,185,Planet Eater,Middleweight,Orneta,Poland
+/fighter/Jessica-Rakoczy-53506,53506,Jessica Rakoczy,Ragin',4/14/1977,67,115,,Strawweight,"Hamilton, Ontario",Canada
+/fighter/NahShon-Burrell-53596,53596,Nah-Shon Burrell,The Rock-N-Rolla,2/5/1990,73,179,Fight Firm,Middleweight,"Philadelphia, Pennsylvania",United States
+/fighter/Anthony-Christodoulou-53712,53712,Anthony Christodoulou,,7/30/1987,69,155,Renzo Gracie Fight Academy,Lightweight,"Glyfada, Attica",Greece
+/fighter/Daron-Cruickshank-53717,53717,Daron Cruickshank,The Detroit Superstar,6/11/1985,68,155,Michigan Top Team,Lightweight,"Wayne, Michigan",United States
+/fighter/David-Michaud-53778,53778,David Michaud,Bulldawg,11/10/1988,69,155,MMA Lab,Lightweight,"Brookings, South Dakota",United States
+/fighter/Matt-Dwyer-53933,53933,Matt Dwyer,,12/17/1989,76,168,Toshido Mixed Martial Arts,Welterweight,"Kelowna, British Columbia",Canada
+/fighter/Pat-Schilling-54054,54054,Pat Schilling,Thrilling,8/28/1988,68,145,Ambition Training Academy,Featherweight,"St. Paul, Minnesota",United States
+/fighter/Alex-Garcia-54124,54124,Alex Garcia,The Dominican Nightmare,7/14/1987,69,171,Tristar Gym,Welterweight,"Montreal, Quebec",Canada
+/fighter/Daniel-Omielanczuk-54303,54303,Daniel Omielanczuk,,8/31/1982,72,242,Ankos Zapasy,Heavyweight,Warsaw,Poland
+/fighter/Oli-Thompson-54543,54543,Oli Thompson,The Spartan,1/2/1980,73,205,ZT Fight Skool,Light Heavyweight,"Hove, East Sussex",England
+/fighter/Niklas-Backstrom-54620,54620,Niklas Backstrom,,8/22/1989,72,145,Allstars Training Center,Featherweight,Stockholm,Sweden
+/fighter/Mike-Rio-54833,54833,Mike Rio,The Wolverine,7/6/1981,70,155,Zen Jiu-Jitsu,Lightweight,"Miami, Florida",United States
+/fighter/Edward-Faaloloto-55070,55070,Edward Faaloloto,Falo,7/15/1985,69,170,Mori Dojo,Welterweight,"Honolulu, Hawaii",United States
+/fighter/John-Moraga-55159,55159,John Moraga,,3/20/1984,66,125,Arizona Combat Sports,Flyweight,"Phoenix, Arizona",United States
+/fighter/Aaron-Phillips-55298,55298,Aaron Phillips,The Model,8/5/1989,69,135,Gladiators Academy,Bantamweight,"Lafayette, Louisiana",United States
+/fighter/Frankie-Saenz-55410,55410,Frankie Saenz,,8/12/1980,66,135,Trident Performance Training,Bantamweight,"Phoenix, Arizona",United States
+/fighter/Joey-Gambino-55503,55503,Joey Gambino,The Raging Warrior,10/26/1988,67,145,Team Raging Warriors,Featherweight,"Saugerties, New York",United States
+/fighter/Richard-Walsh-55587,55587,Richard Walsh,Filthy Rich,12/1/1988,72,170,VT1 Gym,Welterweight,"Sydney, New South Wales",Australia
+/fighter/Marcin-Bandel-55705,55705,Marcin Bandel,Bomba,10/10/1989,70,155,Drysdale Jiu-Jitsu,Lightweight,Lodz,Poland
+/fighter/Alex-White-55954,55954,Alex White,The Spartan,10/22/1988,72,146,Team Destruction,Featherweight,"Fredericktown, Missouri",United States
+/fighter/Khabib-Nurmagomedov-56035,56035,Khabib Nurmagomedov,The Eagle,9/20/1988,70,155,Fightspirit Team,Lightweight,Makhachkala,Russia
+/fighter/Luke-Barnatt-56567,56567,Luke Barnatt,Bigslow,4/13/1988,78,185,Tsunami Gym,Middleweight,"Barking, Essex",England
+/fighter/Jesse-Ronson-56579,56579,Jesse Ronson,The Body Snatcher,12/24/1985,69,156,Adrenaline Training Center,Lightweight,"London, Ontario",Canada
+/fighter/Beneil-Dariush-56583,56583,Beneil Dariush,,5/6/1989,70,155,Kings MMA,Lightweight,"Yorba Linda, California",United States
+/fighter/Paul-Redmond-56615,56615,Paul Redmond,Redser,10/20/1986,70,145,Team Ryano MMA,Featherweight,"Dublin, Leinster",Ireland
+/fighter/Doo-Ho-Choi-56689,56689,Doo Ho Choi,The Korean Superboy,4/6/1991,69,143,Gumi MMA,Featherweight,"Gumi, Gyeongsangbuk-do",South Korea
+/fighter/Clifford-Starks-56902,56902,Clifford Starks,Big Cat,4/25/1981,70,185,Arizona Combat Sports,Middleweight,"Tempe, Arizona",United States
+/fighter/Jake-Lindsey-57214,57214,Jake Lindsey,The Librarian,6/21/1986,71,154,Combative Sports Center,Lightweight,"Manhattan, Kansas",United States
+/fighter/Colby-Covington-57269,57269,Colby Covington,Chaos,2/22/1988,71,169,American Top Team,Welterweight,"Springfield, Oregon",United States
+/fighter/Andreas-Stahl-57322,57322,Andreas Stahl,Real Steel,5/20/1988,71,169,Renyi Fight Camp,Welterweight,"Umea, Vasterbotten",Sweden
+/fighter/Edimilson-Souza-57343,57343,Edimilson Souza,Kevin,10/17/1984,72,145,DS Team,Featherweight,"Salvador, Bahia",Brazil
+/fighter/Bruno-Rodrigues-57480,57480,Bruno Rodrigues,Korea,,66,125,Tata Fight Team,Flyweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Vinc-Pichel-57848,57848,Vinc Pichel,From Hell,11/23/1982,70,155,,Lightweight,"Simi Valley, California",United States
+/fighter/Dennis-Bermudez-58065,58065,Dennis Bermudez,The Menace,12/13/1986,66,145,Long Island MMA,Featherweight,"Saugerties, New York",United States
+/fighter/Dustin-Ortiz-58097,58097,Dustin Ortiz,,12/25/1988,65,125,Roufusport,Flyweight,"Goshen, Indiana",United States
+/fighter/Jason-Saggo-58213,58213,Jason Saggo,,11/23/1985,71,155,Wulfrun MMA,Lightweight,"Bolton, Ontario",Canada
+/fighter/Andre-Fili-58385,58385,Andre Fili,Touchy,6/25/1990,70,145,Team Alpha Male,Featherweight,"Sacramento, California",United States
+/fighter/Jon-delos-Reyes-58594,58594,Jon delos Reyes,The Heat,8/19/1987,65,125,Countershot MMA,Flyweight,"Tamuning, Guam",United States
+/fighter/Anthony-Hamilton-58947,58947,Anthony Hamilton,Freight Train,4/14/1980,77,253,Jackson-Wink MMA,Heavyweight,"Seattle, Washington",United States
+/fighter/Misha-Cirkunov-59197,59197,Misha Cirkunov,,2/27/1987,75,205,Xtreme Couture,Light Heavyweight,Riga,Latvia
+/fighter/Derrick-Lewis-59284,59284,Derrick Lewis,The Black Beast,2/7/1985,75,264,Silverback Fight Club,Heavyweight,"Houston, Texas",United States
+/fighter/Dhiego-Lima-59607,59607,Dhiego Lima,,1/31/1989,74,170,American Top Team Atlanta,Welterweight,"Goiania, Goias",Brazil
+/fighter/Stephen-Thompson-59608,59608,Stephen Thompson,Wonderboy,2/11/1983,72,170,Team Upstate Karate,Welterweight,"Simpsonville, South Carolina",United States
+/fighter/Matt-Hobar-59713,59713,Matt Hobar,The Crowbar,1/7/1987,70,135,Octagon MMA,Bantamweight,"Dallas, Texas",United States
+/fighter/Lance-Benoist-59764,59764,Lance Benoist,,8/26/1988,71,170,St. Charles MMA,Welterweight,"St. Louis, Missouri",United States
+/fighter/Brian-Houston-59769,59769,Brian Houston,B-Hue,4/26/1987,73,185,Disorderly Conduct,Middleweight,"Omaha, Nebraska",United States
+/fighter/Steven-Ray-59838,59838,Steven Ray,Braveheart,3/25/1990,70,155,Higher Level MMA,Lightweight,"Kirkcaldy, Fife",Scotland
+/fighter/Albert-Tumenov-60198,60198,Albert Tumenov,Einstein,12/26/1991,71,169,K Dojo Warrior Tribe,Welterweight,Nalchik,Russia
+/fighter/Roger-Narvaez-60454,60454,Roger Narvaez,The Silverback,9/9/1983,75,185,Full Contact Fight Academy,Middleweight,"Corpus Christi, Texas",United States
+/fighter/Yoel-Romero-60762,60762,Yoel Romero,Soldier of God,4/30/1977,70,185,American Top Team,Middleweight,"Miami, Florida",United States
+/fighter/Ben-Alloway-60790,60790,Ben Alloway,Benny Blanco,2/19/1981,70,170,BBA Mixed Martial Arts,Welterweight,"Gold Coast, Queensland",Australia
+/fighter/Sean-Spencer-60908,60908,Sean Spencer,Black Magic,6/25/1987,70,170,Octagon MMA,Welterweight,"Bluefield, Virginia",United States
+/fighter/James-Toney-60940,60940,James Toney,Lights Out,8/24/1968,70,237,M-1 Global Training Center,Heavyweight,"Grand Rapids, Michigan",United States
+/fighter/Marion-Reneau-61266,61266,Marion Reneau,The Bruiser,6/20/1977,66,135,Elite Team,Bantamweight,"Visalia, California",United States
+/fighter/Andy-Enz-61422,61422,Andy Enz,Tank Mode,8/15/1991,75,185,Gracie Barra Alaska,Middleweight,"Anchorage, Alaska",United States
+/fighter/Sarah-Moras-61600,61600,Sarah Moras,Cheesecake,4/30/1988,67,135,Toshido Mixed Martial Arts,Bantamweight,"Kelowna, British Columbia",Canada
+/fighter/Sean-Soriano-61682,61682,Sean Soriano,,10/6/1989,69,145,Blackzilians,Featherweight,"Miami, Florida",United States
+/fighter/Renato-Carneiro-61700,61700,Renato Carneiro,Moicano,,71,145,Constrictor Team,Featherweight,"Brasilia, Federal District",Brazil
+/fighter/TJ-Dillashaw-62507,62507,T.J. Dillashaw,,2/7/1986,66,135,Elevation Fight Team,Bantamweight,"Angels Camp, California",United States
+/fighter/Leon-Edwards-62665,62665,Leon Edwards,Rocky,8/25/1991,70,170,UTC Birmingham,Welterweight,"Erdington, West Midlands",England
+/fighter/Kailin-Curran-62703,62703,Kailin Curran,,4/11/1991,63,113,Reign MMA,Strawweight,"Ewa Beach, Hawaii",United States
+/fighter/Yuta-Sasaki-63070,63070,Yuta Sasaki,Ulka,10/7/1989,70,135,Wajutsu Keishukai Suruga,Bantamweight,"Numazu, Shizuoka",Japan
+/fighter/Colton-Smith-63163,63163,Colton Smith,,8/14/1987,72,170,Vanguard,Welterweight,"Manassas, Virginia",United States
+/fighter/Mike-Jackson-63272,63272,Mike Jackson,The Truth,3/22/1985,74,170,4oz. Fight Club,Welterweight,"Houston, Texas",United States
+/fighter/Andrew-Craig-63284,63284,Andrew Craig,Highlight,1/15/1986,73,170,Team Tooke,Welterweight,"Houston, Texas",United States
+/fighter/Carla-Esparza-63410,63410,Carla Esparza,Cookie Monster,10/10/1987,61,115,Team Oyama,Strawweight,"Redondo Beach, California",United States
+/fighter/Yusuke-Kasuya-63414,63414,Yusuke Kasuya,,11/16/1989,67,154,Akimoto Dojo Jungle Junction,Lightweight,"Sagamihara, Kanagawa",Japan
+/fighter/Albert-Cheng-63422,63422,Albert Cheng,,2/7/1985,71,156,Xtreme Couture Toronto,Lightweight,"Mississauga, Ontario",Canada
+/fighter/Nicolas-Dalby-63608,63608,Nicolas Dalby,Sharpshooter,11/16/1984,71,170,Rumble Sports,Welterweight,Copenhagen,Denmark
+/fighter/Patrick-Holohan-63616,63616,Patrick Holohan,The Hooligan,5/3/1988,69,125,SBG Ireland,Flyweight,Dublin,Ireland
+/fighter/Zubaira-Tukhugov-63813,63813,Zubaira Tukhugov,Warrior,1/15/1991,68,146,Tiger Muay Thai,Featherweight,"Grozny, Chechnya",Russia
+/fighter/Elizeu-Zaleski-dos-Santos-63825,63825,Elizeu Zaleski dos Santos,Capoeira,,71,170,CM System,Welterweight,"Francisco Beltrao, Parana",Brazil
+/fighter/Joseph-Sandoval-63897,63897,Joseph Sandoval,,5/11/1986,66,135,Bighead MMA,Bantamweight,"Lubbock, Texas",United States
+/fighter/Cathal-Pendred-64373,64373,Cathal Pendred,The Punisher,9/2/1987,73,170,SBG Ireland,Welterweight,"Dublin, Leinster",Ireland
+/fighter/Kyoji-Horiguchi-64413,64413,Kyoji Horiguchi,,10/12/1990,65,125,American Top Team,Flyweight,"Takasaki, Gunma",Japan
+/fighter/Santiago-Ponzinibbio-64593,64593,Santiago Ponzinibbio,Gente Boa,9/26/1986,72,170,Team Nogueira,Welterweight,La Plata,Argentina
+/fighter/Danny-Roberts-64677,64677,Danny Roberts,Hot Chocolate,,72,170,Next Generation UK,Welterweight,"Liverpool, Merseyside",England
+/fighter/Yoislandy-Izquierdo-64716,64716,Yoislandy Izquierdo,Cuba,1/9/1984,70,154,Young Tigers,Lightweight,Havana,Cuba
+/fighter/Matt-Van-Buren-64754,64754,Matt Van Buren,Gutter,6/12/1986,77,205,American Top Team,Light Heavyweight,"Norfolk, Virginia",United States
+/fighter/Louis-Smolka-64792,64792,Louis Smolka,Da Last Samurai,7/16/1991,69,125,Hawaii Elite MMA,Flyweight,"Waipahu, Hawaii",United States
+/fighter/Alex-Morono-64894,64894,Alex Morono,The Great White,8/16/1990,71,170,Gracie Barra Woodlands,Welterweight,"Houston, Texas",United States
+/fighter/Joey-Gomez-64975,64975,Joey Gomez,The KO King,7/21/1986,68,135,Team Triumph,Bantamweight,"Hollis, New Hampshire",United States
+/fighter/Michael-Graves-64989,64989,Michael Graves,,1/8/1991,70,170,American Top Team,Welterweight,"Coconut Creek, Florida",United States
+/fighter/Gilbert-Smith-65128,65128,Gilbert Smith,Midnight Magic,,69,170,Team Victory,Welterweight,"Colorado Springs, Colorado",United States
+/fighter/Brian-Ortega-65310,65310,Brian Ortega,T-City,2/21/1991,69,145,Black House,Featherweight,"Torrance, California",United States
+/fighter/Hugo-Viana-65456,65456,Hugo Viana,Wolverine,9/26/1982,66,135,Champion Team,Bantamweight,"Salvador, Bahia",Brazil
+/fighter/Pawel-Pawlak-65543,65543,Pawel Pawlak,Plastinho,2/8/1989,72,170,Gracie Barra Lodz,Welterweight,Lodz,Poland
+/fighter/Alex-Chambers-65649,65649,Alex Chambers,Astro Girl,10/28/1978,63,115,VT-1 Gym,Strawweight,"St. Ives, New South Wales",Australia
+/fighter/Alan-Jouban-65878,65878,Alan Jouban,Brahma,11/25/1982,72,171,Black House,Welterweight,"Lafayette, Louisiana",United States
+/fighter/Aljamain-Sterling-66313,66313,Aljamain Sterling,Funk Master,7/31/1989,67,135,Serra-Longo Fight Team,Bantamweight,"Cortland, New York",United States
+/fighter/Eddie-Gordon-66410,66410,Eddie Gordon,Truck,7/22/1983,72,185,Serra-Longo Fight Team,Middleweight,"Freeport, New York",United States
+/fighter/Vicente-Luque-66474,66474,Vicente Luque,The Silent Assassin,11/27/1991,71,170,Blackzilians,Welterweight,"Westwood, New Jersey",United States
+/fighter/Lauren-Murphy-66725,66725,Lauren Murphy,,7/27/1983,68,134,Gracie Barra Katy,Bantamweight,"Anchorage, Alaska",United States
+/fighter/Josh-Sampo-66883,66883,Josh Sampo,The Gremlin,7/24/1984,64,125,Team Oyama,Flyweight,"Lindenwood, Missouri",United States
+/fighter/Liz-Carmouche-67007,67007,Liz Carmouche,Girl-Rilla,2/19/1984,66,135,Team Hurricane Awesome,Bantamweight,"San Diego, California",United States
+/fighter/Sara-McMann-67094,67094,Sara McMann,,9/24/1980,65,135,Revolution MMA,Bantamweight,"Gaffney, South Carolina",United States
+/fighter/Justine-Kish-67098,67098,Justine Kish,,4/13/1988,65,116,Black House,Strawweight,"Cramerton, North Carolina",United States
+/fighter/Heather-Clark-67132,67132,Heather Clark,Hurricane,9/19/1980,66,115,Syndicate MMA,Strawweight,"Albuquerque, New Mexico",United States
+/fighter/Robert-Drysdale-67894,67894,Robert Drysdale,,1/1/1981,75,205,Drysdale Jiu-Jitsu,Light Heavyweight,"Las Vegas, Nevada",United States
+/fighter/Patrick-Walsh-67971,67971,Patrick Walsh,The Beast of the East,11/28/1988,71,205,Wai Kru MMA,Light Heavyweight,"West Bridgewater, Massachusetts",United States
+/fighter/Christos-Giagos-68130,68130,Christos Giagos,The Spartan,1/23/1990,70,155,Systems Training Center,Lightweight,"Hawthorne, California",United States
+/fighter/Paul-Felder-68205,68205,Paul Felder,The Irish Dragon,4/25/1985,70,155,Renzo Gracie Philly,Lightweight,"Philadelphia, Pennsylvania",United States
+/fighter/Derek-Brunson-68494,68494,Derek Brunson,,1/4/1984,73,186,Jackson's Mixed Martial Arts,Middleweight,"Wilmington, North Carolina",United States
+/fighter/Kurt-Holobaugh-68751,68751,Kurt Holobaugh,,,71,145,Gracie United,Featherweight,"Denham Springs, Louisiana",United States
+/fighter/Michael-Johnson-68788,68788,Michael Johnson,The Menace,6/4/1986,70,155,Blackzilians,Lightweight,"Springfield, Missouri",United States
+/fighter/Jocelyn-Jones-Lybarger-68957,68957,Jocelyn Jones-Lybarger,,10/4/1985,67,115,MMA Lab,Strawweight,"Phoenix, Arizona",United States
+/fighter/Emily-Kagan-68959,68959,Emily Kagan,,7/14/1981,63,115,Jackson-Wink MMA,Strawweight,"Albuquerque, New Mexico",United States
+/fighter/Dominic-Waters-68971,68971,Dominic Waters,Sho Nuff,,73,170,Jackson-Wink MMA,Welterweight,"Santa Rosa, California",United States
+/fighter/Rose-Namajunas-69083,69083,Rose Namajunas,Thug,6/29/1992,65,115,The Academy,Strawweight,"Milwaukee, Wisconsin",United States
+/fighter/Will-Chope-69087,69087,Will Chope,The Kill,9/8/1990,76,155,Juggernaut Fight Club,Lightweight,"Sacramento, California",United States
+/fighter/Neil-Magny-69166,69166,Neil Magny,,8/3/1987,75,170,Grudge Training Center,Welterweight,"Dolton, Illinois",United States
+/fighter/Matheus-Nicolau-Pereira-69341,69341,Matheus Nicolau Pereira,,1/6/1993,66,135,Nova Uniao,Bantamweight,"Belo Horizonte, Minas Gerais",Brazil
+/fighter/Makwan-Amirkhani-69406,69406,Makwan Amirkhani,Mr. Finland,11/8/1988,71,145,Allstars Training Center,Featherweight,Turku,Finland
+/fighter/Guido-Cannetti-69513,69513,Guido Cannetti,Ninja,,66,135,Muay Thai Goa,Bantamweight,Buenos Aires,Argentina
+/fighter/Patrick-Williams-69607,69607,Patrick Williams,The Animal,9/7/1981,68,135,Freestyle Fighting Academy,Bantamweight,"Homestead, Florida",United States
+/fighter/William-Macario-69624,69624,William Macario,Patolino,7/1/1991,71,170,Pejor,Welterweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Nina-Ansaroff-69632,69632,Nina Ansaroff,The Strina,12/3/1985,65,116,American Top Team,Strawweight,"Fort Lauderdale, Florida",United States
+/fighter/Chad-Laprise-69681,69681,Chad Laprise,The Disciple,7/23/1986,70,156,Adrenaline Training Center,Lightweight,"London, Ontario",Canada
+/fighter/Vik-Grujic-69858,69858,Vik Grujic,The Spartan,2/6/1977,71,170,Alliance MMA,Welterweight,"Melbourne, Victoria",Australia
+/fighter/Adam-Cella-69956,69956,Adam Cella,El Natural,,74,170,Finney's HIT Squad,Welterweight,"St. Louis, Missouri",United States
+/fighter/CJ-Keith-70452,70452,C.J. Keith,,8/9/1986,72,155,Pro Buhawe,Lightweight,"Porterville, California",United States
+/fighter/Warlley-Alves-70750,70750,Warlley Alves,,1/4/1991,71,170,X-Gym,Welterweight,"Governador Valadares, Minas Gerais",Brazil
+/fighter/Tina-Lahdemaki-70795,70795,Tina Lahdemaki,Jelly Bean,5/28/1988,62,115,RNC Sport Club,Strawweight,"Hyvinkaa, Uusimaa",Finland
+/fighter/Charles-Rosa-71116,71116,Charles Rosa,Boston Strong,8/24/1986,70,145,American Top Team,Featherweight,"Peabody, Massachusetts",United States
+/fighter/Justin-Scoggins-71120,71120,Justin Scoggins,Tank,5/2/1992,67,125,,Flyweight,"Spartanburg, South Carolina",United States
+/fighter/Azamat-Gashimov-71175,71175,Azamat Gashimov,Tough Guy,4/7/1990,69,135,Jackson-Wink MMA,Bantamweight,Dagestan,Russia
+/fighter/Garreth-McLellan-71237,71237,Garreth McLellan,Soldier Boy,1/9/1982,73,185,FightFit Militia,Middleweight,"Johannesburg, Gauteng",South Africa
+/fighter/Jessamyn-Duke-71307,71307,Jessamyn Duke,The Gun,6/24/1986,71,136,CSW,Bantamweight,"Richmond, Kentucky",United States
+/fighter/Julian-Erosa-71442,71442,Julian Erosa,Juicy J,7/31/1989,72,145,Yakima MMA,Featherweight,"Yakima, Washington",United States
+/fighter/Michinori-Tanaka-71942,71942,Michinori Tanaka,,10/4/1990,65,135,Reversal Gym Yokohama Ground Slam,Bantamweight,"Yokohama, Kanagawa",Japan
+/fighter/Walt-Harris-72046,72046,Walt Harris,The Big Ticket,6/10/1983,76,241,American Top Team,Heavyweight,"Homewood, Alabama",United States
+/fighter/Nolan-Ticman-72084,72084,Nolan Ticman,,5/17/1988,66,125,Kings MMA,Flyweight,"Palm Springs, California",United States
+/fighter/Timothy-Johnson-72706,72706,Timothy Johnson,,,75,264,,Heavyweight,"Fargo, North Dakota",United States
+/fighter/Richardson-Moreira-72825,72825,Richardson Moreira,Rick Monstro,3/31/1984,74,205,Team Nogueira,Light Heavyweight,"Campinas, Sao Paulo",Brazil
+/fighter/Patrick-Cummins-72981,72981,Patrick Cummins,Durkin,11/16/1980,74,205,Reign MMA,Light Heavyweight,"Reinholds, Pennsylvania",United States
+/fighter/Ronda-Rousey-73073,73073,Ronda Rousey,Rowdy,2/1/1987,66,135,Team Hayastan,Bantamweight,"Santa Monica, California",United States
+/fighter/Darren-Till-73436,73436,Darren Till,,12/24/1992,72,170,Astra Fight Team,Welterweight,"Liverpool, Merseyside",England
+/fighter/Artem-Lobov-73700,73700,Artem Lobov,The Russian Hammer,,69,146,SBG Ireland,Featherweight,Dublin,Ireland
+/fighter/Juliana-Lima-73710,73710,Juliana Lima,Ju Thai,3/15/1982,65,115,Gracie Barra BH,Strawweight,"Belo Horizonte, Minas Gerais",Brazil
+/fighter/Justin-Lawrence-73756,73756,Justin Lawrence,The American Kid,5/15/1990,68,145,Power MMA,Featherweight,"Pacific, Missouri",United States
+/fighter/Dustin-Jacoby-73825,73825,Dustin Jacoby,,4/4/1988,76,185,Finney's HIT Squad,Middleweight,"Arenzville, Illinois",United States
+/fighter/Alptekin-Ozkilic-73826,73826,Alptekin Ozkilic,The Turkish Delight,3/27/1986,65,125,Bellmore Kickboxing Academy,Flyweight,"Long Island, New York",United States
+/fighter/Viktor-Pesta-74176,74176,Viktor Pesta,,7/15/1990,75,240,Penta Gym Prague,Heavyweight,Prague,Czech Republic
+/fighter/Ruslan-Magomedov-74434,74434,Ruslan Magomedov,Leopard,11/26/1986,75,249,Fight Club Berkut,Heavyweight,Dagestan,Russia
+/fighter/Kelvin-Gastelum-74700,74700,Kelvin Gastelum,,10/24/1991,69,170,Yuma United Mixed Martial Arts,Welterweight,"Yuma, Arizona",United States
+/fighter/Luke-Sanders-74975,74975,Luke Sanders,Cool Hand,12/12/1985,67,135,The MMA Lab,Bantamweight,"Clarksville, Tennessee",United States
+/fighter/Ashlee-Evans-Smith-75021,75021,Ashlee Evans-Smith,,7/9/1987,68,136,Reign MMA,Bantamweight,"Lake Forest, California",United States
+/fighter/Holly-Holm-75125,75125,Holly Holm,The Preacher's Daughter,10/17/1981,68,135,Jackson-Wink MMA,Bantamweight,"Albuquerque, New Mexico",United States
+/fighter/Mark-Eddiva-75370,75370,Mark Eddiva,,2/16/1986,68,145,Lakay MMA,Featherweight,,Philippines
+/fighter/Randa-Markos-75417,75417,Randa Markos,Quiet Storm,8/10/1985,65,115,TriStar Gym,Strawweight,"Windsor, Ontario",Canada
+/fighter/Josh-Copeland-75537,75537,Josh Copeland,Cuddly Bear,,73,245,Grudge Training Center,Heavyweight,"Denver, Colorado",United States
+/fighter/Raquel-Pennington-75564,75564,Raquel Pennington,Rocky,9/5/1988,67,135,Altitude MMA,Bantamweight,"Colorado Springs, Colorado",United States
+/fighter/Ruan-Potts-75842,75842,Ruan Potts,Fangzz,2/23/1978,74,251,Mark Robinson MMA,Heavyweight,"Cape Town, Western Cape",South Africa
+/fighter/Rob-Font-76100,76100,Rob Font,,6/25/1987,68,135,Team Sityodtong,Bantamweight,"Boston, Massachusetts",United States
+/fighter/Leonardo-Mafra-Texeira-76653,76653,Leonardo Mafra Texeira,Macarrao,4/25/1989,70,155,American Kickboxing Academy,Lightweight,"Santo Andre, Sao Paulo",Brazil
+/fighter/Jared-Rosholt-76763,76763,Jared Rosholt,The Big Show,8/4/1986,74,240,Team Takedown,Heavyweight,"Arlington, Texas",United States
+/fighter/Islam-Makhachev-76836,76836,Islam Makhachev,,9/27/1991,70,155,Fightspirit Team,Lightweight,"Makhachkala, Republic of Dagestan",Russia
+/fighter/Ben-Wall-78164,78164,Ben Wall,Manimal,3/25/1989,70,154,Gamebred Submission Fighting,Lightweight,"Brisbane, Queensland",Australia
+/fighter/Scott-Holtzman-78210,78210,Scott Holtzman,Hot Sauce,9/30/1983,69,155,Shield Systems,Lightweight,"Knoxville, Tennessee",United States
+/fighter/Andrew-Holbrook-78384,78384,Andrew Holbrook,,,71,155,Indy Boxing & Grappling,Lightweight,"Indianapolis, Indiana",United States
+/fighter/Clay-Collard-78465,78465,Clay Collard,Cassius,3/10/1993,71,145,The Pit Elevated Fight Team,Featherweight,"Price, Utah",United States
+/fighter/Tiago-dos-Santos-e-Silva-78479,78479,Tiago dos Santos e Silva,Trator,4/12/1987,70,155,Team Nogueira,Lightweight,"Almeirim, Para",Brazil
+/fighter/Jared-Cannonier-78628,78628,Jared Cannonier,The Killa Gorilla,,75,244,Gracie Barra Alaska,Heavyweight,"Anchorage, Alaska",United States
+/fighter/Teruto-Ishihara-78898,78898,Teruto Ishihara,Yashabo,7/23/1991,67,145,Chokushinkai,Featherweight,Osaka,Japan
+/fighter/Chris-Dempsey-79277,79277,Chris Dempsey,,9/8/1987,70,205,Cold Steel MMA,Light Heavyweight,"Johnstown, Pennsylvania",United States
+/fighter/Geane-Herrera-79290,79290,Geane Herrera,La Pulga,5/27/1990,65,125,Banks MMA,Flyweight,"Tampa, Florida",United States
+/fighter/Chris-Wade-79335,79335,Chris Wade,,9/30/1987,69,155,East Islip Kickboxing,Lightweight,"Long Island, New York",United States
+/fighter/Frankie-Perez-79784,79784,Frankie Perez,,5/11/1989,71,155,Ricardo Almeida Jiu-Jitsu,Lightweight,"Howell, New Jersey",United States
+/fighter/Magomed-Mustafaev-80231,80231,Magomed Mustafaev,,8/2/1988,69,155,Fight Club Berkut,Lightweight,"Sochi, Krasnodar Krai",Russia
+/fighter/Tony-Martin-80436,80436,Tony Martin,,12/11/1989,72,156,American Top Team,Lightweight,"St. Cloud, Minnesota",United States
+/fighter/Ernest-Chavez-80837,80837,Ernest Chavez,The Mad Titan,6/27/1983,68,146,Total MMA Studios,Featherweight,"Tustin, California",United States
+/fighter/Rodrigo-Goiana-de-Lima-81136,81136,Rodrigo Goiana de Lima,Monstro,3/3/1991,69,155,Coalizao Fight Team,Lightweight,"Macapa, Amapa",Brazil
+/fighter/Mickael-Lebout-81143,81143,Mickael Lebout,Ragnar,8/16/1987,71,155,MMA Factory,Lightweight,Paris,France
+/fighter/Ali-Bagautinov-81198,81198,Ali Bagautinov,Puncher,6/12/1985,64,125,Fight Nights Team,Flyweight,Dagestan,Russia
+/fighter/Roger-Zapata-81585,81585,Roger Zapata,Viva,,71,170,Bruno Tostes BJJ,Welterweight,"New York, New York",United States
+/fighter/Jonavin-Webb-81634,81634,Jonavin Webb,Spyder,4/28/1989,69,170,Renzo Gracie Philly,Welterweight,"Marlton, New Jersey",United States
+/fighter/Elias-Theodorou-81765,81765,Elias Theodorou,The Spartan,5/31/1988,73,185,Kros Gym,Middleweight,"Mississauga, Ontario",Canada
+/fighter/Diego-Rivas-81835,81835,Diego Rivas,Pitbull,11/11/1991,,143,Okinawa Dojo,Featherweight,,Chile
+/fighter/James-Vick-81956,81956,James Vick,The Texecutioner,2/23/1987,75,155,Team Lloyd Irvin,Lightweight,"Mineral Wells, Texas",United States
+/fighter/Ricardo-Abreu-82392,82392,Ricardo Abreu,Demente,4/27/1984,71,185,Wand Fight Team,Middleweight,"Ribeirao Preto, Sao Paulo",Brazil
+/fighter/Elizabeth-Phillips-83021,83021,Elizabeth Phillips,,8/20/1986,66,135,SikJitsu,Bantamweight,"Spokane, Washington",United States
+/fighter/Daniel-Jolly-83243,83243,Daniel Jolly,The Werewolf of Texas,9/3/1984,73,205,Rubicon Fightsport,Light Heavyweight,"Austin, Texas",United States
+/fighter/Omari-Akhmedov-83462,83462,Omari Akhmedov,Wolverine,10/12/1987,72,170,Jackson-Wink MMA,Welterweight,"Makhachkala, Dagestan",Russia
+/fighter/Jumabieke-Tuerxun-83505,83505,Jumabieke Tuerxun,The Wild Wolf,4/17/1986,66,135,Xian Sports University,Bantamweight,"Xi'an, Shaanxi",China
+/fighter/Jake-Collier-83599,83599,Jake Collier,,10/23/1988,75,185,Pit MMA,Middleweight,"Cuba, Missouri",United States
+/fighter/Jack-May-83949,83949,Jack May,The Outlaw,4/14/1981,80,253,CSW,Heavyweight,"Chino Hills, California",United States
+/fighter/Lewis-Gonzalez-84278,84278,Lewis Gonzalez,Lethal,9/19/1987,70,174,MMAGOLD Fight Team,Middleweight,"Turlock, California",United States
+/fighter/Kevin-Lee-84342,84342,Kevin Lee,The Motown Phenom,9/4/1992,69,155,Xtreme Couture,Lightweight,"Grand Rapids, Michigan",United States
+/fighter/Cain-Carrizosa-84645,84645,Cain Carrizosa,The Insane,7/22/1986,68,155,Elite Team,Lightweight,"Woodlake, California",United States
+/fighter/Jimmy-Quinlan-84661,84661,Jimmy Quinlan,Crash,,,185,Mass BJJ,Middleweight,"Methuen, Massachusetts",United States
+/fighter/Ray-Borg-84752,84752,Ray Borg,The Tazmexican Devil,8/4/1993,64,125,Fit NHB,Flyweight,"Albuquerque, New Mexico",United States
+/fighter/Rocky-Lee-84854,84854,Rocky Lee,,4/8/1987,69,145,AKA Thailand,Featherweight,,Taiwan
+/fighter/Bec-Rawlings-84964,84964,Bec Rawlings,Rowdy,2/11/1989,66,116,Gamebred Combat Club,Strawweight,"Brisbane, Queensland",Australia
+/fighter/Tecia-Torres-85096,85096,Tecia Torres,The Tiny Tornado,8/16/1989,61,115,American Top Team,Strawweight,"Fort Lauderdale, Florida",United States
+/fighter/Marcin-Wrzosek-85623,85623,Marcin Wrzosek,The Polish Zombie,10/14/1987,69,145,Gracie Barra Lodz,Featherweight,Bydgoszcz,Poland
+/fighter/Olivier-Aubin-Mercier-86241,86241,Olivier Aubin-Mercier,The Quebec Kid,2/23/1989,69,155,H2O MMA,Lightweight,"Boucherville, Quebec",Canada
+/fighter/Kyle-Bochniak-86246,86246,Kyle Bochniak,Killer B,,69,145,Broadway Jiu-Jitsu,Featherweight,"Boston, Massachusetts",United States
+/fighter/Anton-Zafir-86294,86294,Anton Zafir,The Professor,,,170,Whitsunday Martial Arts,Welterweight,"Airlie Beach, Queensland",Australia
+/fighter/Leandro-Silva-86382,86382,Leandro Silva,Buscape,11/11/1985,70,170,Team Buscape,Welterweight,"Sao Paulo, Sao Paulo",Brazil
+/fighter/Damian-Stasiak-86920,86920,Damian Stasiak,Webster,2/20/1990,68,145,United Gym,Featherweight,Lodz,Poland
+/fighter/Cesar-Arzamendia-87012,87012,Cesar Arzamendia,Goku,1/31/1991,71,145,Paraguay Combat Team,Featherweight,Asuncion,Paraguay
+/fighter/Bartosz-Fabinski-87101,87101,Bartosz Fabinski,,4/26/1986,72,184,WCA Fight Team,Middleweight,Warsaw,Poland
+/fighter/Mike-Rhodes-87296,87296,Mike Rhodes,Biggie,12/4/1989,73,170,Roufusport,Welterweight,"Waterloo, Iowa",United States
+/fighter/Thomas-Almeida-87865,87865,Thomas Almeida,Thominhas,7/31/1991,67,135,Chute Boxe,Bantamweight,"Sao Paulo, Sao Paulo",Brazil
+/fighter/Douglas-Silva-de-Andrade-87981,87981,Douglas Silva de Andrade,D'Silva,6/22/1985,67,135,Pitbull Brothers,Bantamweight,"Castanhal, Para",Brazil
+/fighter/Elias-Silverio-88613,88613,Elias Silverio,Xuxu,9/22/1986,71,155,Elias Silverio Team,Lightweight,"Pirapora do Bom Jesus, Sao Paulo",Brazil
+/fighter/Royston-Wee-88793,88793,Royston Wee,,11/15/1986,67,137,Impact MMA Singapore,N/A,,Singapore
+/fighter/Sultan-Aliev-89761,89761,Sultan Aliev,,9/17/1984,72,185,Champion,Middleweight,Derbent,Russia
+/fighter/Thiago-Santos-90021,90021,Thiago Santos,Marreta,1/7/1984,72,183,Tata Fight Team,Middleweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Cortney-Casey-91121,91121,Cortney Casey,Cast Iron,5/5/1987,62,115,Freak Animal Fitness,Strawweight,"Phoenix, Arizona",United States
+/fighter/Peggy-Morgan-91565,91565,Peggy Morgan,The Daywalker,12/6/1979,73,135,Triumph MMA,Bantamweight,"Manchester, New Hampshire",United States
+/fighter/Gilbert-Burns-91727,91727,Gilbert Burns,Durinho,7/20/1986,70,155,Blackzilians,Lightweight,"Niteroi, Rio de Janeiro",Brazil
+/fighter/Teemu-Packalen-92415,92415,Teemu Packalen,,5/22/1987,73,155,Finnfighters Gym,Lightweight,Turku,Finland
+/fighter/Justin-Jones-93683,93683,Justin Jones,Lazy Bones,,71,209,Victory MMA,Heavyweight,"San Diego, California",United States
+/fighter/Dave-Galera-93863,93863,Dave Galera,Scarecrow,,71,135,Lakay MMA,Bantamweight,"Baguio, Cordillera Administrative Region",Philippines
+/fighter/Joanne-Calderwood-94103,94103,Joanne Calderwood,JoJo,12/23/1986,66,116,Dinky Ninjas,Strawweight,Glasgow,Scotland
+/fighter/Marcio-Alexandre-Jr-95457,95457,Marcio Alexandre Jr.,Lyoto,5/3/1989,73,170,Team Tavares,Welterweight,"Florianopolis, Santa Catarina",Brazil
+/fighter/Marlon-Vera-97179,97179,Marlon Vera,Chito,12/2/1992,68,135,Team Frank Vidal 5050,Bantamweight,Chone,Ecuador
+/fighter/Taylor-Lapilus-97337,97337,Taylor Lapilus,Double Impact,4/8/1992,66,135,MMA Factory,Bantamweight,Paris,France
+/fighter/Arnold-Allen-97499,97499,Arnold Allen,Almighty,1/17/1994,69,145,BKK Fighters,Featherweight,"Felixstowe, Suffolk",England
+/fighter/Konstantin-Erokhin-98151,98151,Konstantin Erokhin,,1/2/1982,71,233,,Heavyweight,Moscow,Russia
+/fighter/Ericka-Almeida-98419,98419,Ericka Almeida,,3/5/1989,66,115,Team Nogueira,Strawweight,"Sorocaba, Sao Paulo",Brazil
+/fighter/Paige-VanZant-99019,99019,Paige VanZant,12 Gauge,3/26/1994,64,115,Team Alpha Male,Strawweight,"Sparks, Nevada",United States
+/fighter/Lucas-Martins-100031,100031,Lucas Martins,Mineiro,11/11/1988,72,145,Chute Boxe,Featherweight,"Montes Claros, Minas Gerais",Brazil
+/fighter/Jessica-Andrade-100715,100715,Jessica Andrade,Bate Estaca,9/25/1991,62,115,Parana Vale Tudo,Strawweight,"Umuarama, Parana",Brazil
+/fighter/Vernon-Ramos-100921,100921,Vernon Ramos,,6/3/1992,69,168,507 BJJ,Welterweight,,Panama
+/fighter/Chris-Heatherly-101117,101117,Chris Heatherly,Stump,,68,160,Fit or Fight,Welterweight,"Cahokia, Illinois",United States
+/fighter/Karolina-Kowalkiewicz-101401,101401,Karolina Kowalkiewicz,,10/15/1985,63,114,Gracie Barra Lodz,Strawweight,Lodz,Poland
+/fighter/Joanna-Jedrzejczyk-101411,101411,Joanna Jedrzejczyk,,8/18/1987,66,115,Berkut Arrachion Olsztyn,Strawweight,Olsztyn,Poland
+/fighter/Bethe-Correia-103069,103069,Bethe Correia,Pitbull,6/22/1983,64,135,,Bantamweight,"Campina Grande, Paraiba",Brazil
+/fighter/Oluwale-Bamgbose-103153,103153,Oluwale Bamgbose,The Holy War Angel,8/4/1987,71,185,Chute Boxe USA,Middleweight,"New York, New York",United States
+/fighter/Roldan-Sangchaan-103497,103497,Roldan Sangcha-an,The Executioner,12/4/1990,64,125,Lakay MMA,Flyweight,"Baguio, Cordillera Administrative Region",Philippines
+/fighter/Yair-Rodriguez-106305,106305,Yair Rodriguez,Pantera,,71,145,Ragnarok MMA,Featherweight,"Parral, Chihuahua",Mexico
+/fighter/Guilherme-Vasconcelos-108499,108499,Guilherme Vasconcelos,Bomba,3/23/1986,72,170,BH Rhinos,Welterweight,"Belo Horizonte, Minas Gerais",Brazil
+/fighter/Jonathan-Wilson-108571,108571,Jonathan Wilson,Johnny Bravo,,74,205,Millennia MMA,Light Heavyweight,"San Bernardino, California",United States
+/fighter/Alex-Oliveira-110143,110143,Alex Oliveira,Cowboy,2/21/1988,71,155,Tata Fight Team,Lightweight,"Tres Rios, Rio de Janeiro",Brazil
+/fighter/Nikita-Krylov-110937,110937,Nikita Krylov,,3/7/1992,75,205,Vale Tudo MMA Academy,Light Heavyweight,Kiev,Ukraine
+/fighter/Leonardo-Morales-111777,111777,Leonardo Morales,Chimmy,12/22/1992,71,137,Gladiadores MMA,N/A,Managua,Nicaragua
+/fighter/Freddy-Serrano-112413,112413,Freddy Serrano,Bam Bam,9/22/1979,62,125,Octagon MMA Colombia,Flyweight,Bogota,Colombia
+/fighter/Alexis-Dufresne-113687,113687,Alexis Dufresne,Sneaky Zebra,8/31/1990,69,143,Team Quest,Featherweight,"Temecula, California",United States
+/fighter/Damon-Jackson-113767,113767,Damon Jackson,The Leech,8/8/1988,71,145,Octagon MMA,Featherweight,"Dallas, Texas",United States
+/fighter/Marco-Polo-Reyes-114125,114125,Marco Polo Reyes,El Toro,,,155,,Lightweight,,Mexico
+/fighter/Randy-Brown-115641,115641,Randy Brown,Rude Boy,7/8/1990,74,171,Budokan Martial Arts Academy,Welterweight,Spanish Town,Jamaica
+/fighter/Wagner-Silva-Gomes-115911,115911,Wagner Silva Gomes,Wagnao,2/7/1987,72,185,Tata Fight Team,Middleweight,"Vicosa, Minas Gerais",Brazil
+/fighter/Kelly-Faszholz-117453,117453,Kelly Faszholz,,,68,145,Nor-Cal Fighting Alliance,Featherweight,"Santa Rosa, California",United States
+/fighter/Glaico-Franca-117927,117927,Glaico Franca,Nego,2/28/1991,72,155,Astra Fight Team,Lightweight,"Curitibanos, Santa Catarina",Brazil
+/fighter/Dashon-Johnson-120663,120663,Dashon Johnson,Fly Boy,1/25/1988,69,155,Team Xplode MMA,Lightweight,"Escondido, California",United States
+/fighter/Kamaru-Usman-120691,120691,Kamaru Usman,Marty / The Nigerian Nightmare,5/11/1988,72,170,Blackzilians,Welterweight,"Delray Beach, Florida",United States
+/fighter/Alex-Nicholson-121077,121077,Alex Nicholson,The Spartan,5/2/1990,76,227,,Heavyweight,"Apopka, Florida",United States
+/fighter/Jake-Matthews-122139,122139,Jake Matthews,The Celtic Kid,8/19/1994,69,156,Nexus,Lightweight,"Epping, Victoria",Australia
+/fighter/Izabela-Badurek-122349,122349,Izabela Badurek,,7/11/1991,64,115,WCA Fight Team,Strawweight,Lublin,Poland
+/fighter/Zhikui-Yao-122383,122383,Zhikui Yao,The Conqueror,2/7/1991,67,125,,Flyweight,,China
+/fighter/Bentley-Syler-123973,123973,Bentley Syler,Dr. Bolivia,12/22/1982,64,125,American Top Team,Flyweight,Santa Cruz,Bolivia
+/fighter/Henry-Cejudo-125297,125297,Henry Cejudo,The Messenger,2/9/1987,64,125,Fight Ready,Flyweight,"Phoenix, Arizona",United States
+/fighter/Levan-Makashvili-126881,126881,Levan Makashvili,The Hornet,1/7/1989,68,146,Mutant MMA,Featherweight,"Oceanside, New York",United States
+/fighter/Enrique-Barzola-129351,129351,Enrique Barzola,El Fuerte,4/25/1989,67,145,Pitbull Martial Arts Center,Featherweight,"El Agustino, Lima",Peru
+/fighter/Sage-Northcutt-130911,130911,Sage Northcutt,Super,3/1/1996,72,156,Gracie Barra Katy,Lightweight,"Katy, Texas",United States
+/fighter/Anying-Wang-135315,135315,Anying Wang,Smiley,4/4/1991,72,170,Phuket Top Team,Welterweight,,Mongolia
+/fighter/Joe-Merritt-138127,138127,Joe Merritt,Joey Slash,3/7/1984,72,169,Millennia MMA,Welterweight,"Rancho Cucamonga, California",United States
+/fighter/Antonio-Carlos-Jr-143157,143157,Antonio Carlos Jr.,Cara de Sapato,3/16/1990,73,185,American Top Team,Middleweight,"Salvador, Bahia",Brazil
+/fighter/Larissa-Pacheco-144115,144115,Larissa Pacheco,,9/7/1994,68,135,JB Jiu-Jitsu Team,Bantamweight,"Belem, Para",Brazil
+/fighter/Aleksandra-Albu-144949,144949,Aleksandra Albu,Stitch,7/14/1990,62,115,Red Fury Fight Team,Strawweight,Moscow,Russia
+/fighter/Joaquim-Silva-146291,146291,Joaquim Silva,Netto BJJ,2/5/1989,68,155,Evolucao Thai,Lightweight,"Anapolis, Goias",Brazil
+/fighter/Chris-de-la-Rocha-146377,146377,Chris de la Rocha,,,75,245,,Heavyweight,"Washougal, Washington",United States
+/fighter/Angela-Hill-148517,148517,Angela Hill,Overkill,1/12/1988,63,115,Evolution Muay Thai,Strawweight,"Brooklyn, New York",United States
+/fighter/Maryna-Moroz-151905,151905,Maryna Moroz,The Iron Woman,9/8/1991,67,115,YK Promotion,Strawweight,Dnipropetrovsk,Ukraine
+/fighter/Francis-Ngannou-152341,152341,Francis Ngannou,,9/5/1986,76,250,MMA Factory,Heavyweight,,France
+/fighter/Jose-Alberto-Quinonez-152627,152627,Jose Alberto Quinonez,El Teco,,68,135,Delincuentes MMA,Bantamweight,"Tlaltenango de Sanchez Roman, Zacatecas",Mexico
+/fighter/Mickey-Gall-160145,160145,Mickey Gall,,1/22/1992,,170,Miller Brothers MMA,Welterweight,"New Brunswick, New Jersey",United States
+/fighter/Augusto-Mendes-160663,160663,Augusto Mendes,Tanquinho,3/3/1983,66,135,Soul Fighters BJJ,Bantamweight,"Rio de Janeiro, Rio de Janeiro",Brazil
+/fighter/Corey-Anderson-171723,171723,Corey Anderson,Beastin 25/8,9/22/1989,75,205,The Kennel Fight Club,Light Heavyweight,"Rockton, Illinois",United States
+/fighter/Alexander-Torres-172645,172645,Alex Torres,Rolo,,70,145,Octagon MMA Colombia,Featherweight,Bogota,Colombia
+/fighter/Horacio-Gutierrez-172941,172941,Horacio Gutierrez,The Punisher,,70,145,Chicago Fight Team,Featherweight,"Guadalajara, Jalisco",Mexico
+url,fid,name,nick,birth_date,height,weight,association,class,locality,country

@@ -1,2 +1,2 @@
-# resource-datasets
-A resource for those exploring data analysis machine learning.
+# datasets
+Datasets curated for DSI baseline materials

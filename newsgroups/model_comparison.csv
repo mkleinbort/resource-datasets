@@ -1,0 +1,7 @@
+model,score
+KNeighborsClassifier,0.263858093126
+LogisticRegression,0.728011825573
+DecisionTreeClassifier,0.607538802661
+SVC,0.291204730229
+RandomForestClassifier,0.653362897265
+ExtraTreesClassifier,0.663710273466
